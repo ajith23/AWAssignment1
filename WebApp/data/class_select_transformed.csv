@@ -1,0 +1,819 @@
+timestamp,operation,url,text,u_id
+1.44495E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort,"public static void mergesort(int[] data) {     int elements = data.length - 1;",A0042
+1.44495E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort,"public static void mergesort(int[] data) {     int elements = data.length - 1;",A0042
+1.44551E+12,select,http://stackoverflow.com/questions/20429840/java-add-two-tabs-into-jpanel,"import java.awt.BorderLayout; import javax.swing.JButton;",A0042
+1.44551E+12,select,http://stackoverflow.com/questions/20429840/java-add-two-tabs-into-jpanel,"JTabbedPane(); ",A0042
+1.44551E+12,select,http://stackoverflow.com/questions/20429840/java-add-two-tabs-into-jpanel,"import java.awt.BorderLayout; import javax.swing.JButton;",A0042
+1.44552E+12,select,http://stackoverflow.com/questions/14999392/count-button-clicks,"mport java.awt.BorderLayout; import j",A0042
+1.44552E+12,select,http://stackoverflow.com/questions/14999392/count-button-clicks,"a",A0042
+1.44552E+12,select,http://stackoverflow.com/questions/14999392/count-button-clicks,"import java.awt.BorderLayout; import java.awt.EventQueue;",A0042
+1.44552E+12,select,http://stackoverflow.com/questions/8183426/factorial-using-recursion-in-java,"class Calculation {",A0042
+1.44552E+12,select,http://stackoverflow.com/questions/8183426/factorial-using-recursion-in-java,"     }",A0042
+1.44552E+12,select,http://stackoverflow.com/questions/8183426/factorial-using-recursion-in-java,"     }",A0042
+1.44552E+12,select,http://stackoverflow.com/questions/8183426/factorial-using-recursion-in-java,"  do not create one more variable",A0042
+1.44552E+12,select,http://stackoverflow.com/questions/8183426/factorial-using-recursion-in-java,"  do not create one more variable",A0042
+1.44552E+12,select,http://stackoverflow.com/questions/8183426/factorial-using-recursion-in-java,"import java.util.Scanner; ",A0042
+1.44552E+12,select,http://stackoverflow.com/questions/14999392/count-button-clicks,"import java.awt.BorderLayout; import java.awt.EventQueue;",A0042
+1.44367E+12,select,http://stackoverflow.com/questions/2536873/how-can-i-set-size-of-a-button,"setPreferredSize",A0041
+1.44367E+12,select,http://stackoverflow.com/questions/2536873/how-can-i-set-size-of-a-button,"setPreferredSize",A0041
+1.44367E+12,select,http://stackoverflow.com/questions/2536873/how-can-i-set-size-of-a-button,"setPreferredSize",A0041
+1.44367E+12,select,http://stackoverflow.com/questions/2536873/how-can-i-set-size-of-a-button,"        btn.setPreferredSize(new Dimension(40, 40)); ",A0041
+1.44385E+12,select,http://stackoverflow.com/questions/20099397/how-to-copy-an-item-from-jlist-to-another," Stack Overflow",A0041
+1.4474E+12,select,http://stackoverflow.com/questions/15958495/linked-lists-remove-element-at-an-index,"if (index < 0) {",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/26699089/infix-to-postfix-using-stacks-java,"s",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/2742198/java-operator-precedence-comparison,"default",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/5034580/comparing-chars-in-java,"to ",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/5034580/comparing-chars-in-java,"If you have a character you'll first need to convert it to a string before you can use a regular expression: ",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/5034580/comparing-chars-in-java,"If you have a character you'll first need to convert it to a string before you can use a regular expression: ",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/5034580/comparing-chars-in-java,"toString",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/5034580/comparing-chars-in-java,"matches",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/5034580/comparing-chars-in-java,"A-Z",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/5034580/comparing-chars-in-java,"A-Z",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/5034580/comparing-chars-in-java,"A-Z",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/5034580/comparing-chars-in-java,"[A-Z?]",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/5034580/comparing-chars-in-java,"[A-Z?]",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/5034580/comparing-chars-in-java," Do I need to write it like:",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/26699089/infix-to-postfix-using-stacks-java,"!isOperator",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/26699089/infix-to-postfix-using-stacks-java,"= ",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/26699089/infix-to-postfix-using-stacks-java,"= ",A0041
+1.44792E+12,select,http://stackoverflow.com/questions/26699089/infix-to-postfix-using-stacks-java,"*",A0041
+1.44373E+12,select,http://stackoverflow.com/questions/4976838/jlists-number-of-elements-in-the-list,"myJList.getModel().getSize();",A0048
+1.44494E+12,select,http://stackoverflow.com/questions/16987727/removing-last-object-of-arraylist-in-java,"remove(list.size() - 1)",A0048
+1.44649E+12,select,http://stackoverflow.com/questions/367626/how-do-i-fix-the-expression-of-type-list-needs-unchecked-conversion,"ning-free approach ",A0048
+1.44247E+12,select,http://stackoverflow.com/questions/698261/how-do-you-format-a-fractional-percentage-with-java-text-messageformat,"setMaximumFractionDigits",A0044
+1.44247E+12,select,http://stackoverflow.com/questions/698261/how-do-you-format-a-fractional-percentage-with-java-text-messageformat,"NumberFormat percentFormat = NumberFormat.getPercentInstance(); percentFormat.setMaximumFractionDigits(1);",A0044
+1.44654E+12,select,http://stackoverflow.com/questions/5601232/finding-the-minimum-of-an-array-using-recursion,"f (index == elements.length - 1) {     return elements[index];",A0044
+1.44408E+12,select,http://stackoverflow.com/questions/1046809/string-contains-in-java,"contains",A0029
+1.44485E+12,select,http://stackoverflow.com/questions/4137563/creating-panels-with-radio-buttons-that-change-text-using-arrays,"size = new JRadioButton[7];",A0029
+1.44494E+12,select,http://stackoverflow.com/questions/27968757/java-swing-button-group-setselected-function," up vote",A0029
+1.44152E+12,select,http://stackoverflow.com/questions/ask,"li $t1, some_number",A0066
+1.44152E+12,select,http://stackoverflow.com/questions/ask,"li $t1, some_number",A0066
+1.44152E+12,select,http://stackoverflow.com/questions/ask,"li $t1, some_number",A0066
+1.4421E+12,select,http://stackoverflow.com/questions/12207574/programmatically-change-the-desktop-wallpaper-periodically,"import java.util.*; ",A0066
+1.44256E+12,select,http://stackoverflow.com/questions/ask,"enter code here",A0066
+1.44256E+12,select,http://stackoverflow.com/questions/ask,"enter code here",A0066
+1.44256E+12,select,http://stackoverflow.com/questions/ask,"enter code here",A0066
+1.44256E+12,select,http://stackoverflow.com/questions/ask,"enter code here",A0066
+1.44256E+12,select,http://stackoverflow.com/questions/ask,"enter code here",A0066
+1.44256E+12,select,http://stackoverflow.com/questions/ask,"i",A0066
+1.44256E+12,select,http://stackoverflow.com/questions/ask,"i",A0066
+1.44256E+12,select,http://stackoverflow.com/questions/ask,"enter code here",A0066
+1.44256E+12,select,http://stackoverflow.com/questions/32646007/how-to-return-an-abstract-type,"I tried this and it works, however ",A0066
+1.44256E+12,select,http://stackoverflow.com/questions/32646007/how-to-return-an-abstract-type,"I tried this and it works, however ",A0066
+1.44256E+12,select,http://stackoverflow.com/questions/32646007/how-to-return-an-abstract-type,"I tried this and it works, however ",A0066
+1.4426E+12,select,http://stackoverflow.com/questions/9189926/java-percentage-to-show-decimals,"numberFormat.setMinimumFractionDigits(3);",A0066
+1.4434E+12,select,http://stackoverflow.com/search?q=jtextarea+getText," 1 2",A0066
+1.44489E+12,select,http://stackoverflow.com/questions/ask,"enter code here",A0066
+1.44489E+12,select,http://stackoverflow.com/questions/ask,"enter code here",A0066
+1.44489E+12,select,http://stackoverflow.com/questions/ask,"enter code here",A0066
+1.44489E+12,select,http://stackoverflow.com/questions/ask,"enter code here",A0066
+1.44531E+12,select,http://stackoverflow.com/questions/11496700/how-to-use-printwriter-and-file-classes-in-java," in Java? ",A0066
+1.44496E+12,select,http://stackoverflow.com/questions/10768619/paint-and-repaint-in-java," This method holds instructions to paint this component. Actually, in Swing, you should change paintComponent() instead of paint(), as paint calls paintBorder(), paintComponent() and paintChildren(). You shouldn't call this method directly, you should call repaint() instead.",A0043
+1.44498E+12,select,http://stackoverflow.com/questions/3515496/java-remove-last-known-item-from-arraylist,"remove(clients.size() - 1);",A0043
+1.44727E+12,select,http://stackoverflow.com/questions/12678781/reversing-an-array-in-java,"for (i = 0; i < array.length / 2; i++) {   int temp = array[i];",A0043
+1.44727E+12,select,http://stackoverflow.com/questions/12678781/reversing-an-array-in-java,"for (i = 0; i < array.length / 2; i++) {   int temp = array[i];",A0043
+1.44727E+12,select,http://stackoverflow.com/questions/12678781/reversing-an-array-in-java,"for (i = 0; i < array.length / 2; i++) {   int temp = array[i];",A0043
+1.44728E+12,select,http://stackoverflow.com/questions/9459557/java-remove-duplicates-from-linked-list," ",A0043
+1.44728E+12,select,http://stackoverflow.com/questions/9459557/java-remove-duplicates-from-linked-list," ",A0043
+1.44728E+12,select,http://stackoverflow.com/questions/9459557/java-remove-duplicates-from-linked-list,"  ",A0043
+1.44728E+12,select,http://stackoverflow.com/questions/15242702/remove-all-occurrences-of-item-from-a-linked-list,"current.getNextNode but you delete using the element index. You should look in the rest of your implementation how this index is managed. Does the first element have index 0 or 1 (you start your loop with 1). What happens to the indexes of all elements when you remove one. Do the elements know their index ? ",A0043
+1.44728E+12,select,http://stackoverflow.com/questions/15242702/remove-all-occurrences-of-item-from-a-linked-list,"current.getNextNode but you delete using the element index. You should look in the rest of your implementation how this index is managed. Does the first element have index 0 or 1 (you start your loop with 1). What happens to the indexes of all elements when you remove one. Do the elements know their index ? ",A0043
+1.44728E+12,select,http://stackoverflow.com/questions/15594921/java-custom-singly-linked-list-delete-all-occurrences-of-elements-with-a-par," int deleted_nodes_cnt = 0;   ...",A0043
+1.44728E+12,select,http://stackoverflow.com/questions/15594921/java-custom-singly-linked-list-delete-all-occurrences-of-elements-with-a-par," int deleted_nodes_cnt = 0;   ...",A0043
+1.44073E+12,select,http://stackoverflow.com/search?q=java+convert+user+input+into+an+array,"va convert user input into an array",A0039
+1.4414E+12,select,http://stackoverflow.com/search?q=call%20method%20of%20another%20class%20within%20a%20class%20method&s=90278a54-ec03-4db9-a56c-a9ec4c99c390," within a class method",A0039
+1.44408E+12,select,http://stackoverflow.com/search?q=BoxLayout+cannot+be+shared,"cannot",A0039
+1.4441E+12,select,http://stackoverflow.com/search?q=clear+textfield+after+button+pushed,"button pushed",A0039
+1.4441E+12,select,http://stackoverflow.com/search?q=clear+textfield+after+event+JAva,"Ava",A0039
+1.44495E+12,select,http://stackoverflow.com/search?q=how+to+get+elements+from+arraylist,"arraylist",A0071
+1.44495E+12,select,http://stackoverflow.com/search?q=how+to+get+elements+from+arraylist,"how to get elements from arraylist",A0071
+1.44495E+12,select,http://stackoverflow.com/search?q=how+to+get+elements+from+arraylist,"how to get elements from arraylist",A0071
+1.44134E+12,select,http://stackoverflow.com/questions/2542451/can-i-pass-a-child-class-to-a-reference-of-a-parent-class,"lass SubB which is a child class of B: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/2542451/can-i-pass-a-child-class-to-a-reference-of-a-parent-class,"lass SubB which is a child class of B: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/2542451/can-i-pass-a-child-class-to-a-reference-of-a-parent-class,"y code, I create a SubB and pass it to A: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/2542451/can-i-pass-a-child-class-to-a-reference-of-a-parent-class,"y code, I create a SubB and pass it to A: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/24645741/im-trying-to-access-a-private-variable-from-a-sub-class,"ate int shares; private int pricePerShare;",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/24645741/im-trying-to-access-a-private-variable-from-a-sub-class,"shares;",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/24645741/im-trying-to-access-a-private-variable-from-a-sub-class,"ou can add accessor and mutator methods (or getters",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/24645741/im-trying-to-access-a-private-variable-from-a-sub-class,"dd accessor and mutator methods (or gette",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/24645741/im-trying-to-access-a-private-variable-from-a-sub-class,"hares; private int pricePerS",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/24645741/im-trying-to-access-a-private-variable-from-a-sub-class,"ord record = Q.front(); // <-- I assume your Q contains Record(s).  if (record.getShares() >= sel",A0084
+1.44134E+12,select,http://stackoverflow.com/search?q=java%20car%20makes%20inheritance&s=91e11bff-c975-4495-aca0-ae9600210da4,"car makes inheritance",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/31559666/inheritance-getter-and-tostring-java,"uck on getter method in subclass. Here is the Point clas",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/31559666/inheritance-getter-and-tostring-java,"uck on getter method in subclass. Here is the Point clas",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/31559666/inheritance-getter-and-tostring-java,"re LineSub class:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/31559666/inheritance-getter-and-tostring-java,"re LineSub class:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/31559666/inheritance-getter-and-tostring-java," up vote",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/31559666/inheritance-getter-and-tostring-java," up vote",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/31559666/inheritance-getter-and-tostring-java," up vote",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/29353240/how-do-i-print-using-tostring-using-inheritance-in-java," out while using the return super.toString(), but Iget errors saying cannot find symbol for stus, but I have it right before starting the s",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/29353240/how-do-i-print-using-tostring-using-inheritance-in-java," public class StuTest2",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/29353240/how-do-i-print-using-tostring-using-inheritance-in-java," public class StuTest2",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/2871952/how-do-i-get-is-it-possible-to-a-reference-to-the-class-that-creates-an-instan," up vote",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/2871952/how-do-i-get-is-it-possible-to-a-reference-to-the-class-that-creates-an-instan," create a new instance of a class that needs a member of the calling class. But i can't pass a reference to the calling class through the constructor. ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/2871952/how-do-i-get-is-it-possible-to-a-reference-to-the-class-that-creates-an-instan," create a new instance of a class that needs a member of the calling class. But i can't pass a reference to the calling class through the constructor. ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/2871952/how-do-i-get-is-it-possible-to-a-reference-to-the-class-that-creates-an-instan,"emberFromCallingClass()",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/2871952/how-do-i-get-is-it-possible-to-a-reference-to-the-class-that-creates-an-instan,".WriteLine(trace.GetFrame(1).GetMethod()",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/2871952/how-do-i-get-is-it-possible-to-a-reference-to-the-class-that-creates-an-instan,"GetMethods or 'GetMember' or similar on the reflected type to get out the actual method you want. ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/20044199/create-object-using-abstract-classes,"d better oop ,but I don't understand how to use abstract classes. I have a car class, and a car can be mercedes , audi and volvo. Mercedes cars can have 5 passengers ,can open door and block windows; audi car can have 6 passengers, and just can open door. Volvo car can only have 3 passengers. So, in order to do this, I created an interface:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/20044199/create-object-using-abstract-classes,"d better oop ,but I don't understand how to use abstract classes. I have a car class, and a car can be mercedes , audi and volvo. Mercedes cars can have 5 passengers ,can open door and block windows; audi car can have 6 passengers, and just can open door. Volvo car can only have 3 passengers. So, in order to do this, I created an interface:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/20044199/create-object-using-abstract-classes,"nterface Car{ void openDoor();",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/20044199/create-object-using-abstract-classes,"nterface Car{ void openDoor();",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/20044199/create-object-using-abstract-classes,"ublic interface Car{ void openDoor();",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"In order to run your program, you have to have a main method.",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"he two parts to the trouble you're having: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"he two parts to the trouble you're having: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"You have to understand what static and non-static mean.",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"You have to understand what static and non-static mean.",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"st, as mentioned by others, you can't just have a method run because it's declared and defined in your class. You actually need to have it called, directly or indirectly, by the main method. The main method is written like this:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"ou have to understand what static and non-static mean. First, as mentioned by others, you can't just have a method run because it's declared and defined in your class. You actually need to have it called, directly or indirectly, by the main method. The main method is written like this:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"ou have to understand what static and non-static mean. First, as mentioned by others, you can't just have a method run because it's declared and defined in your class. You actually need to have it called, directly or indirectly, by the main method. The main method is written like this:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class," up vote",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class," up vote",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"n order to run your program, you have to have a main method. You have to understand what static and non-static mean.",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"to the trouble you're having: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"to the trouble you're having: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"public static void main(String[] args) {",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"public static void main(String[] args) {",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"ic static void main(String[] args) {     // Do Stuff",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"tand the difference between classes and obj",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"tand the difference between classes and obj",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"ints. They d",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"public class StuffDoer {     public void doStuff {",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"public class StuffDoer {     public void doStuff {",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"public class StuffDoer {     public void doStuff {",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class," Instead, you can first create a new instance object of your class inside of the main method, and then call the non-static instance method off of your instance object:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class," Instead, you can first create a new instance object of your class inside of the main method, and then call the non-static instance method off of your instance object:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"d, you can first create a new instance object of your class inside of the main method, and then call the non-static instance method off of your instance object: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"d, you can first create a new instance object of your class inside of the main method, and then call the non-static instance method off of your instance object: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"lic class StuffDoer {     public void doStuff {",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"Instead, you can first create a new instance object of your class inside of the main method, and then call the non-static instance method off of your instance object:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"  Here's the two parts to the trouble you're having:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"  Here's the two parts to the trouble you're having:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"Instead, you can first create a new instance object of your class inside of the main method, and then call the non-static instance method off of your instance object:",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class," }",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class," }",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"mething like this won't work: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"mething like this won't work: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"ethod, you will notice, is static. It belongs to the class it's declared in, rather than to any instance objects. This means, outside of itself, the main method knows only about the class that it's in, and any other static methods or objects in that class. Things that are not static belong to the actual objects created from the class -- and the main method will know nothing about these actual objects, unless they are created inside of the main method itself. ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"ethod, you will notice, is static. It belongs to the class it's declared in, rather than to any instance objects. This means, outside of itself, the main method knows only about the class that it's in, and any other static methods or objects in that class. Things that are not static belong to the actual objects created from the class -- and the main method will know nothing about these actual objects, unless they are created inside of the main method itself. ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"ice, is static. It belongs to the class it's declared in, rather than to any instance objects. This means, outside of itself, the main method knows only about the class that it's in, and any other static methods or objects in that class. Things that are not static belong to the actual objects created from the class -- and the main method will know nothing about these actual objects, unless they are created inside of the main method itself. ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"ice, is static. It belongs to the class it's declared in, rather than to any instance objects. This means, outside of itself, the main method knows only about the class that it's in, and any other static methods or objects in that class. Things that are not static belong to the actual objects created from the class -- and the main method will know nothing about these actual objects, unless they are created inside of the main method itself. ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/20044199/create-object-using-abstract-classes,"dows; audi car can have 6 passengers, and just can open door. Volvo car can only have 3 passengers. So, in order to do this, I created an interface: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/20044199/create-object-using-abstract-classes,"dows; audi car can have 6 passengers, and just can open door. Volvo car can only have 3 passengers. So, in order to do this, I created an interface: ",A0084
+1.44134E+12,select,http://stackoverflow.com/questions/19980913/java-print-method-wont-work-in-class,"ic static void main(String[] args) {         doStuff();  // Won't work!",A0084
+1.44139E+12,select,http://stackoverflow.com/questions/188547/eclipse-reading-stdin-system-in-from-a-file," Also check this other question for an answer involving launching a J",A0084
+1.44139E+12,select,http://stackoverflow.com/questions/188547/eclipse-reading-stdin-system-in-from-a-file,"System.setIn(new FileInputStream(filename));",A0084
+1.44255E+12,select,http://stackoverflow.com/questions/23530173/could-not-find-or-load-main-class-error-while-running-java-program-using-cmd-p,"org.tij.exercises;",A0084
+1.44255E+12,select,http://stackoverflow.com/questions/9189926/java-percentage-to-show-decimals,"o that using NumberFormat in Java. Below is the sample code: ",A0084
+1.44259E+12,select,http://stackoverflow.com/questions/9189926/java-percentage-to-show-decimals,"an do that using NumberFormat in Java. Below is the sample code: ",A0084
+1.44259E+12,select,http://stackoverflow.com/questions/9189926/java-percentage-to-show-decimals,"an do that using NumberFormat in Java. Below is the sample code: ",A0084
+1.44259E+12,select,http://stackoverflow.com/questions/9189926/java-percentage-to-show-decimals,"tNumberInstance(); numberFormat.se",A0084
+1.44259E+12,select,http://stackoverflow.com/questions/9189926/java-percentage-to-show-decimals,"s multiplied by 100 for yo",A0084
+1.44259E+12,select,http://stackoverflow.com/questions/698261/how-do-you-format-a-fractional-percentage-with-java-text-messageformat," the javadoc of java.text.DecimalFormat. ",A0084
+1.44259E+12,select,http://stackoverflow.com/questions/698261/how-do-you-format-a-fractional-percentage-with-java-text-messageformat," the javadoc of java.text.DecimalFormat. ",A0084
+1.44259E+12,select,http://stackoverflow.com/questions/4738853/java-decimal-format-parse-to-return-double-value-with-specified-number-of-deci,"matterUK.format(valCEWithUKFormat.doubleValue() ); This will give you the output of 1,235",A0084
+1.44259E+12,select,http://stackoverflow.com/questions/9189926/java-percentage-to-show-decimals,"ent.format(InterestRate));",A0084
+1.44259E+12,select,http://stackoverflow.com/questions/9189926/java-percentage-to-show-decimals,".getNumberInstance(someL",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator," in semantics. If a is null, then a.concat(b) NPEs but a+=b will treat the original value of a as if it were null. Furthermore",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator,"with javap -c (included in the Sun JDK). You should see a list",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator,"with javap -c (included in the Sun JDK). You should see a list",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator,"s if it were null. Furthermore, the concat() method only accepts String values while the + operator will silently convert the argument to a Strin",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator,"s if it were null. Furthermore, the concat() method only accepts String values while the + operator will silently convert the argument to a Strin",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator," down vote",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator," down vote",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator," convert the argument to a String (using the toString() method for objects). So the concat() method is more strict in what it accepts. ",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator," convert the argument to a String (using the toString() method for objects). So the concat() method is more strict in what it accepts. ",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator," accepted",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator," accepted",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator,"o the concat() method is more strict in what it accepts. ",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator,"o the concat() method is more strict in what it accepts. ",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator,"  No, not quite.",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/7817951/string-concatenation-in-java-when-to-use-stringbuilder-and-concat,"n should we use + for concatenation of strings, when is StringBuilder preferred and When is it suitable to use concat. ",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/7817951/string-concatenation-in-java-when-to-use-stringbuilder-and-concat,"n should we use + for concatenation of strings, when is StringBuilder preferred and When is it suitable to use concat. ",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator,"append(a)     .append(b)",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator,"se {         char ac[] = new char[count + i];",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator,"String concatenation: concat() vs + operator ",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/47605/string-concatenation-concat-vs-operator,"String concatenation: concat() vs + operator ",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/26446193/converting-a-do-while-loop-into-a-while-loop,"int length = word.length(); if (length > 1)",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/26446193/converting-a-do-while-loop-into-a-while-loop," length = word.length(); if (length > 1)",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/26446193/converting-a-do-while-loop-into-a-while-loop," length = word.length(); if (length > 1)",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/26446193/converting-a-do-while-loop-into-a-while-loop,"         word[length - 1] = ch;",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/26446193/converting-a-do-while-loop-into-a-while-loop,"nt length = word.length(); if (length > 1)",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/26446193/converting-a-do-while-loop-into-a-while-loop,"         ch = word[i];",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/26446193/converting-a-do-while-loop-into-a-while-loop,"ord[i] = word[length - 1];         word[length - 1] = ch;",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/26446193/converting-a-do-while-loop-into-a-while-loop,"ord[i] = word[length - 1];         word[length - 1] = ch;",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/26446193/converting-a-do-while-loop-into-a-while-loop,"         ch = word[i];",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/26446193/converting-a-do-while-loop-into-a-while-loop,"         ch = word[i];",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java,"nt to test whether two strings have the same value you sh",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java,"ntly, if you want to test whether two strings have the same value you should use .equals().",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java,"ntly, if you want to test whether two strings have the same value you should use .equals().",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/15764228/compare-two-numeric-string-values,"eturns an int type. And then c",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/15764228/compare-two-numeric-string-values,"eturns an int type. And then c",A0084
+1.4429E+12,select,http://stackoverflow.com/questions/15764228/compare-two-numeric-string-values,"And then comparison is sam",A0084
+1.44401E+12,select,http://stackoverflow.com/questions/10093122/how-to-centre-the-buttons-in-my-jframe,".add(buttons[i]);",A0084
+1.44429E+12,select,http://stackoverflow.com/questions/15443704/how-can-i-check-a-negative-solution-of-a-twos-complement-subtraction-equation,"e the answer that's in binary, I can't seem to equate it out to the decimal answer before applying twos complement and adding the numbers. ",A0084
+1.44429E+12,select,http://stackoverflow.com/questions/15443704/how-can-i-check-a-negative-solution-of-a-twos-complement-subtraction-equation,"e the answer that's in binary, I can't seem to equate it out to the decimal answer before applying twos complement and adding the numbers. ",A0084
+1.44462E+12,select,http://stackoverflow.com/questions/8176457/importing-other-classes-into-this-class,"wClient.java file now? Also, what package declaration are you using in MyWebViewClient.java? ",A0084
+1.44486E+12,select,http://stackoverflow.com/questions/15073477/java-swing-radiobuttons,"thing seems correct but ... it does not w",A0084
+1.44486E+12,select,http://stackoverflow.com/questions/15073477/java-swing-radiobuttons,"Add in your constructor also initialization of ChoiceListener",A0084
+1.44486E+12,select,http://stackoverflow.com/questions/15073477/java-swing-radiobuttons,"listener",A0084
+1.44499E+12,select,http://stackoverflow.com/questions/25350328/setting-listener-to-jcolorchooser," accepted",A0084
+1.44499E+12,select,http://stackoverflow.com/questions/25350328/setting-listener-to-jcolorchooser," accepted",A0084
+1.44499E+12,select,http://stackoverflow.com/questions/23704024/painting-app-with-color-chooser,"(black, Color.BLACK);     colors.put(magenta, Color.MAGENTA);",A0084
+1.44499E+12,select,http://stackoverflow.com/questions/23704024/painting-app-with-color-chooser,"colors.put(red, Color.RED);     colors.put(black, Color.BLACK);",A0084
+1.44499E+12,select,http://stackoverflow.com/questions/23704024/painting-app-with-color-chooser,"colors.put(red, Color.RED);     colors.put(black, Color.BLACK);",A0084
+1.44499E+12,select,http://stackoverflow.com/questions/23704024/painting-app-with-color-chooser,"     colors.put(red, Color.RED);",A0084
+1.44499E+12,select,http://stackoverflow.com/questions/23704024/painting-app-with-color-chooser,"     colors.put(red, Color.RED);",A0084
+1.44499E+12,select,http://stackoverflow.com/questions/23704024/painting-app-with-color-chooser,"pRadioButtons.add(magenta);     jpRadioButtons.add(blue);",A0084
+1.44499E+12,select,http://stackoverflow.com/questions/23704024/painting-app-with-color-chooser,"pRadioButtons.add(magenta);     jpRadioButtons.add(blue);",A0084
+1.44499E+12,select,http://stackoverflow.com/questions/23704024/painting-app-with-color-chooser,"     jpRadioButto",A0084
+1.44499E+12,select,http://stackoverflow.com/questions/23704024/painting-app-with-color-chooser,"ons.setLayout(new GridLayout(3, 1)); ",A0084
+1.44609E+12,select,http://stackoverflow.com/questions/369512/how-to-compare-objects-by-multiple-fields,"     private String firstName;",A0084
+1.44609E+12,select,http://stackoverflow.com/questions/13978754/exception-handling-with-wrong-user-input-java,"nputMismatchException ime",A0084
+1.44609E+12,select,http://stackoverflow.com/questions/13978754/exception-handling-with-wrong-user-input-java,"bject selection = scanner.nextInt(), and then cast to an int, you can merely have int selection = scanner.nextInt() and surround that in a try catch that chatches java.util.InputMismatchException, which is the ex",A0084
+1.44609E+12,select,http://stackoverflow.com/questions/4404084/find-if-a-value-exists-in-arraylist,"activeoldestvotes up vote",A0084
+1.44609E+12,select,http://stackoverflow.com/questions/4073039/calling-one-variable-of-a-class-in-another-class," I am new to the java programming. I have a instance variable in a class which I should call to another class.It should not be static as per the requirements.The code given ",A0084
+1.44684E+12,select,http://stackoverflow.com/questions/3920602/get-specific-arraylist-item,"mainList[3]? ",A0084
+1.44684E+12,select,http://stackoverflow.com/questions/3920602/get-specific-arraylist-item,"et(3)",A0084
+1.44684E+12,select,http://stackoverflow.com/questions/3920602/get-specific-arraylist-item,"et(3)",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/5236486/adding-items-to-end-of-linked-list,"ject data;     Node next;",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/5236486/adding-items-to-end-of-linked-list,"ject data;     Node next;",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/4670631/how-to-implement-a-linked-list-in-java," up vote",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/4670631/how-to-implement-a-linked-list-in-java,"trying to implement a simple HashTable in Java that uses a Linked List for collision resolution, which is pretty easy to do in C, but I don't know how to do it in Java, as you can't use pointers... ",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/4670631/how-to-implement-a-linked-list-in-java,"trying to implement a simple HashTable in Java that uses a Linked List for collision resolution, which is pretty easy to do in C, but I don't know how to do it in Java, as you can't use pointers... ",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/354875/reversing-a-linked-list-in-java-recursively,"and answering tiny questions (this is the approach in The Little Lisper): ",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/354875/reversing-a-linked-list-in-java-recursively,"istNode Reverse(ListNode list)",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/354875/reversing-a-linked-list-in-java-recursively,"f (list == null) return null; // first question ",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/354875/reversing-a-linked-list-in-java-recursively,"f (list == null) return null; // first question ",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/354875/reversing-a-linked-list-in-java-recursively,"f (list == null) return null; // first question ",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/354875/reversing-a-linked-list-in-java-recursively,"f (list == null) return null; // first question ",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/354875/reversing-a-linked-list-in-java-recursively,"f (list == null) return null; // first question ",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/354875/reversing-a-linked-list-in-java-recursively,"e reverseRest = Reverse(sec",A0084
+1.44745E+12,select,http://stackoverflow.com/questions/354875/reversing-a-linked-list-in-java-recursively,"e reverseRest = Reverse(sec",A0084
+1.44746E+12,select,http://stackoverflow.com/questions/15799034/insertion-sort-vs-selection-sort,"ith the smallest element on the right hand side of the current element. ",A0084
+1.44763E+12,select,http://stackoverflow.com/questions/15799034/insertion-sort-vs-selection-sort,"current element and exchange it w",A0084
+1.44764E+12,select,http://stackoverflow.com/questions/680541/quick-sort-vs-merge-sort,"efficiently implemented on most architectures, and in most real-world data, it is possible to make design choices which minimize the probability of requiring quadratic time.",A0084
+1.44764E+12,select,http://stackoverflow.com/questions/15452255/recursion-removing-duplicates,"ic static void removeDuplicates(ArrayList<Integer> list, int counter){ ",A0084
+1.44764E+12,select,http://stackoverflow.com/questions/15452255/recursion-removing-duplicates,"         if(list == null){",A0084
+1.44764E+12,select,http://stackoverflow.com/questions/15452255/recursion-removing-duplicates,"         if(list == null){",A0084
+1.44764E+12,select,http://stackoverflow.com/questions/15452255/recursion-removing-duplicates,"emoveDuplicates(ArrayList<Integer> list, int counter){ ",A0084
+1.44237E+12,select,http://stackoverflow.com/search?q=how+to+take+off+certain+decimal+places+in+java,"how to take off certain decimal places in java",A0020
+1.44476E+12,select,http://stackoverflow.com/questions/3342651/how-can-i-delay-a-java-program-for-a-few-seconds,"try {     Thread.sleep(1000);                 //1000 milliseconds is one second.",A0020
+1.44651E+12,select,http://stackoverflow.com/search?q=write%20a%20text%20(string)%20to%20the%20specified%20file,"text (string) to the specified file",A0020
+1.44662E+12,select,http://stackoverflow.com/questions/9457120/recursive-algorithm-to-find-smallest-element-in-array,"if (start== end-1)         return A[0];",A0020
+1.4467E+12,select,http://stackoverflow.com/search?q=how+to+count+something+in+a+recursive+method+java,"how to count something in a recursive method java",A0020
+1.4467E+12,select,http://stackoverflow.com/search?q=counting+even+values+in+an+array+recursively,"counting even values in an array recursively",A0020
+1.4472E+12,select,http://stackoverflow.com/search?q=counting+the+size+of+nodes+in+a+linked+list+java," java",A0020
+1.4472E+12,select,http://stackoverflow.com/search?q=counting+the+size+of+nodes+in+a+linked+list+java,"size of",A0020
+1.44484E+12,select,http://stackoverflow.com/search?q=adding%20object%20to%20array," object to",A0067
+1.44495E+12,select,http://stackoverflow.com/search?q=ordered+number+array+java,"ordered number array java",A0067
+1.44243E+12,select,http://stackoverflow.com/questions/14956265/java-split-method,"str1Arr",A0025
+1.44243E+12,select,http://stackoverflow.com/questions/14956265/java-split-method,"1 2 3",A0025
+1.44243E+12,select,http://stackoverflow.com/questions/14956265/java-split-method,"1 2 3",A0025
+1.44243E+12,select,http://stackoverflow.com/questions/14956265/java-split-method,"tring str2",A0025
+1.44243E+12,select,http://stackoverflow.com/questions/14956265/java-split-method,"str1Array",A0025
+1.44244E+12,select,http://stackoverflow.com/questions/5585779/converting-string-to-int-in-java," Integer",A0025
+1.44381E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"List list = new JList(model",A0025
+1.44381E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"JList list = new JList(model);",A0025
+1.44381E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"JList list = new JList(model);",A0025
+1.44606E+12,select,http://stackoverflow.com/questions/11496700/how-to-use-printwriter-and-file-classes-in-java,"Desktop/directory/file.txt",A0025
+1.44606E+12,select,http://stackoverflow.com/questions/11496700/how-to-use-printwriter-and-file-classes-in-java,"file.txt",A0025
+1.44606E+12,select,http://stackoverflow.com/questions/11496700/how-to-use-printwriter-and-file-classes-in-java,"file.txt",A0025
+1.44606E+12,select,http://stackoverflow.com/questions/11496700/how-to-use-printwriter-and-file-classes-in-java,".io.File",A0025
+1.44606E+12,select,http://stackoverflow.com/questions/11496700/how-to-use-printwriter-and-file-classes-in-java,"file.txt",A0025
+1.44616E+12,select,http://stackoverflow.com/questions/24666805/java-only-read-first-line-of-a-file,"BufferedReader brTest = new BufferedReader(new FileReader(myTextFile));     text = brTest .readLine();",A0025
+1.44649E+12,select,http://stackoverflow.com/questions/5601232/finding-the-minimum-of-an-array-using-recursion,"ouble val = min(elements, index + 1);",A0025
+1.44735E+12,select,http://stackoverflow.com/questions/15963549/arraylist-swap-elements,"String a = words.get(0); words.set(0, words.get(words.size() - 1));",A0025
+1.44735E+12,select,http://stackoverflow.com/questions/15963549/arraylist-swap-elements,"for (int i = 0; i < list.size(); i++) {         if (i < list.size() - 1) {",A0025
+1.44495E+12,select,http://stackoverflow.com/search?q=merge,"merge",A0026
+1.44495E+12,select,http://stackoverflow.com/questions/5690121/java-read-input,"int  num = scan.nextInt();",A0026
+1.44495E+12,select,http://stackoverflow.com/questions/5690121/java-read-input,"for(int i=0; i < num;i++) {",A0026
+1.44495E+12,select,http://stackoverflow.com/questions/5690121/java-read-input,"int num = Integer.valueOf(scanner.nextLine());",A0026
+1.44495E+12,select,http://stackoverflow.com/questions/5690121/java-read-input,"scan.nextInt();",A0026
+1.4466E+12,select,http://stackoverflow.com/questions/12617021/measure-size-length-of-singly-linked-list-in-java,"int size = 0;    for(Node n = head; n.next != null; n = n.next)",A0026
+1.4466E+12,select,http://stackoverflow.com/questions/12617021/measure-size-length-of-singly-linked-list-in-java,"to pass the list to your method and check currNode!= null : ",A0026
+1.44604E+12,select,http://stackoverflow.com/questions/1005073/initialization-of-an-arraylist-in-one-line,"ArrayList<String> places = new ArrayList<String>();",A0073
+1.44649E+12,select,http://stackoverflow.com/questions/8240701/serialize-object-with-outputstream,"ObjectOutputStream oos = new ObjectOutputStream(buffer);",A0073
+1.44202E+12,select,http://stackoverflow.com/search?q=parse&s=38cfc314-672b-421e-933d-533ae3836a2f,"parse",A0011
+1.44202E+12,select,http://stackoverflow.com/search?q=java+parse+string,"parse ",A0011
+1.44202E+12,select,http://stackoverflow.com/search?q=java+parse+string,"java parse string",A0011
+1.44383E+12,select,http://stackoverflow.com/search?q=gridlayout+move,"move",A0011
+1.44383E+12,select,http://stackoverflow.com/search?q=gridlayout+move,"move",A0011
+1.4453E+12,select,http://stackoverflow.com/search?q=how%20to%20sort%20alphabetically,"how to ",A0011
+1.44799E+12,select,http://stackoverflow.com/search?q=can%20you%20add%20a%20char%20to%20a%20string,"can you add a char to a string",A0011
+1.44799E+12,select,http://stackoverflow.com/search?q=can%20you%20add%20a%20char%20to%20a%20string,"can you add a char to a string",A0011
+1.44563E+12,select,http://stackoverflow.com/questions/6920025/how-do-i-close-a-java-application-from-the-code,"programmers",A0014
+1.44563E+12,select,http://stackoverflow.com/questions/6920025/how-do-i-close-a-java-application-from-the-code,"programmers",A0014
+1.44686E+12,select,http://stackoverflow.com/questions/13023716/need-to-take-input-to-array-until-user-enters-0-java," up vote",B0025
+1.44308E+12,select,http://stackoverflow.com/questions/4587392/can-we-create-an-instance-of-an-interface-in-java,"nterface in Java? ",B0005
+1.44308E+12,select,http://stackoverflow.com/questions/4587392/can-we-create-an-instance-of-an-interface-in-java,"nterface in Java? ",B0005
+1.44308E+12,select,http://stackoverflow.com/questions/17077547/i-know-we-can-not-instantiate-either-an-interface-or-an-abstract-class-in-java,"Interface has no method implemented, so there is no purpose to instantiate it as 'nothing' will happen when invoke a method Abstract class can have abstract method declaration, which is like a interface method with no implementation.",B0005
+1.44308E+12,select,http://stackoverflow.com/questions/17077547/i-know-we-can-not-instantiate-either-an-interface-or-an-abstract-class-in-java,"You can't instantiate an interface or an abstract class because it would defy the object oriented model. ",B0005
+1.44412E+12,select,http://stackoverflow.com/questions/1795808/and-and-or-in-if-statements,"||",B0005
+1.44427E+12,select,http://stackoverflow.com/questions/10675064/find-duplicates-of-a-vector-and-delete-preserving-the-order-of-parallel-vectors," for (int k = 0 ; k < vA.size() ; k++)             {                       ",B0005
+1.44235E+12,select,http://stackoverflow.com/search?q=public%20static%20Product%20parseStringToProduct(String%20lineToParse)&s=706b407b-4223-4608-8fa8-cb083943f6b0,"(String lineToParse)",A0009
+1.44382E+12,select,http://stackoverflow.com/questions/5477241/swing-java-how-to-use-the-gettext-and-settext-string-properly,"label1.setVisible(false);",A0009
+1.44403E+12,select,http://stackoverflow.com/questions/2536873/how-can-i-set-size-of-a-button,"btn.setPreferredSize(new Dimension(100, 100));",A0009
+1.44477E+12,select,http://stackoverflow.com/questions/12178514/how-a-jpanel-displays-different-colors-from-an-array-of-colors,"colors = new Color[]{Color.PINK, Color.GREEN, Color.BLACK, Color.RED}; ",A0009
+1.44477E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"currentColor = Color.black;       rectList = new ArrayList();",A0009
+1.44477E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"ColorListener listener = new ColorListener();       for (int i=0; i<colorRButtons.length; i++)",A0009
+1.44477E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"import java.awt.*; import javax.swing.*;",A0009
+1.4448E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"canvas.addMouseListener(new PointListener());       canvas.addMouseMotionListener(new PointListener());",A0009
+1.44486E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"canvas.repaint();",A0009
+1.44486E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"if (event.getSource() == colorRButtons[0])              currentColor = colors[0];",A0009
+1.44486E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"for (int i=0; i < rectList.size(); i++)             {",A0009
+1.44624E+12,select,http://stackoverflow.com/questions/19937629/sorting-an-arraylist-into-object-type-and-then-alphabetically,"public int compare(Food food1, Food food2) {         int result = 0;",A0009
+1.44658E+12,select,http://stackoverflow.com/questions/5601232/finding-the-minimum-of-an-array-using-recursion,"if (index == elements.length - 1) {     return elements[index];",A0009
+1.44658E+12,select,http://stackoverflow.com/questions/15689097/how-do-you-recursively-count-the-number-of-negative-numbers-in-an-array-java,"int i=0;         if(numbers[count]<0)",A0009
+1.44658E+12,select,http://stackoverflow.com/search?q=how%20to%20find%20evenIndex%20number%20in%20an%20array,"number in an array",A0009
+1.4466E+12,select,http://stackoverflow.com/questions/12617021/measure-size-length-of-singly-linked-list-in-java," ",A0009
+1.4466E+12,select,http://stackoverflow.com/questions/12617021/measure-size-length-of-singly-linked-list-in-java,"while(CurrNode.next != null)     {",A0009
+1.44677E+12,select,http://stackoverflow.com/questions/15958495/linked-lists-remove-element-at-an-index,"object = iterator.next();                    iterator.remove();",A0009
+1.44736E+12,select,http://stackoverflow.com/search?q=countHowMany%28Object+searchedObject%29," searchedObject",A0009
+1.44798E+12,select,http://stackoverflow.com/questions/33799473/writing-method-to-help-determine-postfix-notation,"char topStack;              while(!stack1.isEmpty() && (topStack = stack1.peek()) != '('){",A0009
+1.44806E+12,select,http://stackoverflow.com/questions/16100036/parenthesis-error-check-for-infix-to-postfix-conversion-java,"int v1 = 0, v2 = 0;       //find value for first",A0009
+1.44135E+12,select,http://stackoverflow.com/questions/1678520/javac-not-working-in-windows-command-prompt,"c:program filesjavajdk1.6.0_16injavac.exe",A0074
+1.44135E+12,select,http://stackoverflow.com/questions/1678520/javac-not-working-in-windows-command-prompt," Otherwise, make sure there is a javac in that directory by trying:",A0074
+1.44135E+12,select,http://stackoverflow.com/questions/1678520/javac-not-working-in-windows-command-prompt,"echo %path%",A0074
+1.44135E+12,select,http://stackoverflow.com/questions/2411538/change-where-java-looks-for-javac-exe,"C:Program FilesJavajdk1.6.0_18",A0074
+1.44135E+12,select,http://stackoverflow.com/questions/1678520/javac-not-working-in-windows-command-prompt,"echo %path%",A0074
+1.44135E+12,select,http://stackoverflow.com/questions/1678520/javac-not-working-in-windows-command-prompt,"for %i in (javac.exe) do @echo %~$PATH:i",A0074
+1.44141E+12,select,http://stackoverflow.com/questions/1266792/how-to-change-the-default-netbeans-7-project-directory,".netbeans7.0configPreferencesorgetbeansmodulesprojectui.properties
+",A00741.44141E+12,select,http://stackoverflow.com/questions/1266792/how-to-change-the-default-netbeans-7-project-directory,".netbeans7.0configPreferencesorg
+etbeansmodulesprojectui.properties",A0074
+1.44141E+12,select,http://stackoverflow.com/questions/3077531/how-to-change-the-default-project-directory-folder-in-netbeans-6-9,"projectui.properties",A0074
+1.44221E+12,select,http://stackoverflow.com/questions/20767732/best-way-to-extract-text-e-g-articles-from-web-page,"different text extraction algorithms",A0074
+1.44256E+12,select,http://stackoverflow.com/questions/10985223/java-polymorphism,"     @Override",A0074
+1.44282E+12,select,http://stackoverflow.com/questions/23050928/error-in-plot-new-figure-margins-too-large-scatter-plot,"par(mar=c(1,1,1,1))",A0074
+1.44282E+12,select,http://stackoverflow.com/questions/23050928/error-in-plot-new-figure-margins-too-large-scatter-plot,"1 4.1 4.1 2.1",A0074
+1.44403E+12,select,http://stackoverflow.com/questions/20795488/getting-json-data-in-soap-webservice-reponse,"HttpResponse ",A0074
+1.44469E+12,select,http://stackoverflow.com/questions/6081439/changing-column-names-of-a-data-frame-in-r," names(new",A0074
+1.44469E+12,select,http://stackoverflow.com/questions/12758075/how-to-create-dummy-variables,"dt1 <- data.frame(year=factor(c(NA,2003:2005))) dt2 <- setNames(cbind(dt1,model.matrix(~year-1,data=dt1)),",A0074
+1.44469E+12,select,http://stackoverflow.com/questions/12758075/how-to-create-dummy-variables,"dt1 <- data.frame(year=factor(c(NA,2003:2005)))",A0074
+1.44472E+12,select,http://stackoverflow.com/questions/12328056/how-do-i-delete-rows-in-a-data-frame,"myData[-c(2, 4, 6), ] ",A0074
+1.44472E+12,select,http://stackoverflow.com/questions/12328056/how-do-i-delete-rows-in-a-data-frame,"myData[-c(2, 4, 6), ] ",A0074
+1.44472E+12,select,http://stackoverflow.com/questions/12328056/how-do-i-delete-rows-in-a-data-frame,"myData <- myData[-c(2, 4, 6), ]",A0074
+1.44472E+12,select,http://stackoverflow.com/questions/24428051/removing-display-of-r-row-names-from-data-frame,"rownames(df) <- NULL",A0074
+1.44472E+12,select,http://stackoverflow.com/questions/24428051/removing-display-of-r-row-names-from-data-frame,"rownames(df1) <- NULL",A0074
+1.44472E+12,select,http://stackoverflow.com/questions/13520515/command-to-remove-row-from-a-data-frame,"  Possible Duplicate:",A0074
+1.44472E+12,select,http://stackoverflow.com/questions/7541610/how-to-delete-a-row-in-r,"df = df[-1,]",A0074
+1.44472E+12,select,http://stackoverflow.com/questions/7541610/how-to-delete-a-row-in-r,"df = df[-1,]",A0074
+1.44472E+12,select,http://stackoverflow.com/questions/7541610/how-to-delete-a-row-in-r,"df$x = NULL",A0074
+1.44487E+12,select,http://stackoverflow.com/questions/6088798/what-is-the-best-way-to-determine-what-jradiobutton-is-selected," for (int i = 0, n = buttons.length; i < n; i++) {      ",A0074
+1.44487E+12,select,http://stackoverflow.com/questions/6088798/what-is-the-best-way-to-determine-what-jradiobutton-is-selected," for (int i = 0, n = buttons.length; i < n; i++) {      ",A0074
+1.44487E+12,select,http://stackoverflow.com/questions/6088798/what-is-the-best-way-to-determine-what-jradiobutton-is-selected,"for (int i = 0, n = buttons.length; i < n; i++) {         if (buttons[i].isSelected()) {",A0074
+1.44487E+12,select,http://stackoverflow.com/questions/6088798/what-is-the-best-way-to-determine-what-jradiobutton-is-selected,"for (int i = 0, n = buttons.length; i < n; i++) {         if (buttons[i].isSelected()) {",A0074
+1.44487E+12,select,http://stackoverflow.com/questions/6088798/what-is-the-best-way-to-determine-what-jradiobutton-is-selected,"return buttons.length + 1;",A0074
+1.44488E+12,select,http://stackoverflow.com/questions/201287/how-do-i-get-which-jradiobutton-is-selected-from-a-buttongroup,"for (Enumeration<AbstractButton> buttons = buttonGroup.getElements(); buttons.hasMoreElements();) {             AbstractButton button = buttons.nextElement();",A0074
+1.44488E+12,select,http://stackoverflow.com/questions/201287/how-do-i-get-which-jradiobutton-is-selected-from-a-buttongroup,"on(",A0074
+1.44488E+12,select,http://stackoverflow.com/questions/201287/how-do-i-get-which-jradiobutton-is-selected-from-a-buttongroup,"Group.getSelection().getActionCommand()",A0074
+1.44487E+12,select,http://stackoverflow.com/questions/2615522/java-bufferedimage-getting-red-green-and-blue-individually/2615530#2615530,"Color c = new Color(image.getRGB());",A0074
+1.44487E+12,select,http://stackoverflow.com/questions/2615522/java-bufferedimage-getting-red-green-and-blue-individually/2615530#2615530,"Color c = new Color(image.getRGB()); int red = c.getRed();",A0074
+1.44488E+12,select,http://stackoverflow.com/questions/25207419/switch-statement-quotes,"switch(what) {         case '1': break;",A0074
+1.44495E+12,select,http://stackoverflow.com/search?q=merge%20sort," Search",A0074
+1.44495E+12,select,http://stackoverflow.com/search?q=merge%20sort," Search",A0074
+1.44512E+12,select,http://stackoverflow.com/questions/11002766/changing-reference-group-for-categorical-predictor-variable-in-logistic-regressi,"DF$fct <- C(DF$fct, contr.treatment, base=3)",A0074
+1.44512E+12,select,http://stackoverflow.com/questions/11002766/changing-reference-group-for-categorical-predictor-variable-in-logistic-regressi,"library(Hmisc) ",A0074
+1.44512E+12,select,http://stackoverflow.com/questions/11002766/changing-reference-group-for-categorical-predictor-variable-in-logistic-regressi,"dd=datadist(df)",A0074
+1.44512E+12,select,http://stackoverflow.com/questions/11002766/changing-reference-group-for-categorical-predictor-variable-in-logistic-regressi,"options(datadist='dd')",A0074
+1.44512E+12,select,http://stackoverflow.com/questions/11002766/changing-reference-group-for-categorical-predictor-variable-in-logistic-regressi,"options(datadist='dd') (m=lrm(y ~ catvar, data=df))",A0074
+1.44512E+12,select,http://stackoverflow.com/questions/11002766/changing-reference-group-for-categorical-predictor-variable-in-logistic-regressi,"summary(m, catvar=3)",A0074
+1.44528E+12,select,http://stackoverflow.com/questions/18985867/convert-json-format-to-xml-format,"Return xml.ToString()",A0074
+1.44527E+12,select,http://stackoverflow.com/questions/814001/convert-json-string-to-xml-or-xml-to-json-string,"// To convert JSON text contained in string json into an XML node XmlDocument doc = JsonConvert.DeserializeXmlNode(json);",A0074
+1.44528E+12,select,http://stackoverflow.com/questions/814001/convert-json-string-to-xml-or-xml-to-json-string,"// To convert JSON text contained in string json into an XML node XmlDocument doc = JsonConvert.DeserializeXmlNode(json);",A0074
+1.44528E+12,select,http://stackoverflow.com/questions/814001/convert-json-string-to-xml-or-xml-to-json-string,"XmlDocument doc = JsonConvert.DeserializeXmlNode(json);",A0074
+1.44528E+12,select,http://stackoverflow.com/questions/814001/convert-json-string-to-xml-or-xml-to-json-string,"XmlDocument doc = JsonConvert.DeserializeXmlNode(json);",A0074
+1.44528E+12,select,http://stackoverflow.com/questions/814001/convert-json-string-to-xml-or-xml-to-json-string,"t.DeserializeXmlNode(json);",A0074
+1.44528E+12,select,http://stackoverflow.com/questions/4611031/convert-json-string-to-c-sharp-object,"vaScriptSerializ",A0074
+1.4453E+12,select,http://stackoverflow.com/questions/16640962/convert-string-to-xml-using-net,"ument.Parse(s)",A0074
+1.4453E+12,select,http://stackoverflow.com/questions/16640962/convert-string-to-xml-using-net,"ument.Parse(s)",A0074
+1.4453E+12,select,http://stackoverflow.com/questions/16640962/convert-string-to-xml-using-net,"XDocument.Parse(s)",A0074
+1.4453E+12,select,http://stackoverflow.com/questions/16640962/convert-string-to-xml-using-net,"XDocument.Parse(s)",A0074
+1.4453E+12,select,http://stackoverflow.com/questions/10946888/how-to-convert-string-to-xml-using-c-sharp,"xDoc.LoadXml(xml);",A0074
+1.4453E+12,select,http://stackoverflow.com/questions/10946888/how-to-convert-string-to-xml-using-c-sharp,"xDoc.LoadXml(xml);",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from,"t$",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from,"t$",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from,"at$",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from,"at$",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from," dat",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from," dat",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from,"at$y,",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from,"at$y,",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from,"dat$y",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from,"dat$y",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from,"res <- stack(data.frame(Observed = dat$y, Predicted = fitted(mod)))",A0074
+1.44532E+12,select,http://stackoverflow.com/questions/17432142/plot-the-observed-and-fitted-values-from-a-linear-regression-using-xyplot-from,"res <- stack(data.frame(Observed = dat$y, Predicted = fitted(mod))) res <- cbind(res, x = rep(dat$x, 2))",A0074
+1.44623E+12,select,http://stackoverflow.com/questions/4605206/drop-columns-in-r-data-frame,"DF[,!(names(DF) %in% drops)",A0074
+1.44645E+12,select,http://stackoverflow.com/questions/19937629/sorting-an-arraylist-into-object-type-and-then-alphabetically,"[]>(); Collections.sort(list, new Comparator<String[]>() { public int compare(String[] o1, String[] o2)",A0074
+1.44645E+12,select,http://stackoverflow.com/questions/19937629/sorting-an-arraylist-into-object-type-and-then-alphabetically,"[]>(); Collections.sort(list, new Comparator<String[]>() { public int compare(String[] o1, String[] o2)",A0074
+1.44645E+12,select,http://stackoverflow.com/questions/19937629/sorting-an-arraylist-into-object-type-and-then-alphabetically,"e saying, but I want to clarify: you can pass String[] to compare. ArrayList<String[]> list = new ArrayList<String[]>(); Collections",A0074
+1.44645E+12,select,http://stackoverflow.com/questions/19937629/sorting-an-arraylist-into-object-type-and-then-alphabetically,"e saying, but I want to clarify: you can pass String[] to compare. ArrayList<String[]> list = new ArrayList<String[]>(); Collections",A0074
+1.44646E+12,select,http://stackoverflow.com/questions/14475556/how-to-sort-arraylist-of-objects,"Collections.sort(players, new Comparator<Team>() {         @Override public int compare(Team p1, Team p2) {",A0074
+1.44646E+12,select,http://stackoverflow.com/questions/14475556/how-to-sort-arraylist-of-objects,"Collections.sort(players, new Comparator<Team>() {         @Override public int compare(Team p1, Team p2) {",A0074
+1.44668E+12,select,http://stackoverflow.com/questions/5391124/in-r-select-rows-of-a-matrix-that-meet-a-condition,"m[m[,3] == 11,]",A0074
+1.44669E+12,select,http://stackoverflow.com/questions/21283148/substring-of-all-data-frame-elements,"sapply(x, substring, 2, 4)",A0074
+1.44669E+12,select,http://stackoverflow.com/questions/21283148/substring-of-all-data-frame-elements,"substring(x[,1], 2, 4) ",A0074
+1.44669E+12,select,http://stackoverflow.com/questions/19692672/remove-all-punctuation-from-a-csv-after-importing-it,"nct:]]",A0074
+1.44677E+12,select,http://stackoverflow.com/questions/4605206/drop-columns-in-r-data-frame,"df <- df[ -c(1,3:6, 12) ]",A0074
+1.4468E+12,select,http://stackoverflow.com/search?q=solve%20recursive,"Google Foobar",A0074
+1.4468E+12,select,http://stackoverflow.com/search?q=solve%20recursive,"Google Foobar",A0074
+1.44684E+12,select,http://stackoverflow.com/questions/18514694/how-to-save-a-data-frame-in-a-txt-or-excel-file-separated-by-columns,"write.csv(df, 'test2.csv')",A0074
+1.44684E+12,select,http://stackoverflow.com/questions/8420288/r-how-can-i-delete-rows-if-an-element-in-a-row-satisfies-certain-characteristic,"mm2 <- mm[mm[,1]!=2,]",A0074
+1.44684E+12,select,http://stackoverflow.com/questions/8420288/r-how-can-i-delete-rows-if-an-element-in-a-row-satisfies-certain-characteristic,"mm2 <- mm[mm[,1]!=2,]",A0074
+1.44684E+12,select,http://stackoverflow.com/questions/8420288/r-how-can-i-delete-rows-if-an-element-in-a-row-satisfies-certain-characteristic,"mm2 <- mm[mm[,1]!=2,]",A0074
+1.44684E+12,select,http://stackoverflow.com/questions/8420288/r-how-can-i-delete-rows-if-an-element-in-a-row-satisfies-certain-characteristic,"mm2 <- mm[mm[,1]!=2,]",A0074
+1.44712E+12,select,http://stackoverflow.com/questions/24774399/syntax-to-move-backwards-in-linkedlist,"ListIterator<Foo> iterator = list.listIterator(list.size()); while (iterator.hasPrevious()) {",A0074
+1.4474E+12,select,http://stackoverflow.com/questions/5236486/adding-items-to-end-of-linked-list,"// save the reference to the header so we can return it.        Node ret = header;",A0074
+1.44789E+12,select,http://stackoverflow.com/questions/18306362/run-r-script-from-command-line,"Rscript a.R",A0074
+1.448E+12,select,http://stackoverflow.com/questions/15331637/convert-string-to-arraylist-character-in-java,"ArrayList<Character> chars = new ArrayList<Character>(); for (char c : str.toCharArray()) {",A0074
+1.44495E+12,select,http://stackoverflow.com/search?q=3%20partition%20merge%20sort,"3 partition ",A0075
+1.44495E+12,select,http://stackoverflow.com/questions/2571049/how-to-sort-in-place-using-the-merge-sort-algorithm,"omparisons. This is the",A0087
+1.44495E+12,select,http://stackoverflow.com/questions/2571049/how-to-sort-in-place-using-the-merge-sort-algorithm,"s relevant too. I have a printout of it lying around, passed on to me by a colleague, but I haven't read it. It seems to cover basic theory, but I'm not familiar enough with th",A0087
+1.44685E+12,select,http://stackoverflow.com/questions/10618722/how-to-put-throws-ioexception-to-the-statement,"1: error: unreported exception IOException; must be caught or declared to be thrown                     HighestScoreFile.HighestScoreFile(input, hours, minutes, seco",A0087
+1.44685E+12,select,http://stackoverflow.com/questions/10618722/how-to-put-throws-ioexception-to-the-statement,"        ",A0087
+1.44685E+12,select,http://stackoverflow.com/questions/10618722/how-to-put-throws-ioexception-to-the-statement,"ighest.txt. ",A0087
+1.44685E+12,select,http://stackoverflow.com/questions/10618722/how-to-put-throws-ioexception-to-the-statement,"ighest.txt. ",A0087
+1.44685E+12,select,http://stackoverflow.com/questions/10618722/how-to-put-throws-ioexception-to-the-statement,"ighest.txt. ",A0087
+1.44685E+12,select,http://stackoverflow.com/questions/10618722/how-to-put-throws-ioexception-to-the-statement,"ighest.txt. ",A0087
+1.44685E+12,select,http://stackoverflow.com/questions/10618722/how-to-put-throws-ioexception-to-the-statement,"ighest.txt. ",A0087
+1.44685E+12,select,http://stackoverflow.com/questions/10618722/how-to-put-throws-ioexception-to-the-statement,"ighest.txt. ",A0087
+1.44495E+12,select,http://stackoverflow.com/questions/29436091/recursive-merge-sort,"import java.util.Arrays; ",A0059
+1.44495E+12,select,http://stackoverflow.com/questions/29436091/recursive-merge-sort,"import java.util.Arrays; ",A0059
+1.44495E+12,select,http://stackoverflow.com/questions/29436091/recursive-merge-sort,"import java.util.Arrays; ",A0059
+1.44495E+12,select,http://stackoverflow.com/questions/29436091/recursive-merge-sort,"list.length - mid",A0059
+1.44553E+12,select,http://stackoverflow.com/questions/9723912/reversing-a-string-with-recursion-in-java,"public static String reverse(String str) {     if ((null == str) || (str.length() <= 1)) {",A0059
+1.44601E+12,select,http://stackoverflow.com/questions/2560368/what-is-the-use-of-printstacktrace-method-in-java,"t very useful tool for diagnosing an Exception. It tells you what happened and where in the code this hap",A0059
+1.44746E+12,select,http://stackoverflow.com/questions/12678781/reversing-an-array-in-java,"for (i = 0; i < array.length / 2; i++) {   int temp = array[i];",A0059
+1.44256E+12,select,http://stackoverflow.com/questions/153724/how-to-round-a-number-to-n-decimal-places-in-java,"technique",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"ponent of the matrix (GridLayout) stays centered instead of displaying at the left and with different size, how can I do that?",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"ponent of the matrix (GridLayout) stays centered instead of displaying at the left and with different size, how can I do that?",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"e matrix (GridLayout) stays centered instead of displaying at the left and with different size, how can I do that?",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"e matrix (GridLayout) stays centered instead of displaying at the left and with different size, how can I do that?",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout," matrix (",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"GridLayout",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout," ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"And I want that each component of the matrix (GridLayout) stays centered instead of displaying at the left and with different size, how can I do that? ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"And I want that each component of the matrix (GridLayout) stays centered instead of displaying at the left and with different size, how can I do that? ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"mponent(Or more if you want them right next to each other) In a JPanel that is using FlowLayout(the default Layout manager) and then add those JPanels to the JFrame. The JPanels adjust to the GridLayout but the com",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"mponent(Or more if you want them right next to each other) In a JPanel that is using FlowLayout(the default Layout manager) and then add those JPanels to the JFrame. The JPanels adjust to the GridLayout but the com",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"components ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"ent(Or more if you want them right next to each other) In a JPanel that is using FlowLayout(the default Layout manager) and then add those JPanels to the JFrame. The JPanels adjust to the GridLayout but the com",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"ent(Or more if you want them right next to each other) In a JPanel that is using FlowLayout(the default Layout manager) and then add those JPanels to the JFrame. The JPanels adjust to the GridLayout but the com",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"components ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"To center them I'd put each component(Or more if you want them right next to each other) In a JPanel that is using FlowLayout(the default Layout manager) and then add those JPanels to the JFrame. The JPanels adjust to the GridLayout but the components on the JPanels stay in the same position. ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/17845048/java-centering-a-component-inside-gridlayout,"To center them I'd put each component(Or more if you want them right next to each other) In a JPanel that is using FlowLayout(the default Layout manager) and then add those JPanels to the JFrame. The JPanels adjust to the GridLayout but the components on the JPanels stay in the same position. ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components,"n Java is also an AWT container. Thus, you should be able to use getComponents to get the array of contained components in the panel, iterate over them, check their types (To make sure you didn't get other controls), and do whatever you need with them. ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components,"n Java is also an AWT container. Thus, you should be able to use getComponents to get the array of contained components in the panel, iterate over them, check their types (To make sure you didn't get other controls), and do whatever you need with them. ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components,"with ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components," up vote",A0047
+1.444E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components,"is also an AWT container. Thus, you should be able to use getComponents to get the array of contained components in the panel, iterate over them, check their types (To make sure you didn't get other controls), and do whatever you need with them. ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components,"is also an AWT container. Thus, you should be able to use getComponents to get the array of contained components in the panel, iterate over them, check their types (To make sure you didn't get other controls), and do whatever you need with them. ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components,"is also an AWT container. Thus, you should be able to use getComponents to get the array of contained components in the panel, iterate over them, check their types (To make sure you didn't get other controls), and do whatever you need with them. ",A0047
+1.444E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components,"is also an AWT container. Thus, you should be able to use getComponents to get the array of contained components in the panel, iterate over them, check their types (To make sure you didn't get other controls), and do whatever you need with them. ",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"er which contains the validation logic. Here it's simply checking for empty text in the field in verify. Note that verify must not have side-effects",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"er which contains the validation logic. Here it's simply checking for empty text in the field in verify. Note that verify must not have side-effects",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"which contains the validation logic. Here it's simply checking for empty text in the field in verify. Note that verify must not have side-effects",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"which contains the validation logic. Here it's simply checking for empty text in the field in verify. Note that verify must not have side-effects",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"which ",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield," which contains the validation logic. Here it's simply checking for empty text in the field in verify. Note that verify must not have side-effects",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield," which contains the validation logic. Here it's simply checking for empty text in the field in verify. Note that verify must not have side-effects",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"simply ",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"ns the validation logic. Here it's simply checking for empty text in the field in verify. Note that verify must not have side-effects",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"ns the validation logic. Here it's simply checking for empty text in the field in verify. Note that verify must not have side-effects",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"v",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"ntains the validation logic. Here it's simply checking for empty text in the field in verify. Note that verify must not have side-effects",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"ntains the validation logic. Here it's simply checking for empty text in the field in verify. Note that verify must not have side-effects",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/14032757/empty-string-validation-for-multiple-jtextfield,"contains ",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components,"for (int i = 0; i < components.length; i++) { ",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components,"for (int i = 0; i < components.length; i++) { ",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components,"setEnabled",A0047
+1.44401E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components," ",A0047
+1.44402E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components," components in the panel, iterate over them, check their types (To make sure you didn't get other controls), and do whatever you need with them. ",A0047
+1.44402E+12,select,http://stackoverflow.com/questions/370310/java-get-jpanel-components," components in the panel, iterate over them, check their types (To make sure you didn't get other controls), and do whatever you need with them. ",A0047
+1.44403E+12,select,http://stackoverflow.com/questions/14443259/one-action-listener-two-jbuttons,"n is clicked. However I want different actions to happen when each are clicked. How can I distinguish, i",A0047
+1.44403E+12,select,http://stackoverflow.com/questions/14443259/one-action-listener-two-jbuttons,"n is clicked. However I want different actions to happen when each are clicked. How can I distinguish, i",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"ng the Vector. Changes should be made directly to the ListModel then the table will repaint itself automatically. ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"ng the Vector. Changes should be made directly to the ListModel then the table will repaint itself automatically. ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"ListModel ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"If you decide to recreate the ListModel because of the changes to the Vector, then you update the list by doing: ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"g the Vector. Changes should be made directly to the ListModel then the table will repaint itself automatically. ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"g the Vector. Changes should be made directly to the ListModel then the table will repaint itself automatically. ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"ListModel ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"You should not be updating the Vector. Changes should be made directly to the ListModel then the table will repaint itself automatically. ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"You should not be updating the Vector. Changes should be made directly to the ListModel then the table will repaint itself automatically. ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"updating ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"updating ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/4262669/refresh-jlist-in-a-jframe,"updating ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"ram for an intro level Java class, and am having an issue when using Vector to dynamically display data to a GUI. We're storing data in a linked list and using the vector to have a dynamic list showing the data members on the side of the GUI. We can add and remove data from the linked list just fine, and when we add to it, the vector automatically updates (we have a call to do that at the end of every successful add and remove). However, when we successfully remove a data member from the linked list, the data stays on the Jlist that the vector is being displayed on. We are required to use vector and cannot use a generic ArrayList.",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"ram for an intro level Java class, and am having an issue when using Vector to dynamically display data to a GUI. We're storing data in a linked list and using the vector to have a dynamic list showing the data members on the side of the GUI. We can add and remove data from the linked list just fine, and when we add to it, the vector automatically updates (we have a call to do that at the end of every successful add and remove). However, when we successfully remove a data member from the linked list, the data stays on the Jlist that the vector is being displayed on. We are required to use vector and cannot use a generic ArrayList.",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"am for an intro level Java class, and am having an issue when using Vector to dynamically display data to a GUI. We're storing data in a linked list and using the vector to have a dynamic list showing the data members on the side of the GUI. We can add and remove data from the linked list just fine, and when we add to it, the vector automatically updates (we have a call to do that at the end of every successful add and remove). However, when we successfully remove a data member from the linked list, the data stays on the Jlist that the vector is being displayed on. We are required to use vector and cannot use a generic ArrayList.",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"am for an intro level Java class, and am having an issue when using Vector to dynamically display data to a GUI. We're storing data in a linked list and using the vector to have a dynamic list showing the data members on the side of the GUI. We can add and remove data from the linked list just fine, and when we add to it, the vector automatically updates (we have a call to do that at the end of every successful add and remove). However, when we successfully remove a data member from the linked list, the data stays on the Jlist that the vector is being displayed on. We are required to use vector and cannot use a generic ArrayList.",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"data ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating," ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"vector ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"we're using the vector only because our professor told us to :/ but the we use the setListData method inJList to set it to the data in the vector ̢�������� user3458030 May 7 at 0:27 ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"we're using the vector only because our professor told us to :/ but the we use the setListData method inJList to set it to the data in the vector ̢�������� user3458030 May 7 at 0:27 ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"we're using the vector only because our professor told us to :/ but the we use the setListData method inJList to set it to the data in the vector ̢�������� user3458030 May 7 at 0:27 ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating," ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"we're using the vector only because our professor told us to :/ but the we use the setListData method inJList to set it to the data in the vector ̢�������� user3458030 May 7 at 0:27 ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"we're using the vector only because our professor told us to :/ but the we use the setListData method inJList to set it to the data in the vector ̢�������� user3458030 May 7 at 0:27 ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"we're using the vector only because our professor told us to :/ but the we use the setListData method inJList to set it to the data in the vector ̢�������� user3458030 May 7 at 0:27 ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"py the values out of the vector once and never read it again. This means changes to the vector will not be reflected in the JList.",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"py the values out of the vector once and never read it again. This means changes to the vector will not be reflected in the JList.",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating," ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"Assuming your JList is backed by a Vector (by using the JList(Vector<?> listData) constructor), the JList will copy the values out of the vector once and never read it again. This means changes to the vector will not be reflected in the JList. ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"Assuming your JList is backed by a Vector (by using the JList(Vector<?> listData) constructor), the JList will copy the values out of the vector once and never read it again. This means changes to the vector will not be reflected in the JList. ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"the ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,".",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"values out of the vector once and never read it again. This means changes to the vector will not be reflected in the JList. ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"values out of the vector once and never read it again. This means changes to the vector will not be reflected in the JList. ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"the ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"update ",A0047
+1.44414E+12,select,http://stackoverflow.com/questions/30089150/java-vector-class-not-updating,"update ",A0047
+1.44415E+12,select,http://stackoverflow.com/questions/24939192/add-jscrollpane-to-jtextarea," scroll1.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);",A0047
+1.44415E+12,select,http://stackoverflow.com/questions/24939192/add-jscrollpane-to-jtextarea," scroll1.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);",A0047
+1.44469E+12,select,http://stackoverflow.com/questions/215497/in-java-whats-the-difference-between-public-default-protected-and-private,"In",A0047
+1.44472E+12,select,http://stackoverflow.com/questions/2585650/variable-cannot-be-resolved," two local variables i who goes out of scope immediately after they're declared and initialized. If j n",A0047
+1.44472E+12,select,http://stackoverflow.com/questions/2585650/variable-cannot-be-resolved," two local variables i who goes out of scope immediately after they're declared and initialized. If j n",A0047
+1.44472E+12,select,http://stackoverflow.com/questions/2585650/variable-cannot-be-resolved," two local variables i who goes out of scope immediately after they're declared and initialized. If j needs",A0047
+1.44472E+12,select,http://stackoverflow.com/questions/2585650/variable-cannot-be-resolved," two local variables i who goes out of scope immediately after they're declared and initialized. If j needs",A0047
+1.44591E+12,select,http://stackoverflow.com/questions/1625234/how-to-append-text-to-an-existing-file-in-java,"How ",A0047
+1.44591E+12,select,http://stackoverflow.com/questions/1625234/how-to-append-text-to-an-existing-file-in-java,"How ",A0047
+1.44746E+12,select,http://stackoverflow.com/questions/5714053/how-can-we-redirect-eclipse-console-output-to-a-file,"rintStream) and System.setErr(PrintStream). The problem with 1) is that I need to record console output to different files instead of one file.",A0047
+1.44746E+12,select,http://stackoverflow.com/questions/5714053/how-can-we-redirect-eclipse-console-output-to-a-file,"rintStream) and System.setErr(PrintStream). The problem with 1) is that I need to record console output to different files instead of one file.",A0047
+1.44746E+12,select,http://stackoverflow.com/questions/5714053/how-can-we-redirect-eclipse-console-output-to-a-file,"t I need to record console output to different files instead of one file. ",A0047
+1.44746E+12,select,http://stackoverflow.com/questions/5714053/how-can-we-redirect-eclipse-console-output-to-a-file,"t I need to record console output to different files instead of one file. ",A0047
+1.44746E+12,select,http://stackoverflow.com/questions/5714053/how-can-we-redirect-eclipse-console-output-to-a-file,"that I need to record console output to different files instead of one file. ",A0047
+1.44746E+12,select,http://stackoverflow.com/questions/5714053/how-can-we-redirect-eclipse-console-output-to-a-file,"that I need to record console output to different files instead of one file. ",A0047
+1.44746E+12,select,http://stackoverflow.com/questions/5714053/how-can-we-redirect-eclipse-console-output-to-a-file,"hat I need to record console output to different files instead of one file. ",A0047
+1.44746E+12,select,http://stackoverflow.com/questions/5714053/how-can-we-redirect-eclipse-console-output-to-a-file,"hat I need to record console output to different files instead of one file. ",A0047
+1.44746E+12,select,http://stackoverflow.com/questions/5714053/how-can-we-redirect-eclipse-console-output-to-a-file,"at I need to record console output to different files instead of one file. ",A0047
+1.44746E+12,select,http://stackoverflow.com/questions/5714053/how-can-we-redirect-eclipse-console-output-to-a-file,"at I need to record console output to different files instead of one file. ",A0047
+1.44754E+12,select,http://stackoverflow.com/questions/19592846/how-to-check-if-a-string-contain-any-of-operator-in-java,"ks if the string contains a specified sequence of char values String.indexOf() - which returns the index within the string of the first occurence of the specified character or substring (there are 4 variations of this method)",A0047
+1.44754E+12,select,http://stackoverflow.com/questions/19592846/how-to-check-if-a-string-contain-any-of-operator-in-java,"ks if the string contains a specified sequence of char values String.indexOf() - which returns the index within the string of the first occurence of the specified character or substring (there are 4 variations of this method)",A0047
+1.44754E+12,select,http://stackoverflow.com/questions/19592846/how-to-check-if-a-string-contain-any-of-operator-in-java,"hecks if the string contains a specified sequence of char values String.indexOf() - which returns the index within the string of the first occurence of the specified character or substring (there are 4 variations of this method)",A0047
+1.44754E+12,select,http://stackoverflow.com/questions/19592846/how-to-check-if-a-string-contain-any-of-operator-in-java,"hecks if the string contains a specified sequence of char values String.indexOf() - which returns the index within the string of the first occurence of the specified character or substring (there are 4 variations of this method)",A0047
+1.44747E+12,select,http://stackoverflow.com/questions/33698124/how-to-reverse-a-certain-number-of-objects-in-a-linked-list,"  ",A0065
+1.44407E+12,select,http://stackoverflow.com/questions/10274750/java-swing-setting-margins-on-textarea-with-line-border,"400, 200); aboutArea.setBorder(border);",A0033
+1.44407E+12,select,http://stackoverflow.com/questions/10274750/java-swing-setting-margins-on-textarea-with-line-border,"Border border = BorderFactory.createLineBorder(Color.BLACK); ",A0033
+1.44407E+12,select,http://stackoverflow.com/questions/10274750/java-swing-setting-margins-on-textarea-with-line-border,"Border border = BorderFactory.createLineBorder(Color.BLACK); ",A0033
+1.44407E+12,select,http://stackoverflow.com/questions/10274750/java-swing-setting-margins-on-textarea-with-line-border,"border ",A0033
+1.44598E+12,select,http://stackoverflow.com/questions/8965006/java-recursive-fibonacci-sequence,"public int fibonacci(int n)  {     if(n == 0)",A0033
+1.44677E+12,select,http://stackoverflow.com/questions/9929321/converting-arraylist-to-array-in-java,"String []dsf = new String[al.size()]; al.toArray(dsf);",A0033
+1.44677E+12,select,http://stackoverflow.com/questions/9929321/converting-arraylist-to-array-in-java,"String []dsf = new String[al.size()]; al.toArray(dsf);",A0033
+1.44806E+12,select,http://stackoverflow.com/questions/21696784/how-to-declare-an-arraylist-with-values,"List",A0033
+1.4408E+12,select,http://stackoverflow.com/search?q=while%20printing%20multiple%20times&s=9d988445-d3ec-4bb8-93db-8c7a746293bd," ",B0007
+1.4408E+12,select,http://stackoverflow.com/questions/27078905/java-where-to-print-out-an-integer-outside-of-while-loop,"em with your solution i",B0007
+1.4408E+12,select,http://stackoverflow.com/questions/27078905/java-where-to-print-out-an-integer-outside-of-while-loop,"o",B0007
+1.44251E+12,select,http://stackoverflow.com/search?q=java%20utility%20class&s=3fdd60e5-a549-4945-adc8-e17ce0b8fcb1,"java utility class",B0007
+1.44251E+12,select,http://stackoverflow.com/questions/2379221/java-currency-number-format,"NumberFormat formatter = NumberFormat.getCurrencyInstance();",B0007
+1.44254E+12,select,http://stackoverflow.com/questions/9189926/java-percentage-to-show-decimals,"NumberFormat numberFormat = NumberFormat.getNumberInstance(); numberFormat.setMinimumFractionDigits(3);",B0007
+1.44254E+12,select,http://stackoverflow.com/questions/9189926/java-percentage-to-show-decimals,"numberFormat.setMinimumFractionDigits(3);",B0007
+1.44255E+12,select,http://stackoverflow.com/questions/1128723/how-can-i-test-if-an-array-contains-a-certain-value,"Arrays.asList(yourArray).contains(yourValue)",B0007
+1.44237E+12,select,http://stackoverflow.com/search?q=currency%20format&s=99831671-c1a4-4d75-a46e-bba1669c9e33,"ncy Format Please help",A0054
+1.44237E+12,select,http://stackoverflow.com/search?q=currency%20format&s=99831671-c1a4-4d75-a46e-bba1669c9e33,"ncy Format Please help",A0054
+1.44416E+12,select,http://stackoverflow.com/questions/12021249/adding-jpanel-from-another-class-to-jpanel-in-jframe-begginer-java-programmer," ",A0054
+1.44416E+12,select,http://stackoverflow.com/questions/12021249/adding-jpanel-from-another-class-to-jpanel-in-jframe-begginer-java-programmer," ",A0054
+1.44424E+12,select,http://stackoverflow.com/questions/3268383/java-refreshing-an-array-into-jlist,"ate. ",A0054
+1.44424E+12,select,http://stackoverflow.com/questions/3268383/java-refreshing-an-array-into-jlist,"ate. ",A0054
+1.4464E+12,select,http://stackoverflow.com/questions/15963549/arraylist-swap-elements,"Collections.swap(List<?> list, int i, int j);",A0054
+1.44504E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"currentColor = Color.black;       rectList = new ArrayList();",A0088
+1.44504E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"ColorListener listener = new ColorListener();",A0088
+1.44504E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"anvas.addMouseListener(new PointListener());       canvas.addMouseMotionListener(new PointListener());",A0088
+1.44504E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"anvas.addMouseListener(new PointListener());       canvas.addMouseMotionListener(new PointListener());",A0088
+1.44504E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes," I was given this code by my professor and it should run as is. I compile it and get the following error.",A0088
+1.44504E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes," I was given this code by my professor and it should run as is. I compile it and get the following error.",A0088
+1.44504E+12,select,http://stackoverflow.com/questions/22089205/nullpointer-error-from-my-classes,"      canvas.addMouseListener(new PointListener());       canvas.addMouseMotionListener(new PointListener());",A0088
+1.44255E+12,select,http://stackoverflow.com/search?q=linetoparse%20java,"String lineToParse",A0005
+1.44255E+12,select,http://stackoverflow.com/search?q=linetoparse%20java,"String lineToParse",A0005
+1.44255E+12,select,http://stackoverflow.com/questions/21467462/how-to-parse-bank-information-into-particular-format-plus-java-questions/21467514#21467514,"neToPa",A0005
+1.44255E+12,select,http://stackoverflow.com/search?q=linetoparse%20java," parsing rarely comes up and it's never given a full ̢����_ explanation. I've looked through the java api documentation a few times and I never understand what it's saying, so I hope someone isn't too frustrated as to explain how to do it. The class is: BankParser ̢����_",A0005
+1.44255E+12,select,http://stackoverflow.com/search?q=linetoparse%20java,"CSE 205 at ASU",A0005
+1.44255E+12,select,http://stackoverflow.com/search?q=linetoparse%20java,"CSE 205 at ASU",A0005
+1.44255E+12,select,http://stackoverflow.com/questions/21467462/how-to-parse-bank-information-into-particular-format-plus-java-questions," lineToParse.",A0005
+1.44255E+12,select,http://stackoverflow.com/questions/21467462/how-to-parse-bank-information-into-particular-format-plus-java-questions," lineToParse.",A0005
+1.44255E+12,select,http://stackoverflow.com/questions/21467462/how-to-parse-bank-information-into-particular-format-plus-java-questions,"lineToParse",A0005
+1.44255E+12,select,http://stackoverflow.com/questions/8860343/defining-a-type-cast-in-java,"int)",A0005
+1.44255E+12,select,http://stackoverflow.com/questions/21952750/how-to-cast-string-with-decimala-bc-to-intabc-in-java,"Double.parseDouble",A0005
+1.44255E+12,select,http://stackoverflow.com/questions/21952750/how-to-cast-string-with-decimala-bc-to-intabc-in-java,"Integer.parseInt(",A0005
+1.44313E+12,select,http://stackoverflow.com/search?q=cast+java,"java",A0001
+1.44313E+12,select,http://stackoverflow.com/search?q=cast+java,"cast java",A0001
+1.44554E+12,select,http://stackoverflow.com/search?q=javax.swing+basic+components,"onent",A0001
+1.44555E+12,select,http://stackoverflow.com/questions/6095602/how-to-error-handle-java-code," THIS LINE  ",A0001
+1.44555E+12,select,http://stackoverflow.com/questions/6095602/how-to-error-handle-java-code," THIS LINE  ",A0001
+1.44555E+12,select,http://stackoverflow.com/questions/6095602/how-to-error-handle-java-code,"THIS LINE",A0001
+1.44555E+12,select,http://stackoverflow.com/questions/6095602/how-to-error-handle-java-code,"THIS LINE",A0001
+1.44555E+12,select,http://stackoverflow.com/questions/6095602/how-to-error-handle-java-code,"THIS LINE",A0001
+1.44495E+12,select,http://stackoverflow.com/search?q=3%20partition%20merge%20sort&s=e982ea0a-53ab-42a4-b77c-672f6fc611c7,"sort",A0077
+1.44495E+12,select,http://stackoverflow.com/search?q=3%20partition%20merge%20sort&s=e982ea0a-53ab-42a4-b77c-672f6fc611c7,"3 partition merge sort",A0077
+1.44495E+12,select,http://stackoverflow.com/search?q=merge%20sort,"sort",A0077
+1.44495E+12,select,http://stackoverflow.com/search?q=merge%20sort,"merge sort",A0077
+1.44263E+12,select,http://stackoverflow.com/questions/6468730/converting-double-to-integer-in-java," ",A0082
+1.44263E+12,select,http://stackoverflow.com/questions/8819842/best-way-to-format-a-double-value-to-2-decimal-places,"%.2f",A0082
+1.44806E+12,select,http://stackoverflow.com/questions/15983024/how-to-check-if-three-chars-equal-each-other-and-if-they-do-what-do-they-equal,"ould",A0082
+1.44806E+12,select,http://stackoverflow.com/questions/15983024/how-to-check-if-three-chars-equal-each-other-and-if-they-do-what-do-they-equal,"ould",A0082
+1.44127E+12,select,http://stackoverflow.com/questions/15711442/java-using-accessor-and-mutator-methods,"     ",A0010
+1.44127E+12,select,http://stackoverflow.com/questions/15711442/java-using-accessor-and-mutator-methods,"{ ",A0010
+1.4441E+12,select,http://stackoverflow.com/questions/5383983/java-how-to-update-jlist-once-jframe-has-been-loaded,"der to call the code above. The code is supposed to get contact names associated to that account and populate them into the JList. This does not happen. The Jlist stays blank, i debugged and the vector temp does get 3 values and stores them into the new jlist, the problem is, JList does not refresh. ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"show 7 more comments ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"show 7 more comments ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"show 7 more comments ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"show 7 more comments ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"show 7 more comments ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"show 7 more comments ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"activeoldestvotes",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"active",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"active",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"active",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"active",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"active",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"active",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"active",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects,"active",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," up vote",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," up vote",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," move Card key = new Card(0, "",""); inside the for cycle. Like this:",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," move Card key = new Card(0, "",""); inside the for cycle. Like this:",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," move Card key = new Card(0, "",""); inside the for cycle. Like this:",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," move Card key = new Card(0, "",""); inside the for cycle. Like this:",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44593E+12,select,http://stackoverflow.com/questions/23503921/java-insertion-sort-with-an-array-list-of-objects," ",A0010
+1.44598E+12,select,http://stackoverflow.com/questions/19616972/how-to-add-an-object-to-arraylist-in-java,"Data objt = new Data();         Contacts.add(objt.Data(name, address, contact));",A0010
+1.44073E+12,select,http://stackoverflow.com/search?q=read%20string%20into%20array%20in%20java,"java",A0064
+1.44073E+12,select,http://stackoverflow.com/search?q=read%20string%20into%20array%20in%20java,"read string into array in java",A0064
+1.44073E+12,select,http://stackoverflow.com/search?q=read%20string%20into%20array%20in%20java,"read string into array in java",A0064
+1.44078E+12,select,http://stackoverflow.com/questions/12885118/using-java-delimiters-to-match-any-one-character," ",A0064
+1.44078E+12,select,http://stackoverflow.com/questions/12885118/using-java-delimiters-to-match-any-one-character," ",A0064
+1.44502E+12,select,http://stackoverflow.com/questions/5152649/java-convert-mouseevent-to-actionevent,"e = new ActionEvent(me.getSource(), me.getID(), me.paramString());",A0022
+1.44417E+12,select,http://stackoverflow.com/questions/5477241/swing-java-how-to-use-the-gettext-and-settext-string-properly,"import javax.swing.JLabel;",A0050
+1.44805E+12,select,http://stackoverflow.com/questions/8172420/how-to-convert-a-char-to-a-string-in-java,"Character.toString(ch);",A0050
+1.44306E+12,select,http://stackoverflow.com/search?q=result%20+=%204%20-%20j&s=f3a358db-1ca1-47bd-bfee-89ac519fb973,"j",A0061
+1.44306E+12,select,http://stackoverflow.com/search?q=result%20+=%204%20-%20j&s=f3a358db-1ca1-47bd-bfee-89ac519fb973,"result  = 4 - j",A0061
+1.44359E+12,select,http://stackoverflow.com/questions/12884972/swing-changing-the-content-of-a-panel-using-updateui,"updateUI()",A0061
+1.4446E+12,select,http://stackoverflow.com/search?q=initializing+a+Color+object+in+java,"java",A0061
+1.4446E+12,select,http://stackoverflow.com/search?q=initializing+a+Color+object+in+java,"initializing a Color object in java",A0061
+1.44495E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort,"int[] data)",A0061
+1.44495E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort,"mergesort",A0061
+1.44496E+12,select,http://stackoverflow.com/questions/5977800/splitting-an-array,"unt is 3",A0061
+1.44496E+12,select,http://stackoverflow.com/questions/5977800/splitting-an-array,"ant to end up w",A0061
+1.44307E+12,select,http://stackoverflow.com/search?q=how%20do%20you%20add%20a%20scroll%20pane%20to%20a%20text%20area&s=901902e7-1f6d-4897-a5bd-d4394fdcf6b8,"add a scroll pane to a text area",A0021
+1.44134E+12,select,http://stackoverflow.com/questions/17986220/how-to-instantiate-an-object-in-java,"But that doesn't really make sense, your Sample method always returns 3 . ",A0046
+1.44254E+12,select,http://stackoverflow.com/questions/19289662/how-do-i-get-a-switch-statement-to-loop-back-into-a-menu," menu = true;",A0046
+1.44313E+12,select,http://stackoverflow.com/questions/14569138/java-why-label-setbackgroundcolor-doesnt-work," ",A0046
+1.44329E+12,select,http://stackoverflow.com/search?page=3&tab=relevance&q=in.hasnextdouble," votes",A0046
+1.44329E+12,select,http://stackoverflow.com/questions/19209411/how-to-read-and-add-only-numbers-to-array-from-a-text-file/19209458#19209458,"(in.hasNextDouble()) {                     Double f = in.nextDouble();",A0046
+1.44332E+12,select,http://stackoverflow.com/search?q=makeCenterPanel,"makeCenterPanel",A0046
+1.44332E+12,select,http://stackoverflow.com/search?q=makeCenterPanel,"makeCenterPanel",A0046
+1.44408E+12,select,http://stackoverflow.com/questions/2901720/java-detect-clicked-buttons,"getSource",A0046
+1.44409E+12,select,http://stackoverflow.com/questions/7512999/how-to-check-jtextfield-text-to-string,"  if(text.equals(compareTo)) {",A0046
+1.44458E+12,select,http://stackoverflow.com/search?q=in.nextDouble(),")",A0046
+1.44458E+12,select,http://stackoverflow.com/search?q=in.nextDouble(),"in.nextDouble()",A0046
+1.4446E+12,select,http://stackoverflow.com/search?q=.this%28%29,")",A0046
+1.4446E+12,select,http://stackoverflow.com/search?q=.this%28%29,".this()",A0046
+1.44461E+12,select,http://stackoverflow.com/questions/3695230/how-to-use-java-string-format-in-scala," am trying to use a .format method of a string. But if I place %1, %2, etc. in the string, java.util.UnknownFormatConversionException is thrown pointing to a confusing Java source code piece:",A0046
+1.44467E+12,select,http://stackoverflow.com/search?q=call%20toString%20from%20abstract%20method,"from",A0046
+1.44467E+12,select,http://stackoverflow.com/search?q=call%20toString%20from%20abstract%20method,"call toString from abstract method",A0046
+1.44475E+12,select,http://stackoverflow.com/questions/5234117/how-to-drop-columns-by-name-in-a-data-frame,"subset",A0046
+1.44683E+12,select,http://stackoverflow.com/questions/15689097/how-do-you-recursively-count-the-number-of-negative-numbers-in-an-array-java,"Start by implementing it for an array with 0 elemtents. The for an array of 1 element. The for an array of more,usign the previous results...",A0046
+1.44683E+12,select,http://stackoverflow.com/questions/15689097/how-do-you-recursively-count-the-number-of-negative-numbers-in-an-array-java,"Start by implementing it for an array with 0 elemtents. The for an array of 1 element. The for an array of more,usign the previous results...",A0046
+1.44683E+12,select,http://stackoverflow.com/questions/15689097/how-do-you-recursively-count-the-number-of-negative-numbers-in-an-array-java,"Start by implementing it for an array with 0 elemtents. The for an array of 1 element. The for an array of more,usign the previous results...",A0046
+1.44683E+12,select,http://stackoverflow.com/questions/15689097/how-do-you-recursively-count-the-number-of-negative-numbers-in-an-array-java," 0",A0046
+1.44683E+12,select,http://stackoverflow.com/questions/15689097/how-do-you-recursively-count-the-number-of-negative-numbers-in-an-array-java,"public static int countNegative(double[] numbers, int count){         int i=0;",A0046
+1.44683E+12,select,http://stackoverflow.com/questions/15689097/how-do-you-recursively-count-the-number-of-negative-numbers-in-an-array-java,"        int i=0;         if(numbers[count]<0)",A0046
+1.44683E+12,select,http://stackoverflow.com/questions/15689097/how-do-you-recursively-count-the-number-of-negative-numbers-in-an-array-java,"0 elements):",A0046
+1.44683E+12,select,http://stackoverflow.com/questions/15689097/how-do-you-recursively-count-the-number-of-negative-numbers-in-an-array-java,"public static int countNegative(double[] numbers, int count){         int i=0;",A0046
+1.44683E+12,select,http://stackoverflow.com/questions/15689097/how-do-you-recursively-count-the-number-of-negative-numbers-in-an-array-java,"public static int countNegative(double[] numbers, int count){         int i=0;",A0046
+1.44683E+12,select,http://stackoverflow.com/questions/15689097/how-do-you-recursively-count-the-number-of-negative-numbers-in-an-array-java,"This is my most recent attempt at countNegative. It just returns 99 (I have the array initialized with 100 elements):",A0046
+1.44814E+12,select,http://stackoverflow.com/questions/15141678/what-does-a-diamond-sign-signify-in-uml-class-diagrams,"as usages of both of these two kinds of diagrams.I want to understand what does the diamond signify in the second case and which one of these two gives a stronger association between Customer and Order. Is the Customer class responsible for the lifecycle of Order class in either of the two cases ? .",A0046
+1.44814E+12,select,http://stackoverflow.com/questions/15141678/what-does-a-diamond-sign-signify-in-uml-class-diagrams," Is the Customer class responsible for the lifecycle of Order class in either of the two cases ? .",A0046
+1.44606E+12,select,http://stackoverflow.com/questions/12838346/possible-exception-if-user-enters-string-instead-of-int,"NumberFormatException ",A0057
+1.44606E+12,select,http://stackoverflow.com/questions/12838346/possible-exception-if-user-enters-string-instead-of-int," ",A0057
+1.44606E+12,select,http://stackoverflow.com/questions/12838346/possible-exception-if-user-enters-string-instead-of-int," ",A0057
+1.44606E+12,select,http://stackoverflow.com/questions/14475556/how-to-sort-arraylist-of-objects,"int compare(Team o1, Team o2) {         if (o1.getPoints() > o2.getPoints())",A0057
+1.44606E+12,select,http://stackoverflow.com/questions/14475556/how-to-sort-arraylist-of-objects,"int compare(Team o1, Team o2) {         if (o1.getPoints() > o2.getPoints())",A0057
+1.44684E+12,select,http://stackoverflow.com/questions/19239669/try-to-get-the-sum-of-even-numbers-in-an-array-using-recursion,"   return 1 + countE(arr, head + 1);     } else {",A0057
+1.44684E+12,select,http://stackoverflow.com/questions/19239669/try-to-get-the-sum-of-even-numbers-in-an-array-using-recursion,"   return 1 + countE(arr, head + 1);     } else {",A0057
+1.44684E+12,select,http://stackoverflow.com/questions/19239669/try-to-get-the-sum-of-even-numbers-in-an-array-using-recursion," return 1 + countE(arr, head + 1);",A0057
+1.44495E+12,select,http://stackoverflow.com/search?q=clearing+array+method+java,"learin",A0024
+1.44495E+12,select,http://stackoverflow.com/search?q=clearing+array+method+java,"learing",A0024
+1.44495E+12,select,http://stackoverflow.com/search?q=emptying+array+method+java,"ing",A0024
+1.44495E+12,select,http://stackoverflow.com/search?q=how+to+empty+array+method+java,"method",A0024
+1.44803E+12,select,http://stackoverflow.com/questions/26699089/infix-to-postfix-using-stacks-java,"        case '-':             return !(op2 == '+' || op2 == '-');",A0049
+1.44803E+12,select,http://stackoverflow.com/questions/26699089/infix-to-postfix-using-stacks-java,"        case '-':             return !(op2 == '+' || op2 == '-');",A0049
+1.44803E+12,select,http://stackoverflow.com/questions/26699089/infix-to-postfix-using-stacks-java,"        case '-':             return !(op2 == '+' || op2 == '-');",A0049
+1.44803E+12,select,http://stackoverflow.com/questions/26699089/infix-to-postfix-using-stacks-java,"    switch (op1)     {",A0049
+1.44803E+12,select,http://stackoverflow.com/questions/26699089/infix-to-postfix-using-stacks-java,"    switch (op1)     {",A0049
+1.44486E+12,select,http://stackoverflow.com/questions/12208574/using-addmouselistener-and-paintcomponent-for-jpanel,"(mouseListener); }",A0052
+1.44486E+12,select,http://stackoverflow.com/questions/12208574/using-addmouselistener-and-paintcomponent-for-jpanel,"(mouseListener); }",A0052
+1.44486E+12,select,http://stackoverflow.com/questions/12208574/using-addmouselistener-and-paintcomponent-for-jpanel,"protected MouseListener createMouseListener() {     MouseListener l = new MouseListener() {",A0052
+1.44486E+12,select,http://stackoverflow.com/questions/12208574/using-addmouselistener-and-paintcomponent-for-jpanel,"protected MouseListener createMouseListener() {     MouseListener l = new MouseListener() {",A0052
+1.44495E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort,"public static void mergesort(int[] data) {     int elements = data.length - 1;",A0052
+1.44495E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort,"void merge(int arr1[], int arr2[]) {",A0052
+1.44496E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort,"3-way mergesort ",A0052
+1.44496E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort,"3-way mergesort ",A0052
+1.44496E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort,"3-way mergesort ",A0052
+1.44072E+12,select,http://stackoverflow.com/questions/9367554/finding-the-smallest-integer-based-on-input," ",B0012
+1.44072E+12,select,http://stackoverflow.com/questions/9367554/finding-the-smallest-integer-based-on-input," ",B0012
+1.4408E+12,select,http://stackoverflow.com/questions/9367554/finding-the-smallest-integer-based-on-input,"import java.util.Scanner; ",B0012
+1.4408E+12,select,http://stackoverflow.com/questions/22848723/recursion-computing-sum-of-positive-integers,"{             total = numbers[count-1] + computeSumPositive(numbers, count -1); ",B0012
+1.4408E+12,select,http://stackoverflow.com/questions/22848723/recursion-computing-sum-of-positive-integers,"{             total = numbers[count-1] + computeSumPositive(numbers, count -1); ",B0012
+1.44262E+12,select,http://stackoverflow.com/questions/14678523/formatting-a-decimal-within-a-tostring-method,"ding the appropriateness of BigDecimal, if you are dealing with money, which you are, where precision is required, use BigDecimal. ",B0012
+1.44262E+12,select,http://stackoverflow.com/questions/14678523/formatting-a-decimal-within-a-tostring-method,"ding the appropriateness of BigDecimal, if you are dealing with money, which you are, where precision is required, use BigDecimal. ",B0012
+1.44262E+12,select,http://stackoverflow.com/questions/13791409/java-format-double-value-as-dollar-amount,"NumberFormat formatter = NumberFormat.getCurrencyInstance();",B0012
+1.44496E+12,select,http://stackoverflow.com/questions/9355061/how-to-use-canvas-to-draw-multiple-rectangles-based-on-user-input,"     ",B0020
+1.44497E+12,select,http://stackoverflow.com/questions/9355061/how-to-use-canvas-to-draw-multiple-rectangles-based-on-user-input,"anel",B0020
+1.44497E+12,select,http://stackoverflow.com/questions/9355061/how-to-use-canvas-to-draw-multiple-rectangles-based-on-user-input,"xEnd-xStart",B0020
+1.44498E+12,select,http://stackoverflow.com/questions/9355061/how-to-use-canvas-to-draw-multiple-rectangles-based-on-user-input,"pointListen",B0020
+1.44503E+12,select,http://stackoverflow.com/questions/9355061/how-to-use-canvas-to-draw-multiple-rectangles-based-on-user-input,"public WholePanel()",B0020
+1.44503E+12,select,http://stackoverflow.com/questions/9355061/how-to-use-canvas-to-draw-multiple-rectangles-based-on-user-input,"private ArrayList<Rect> rectList; private Color currentColor;",B0020
+1.44503E+12,select,http://stackoverflow.com/questions/9355061/how-to-use-canvas-to-draw-multiple-rectangles-based-on-user-input,"private ArrayList<Rect> rectList; private Color currentColor;",B0020
+1.44503E+12,select,http://stackoverflow.com/questions/9355061/how-to-use-canvas-to-draw-multiple-rectangles-based-on-user-input,"vate class Canvas extends JP",B0020
+1.44503E+12,select,http://stackoverflow.com/questions/9355061/how-to-use-canvas-to-draw-multiple-rectangles-based-on-user-input,"vate ArrayList<Rect> rectList",B0020
+1.44549E+12,select,http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o,"Big-O notation is a relative representation of the complexity of an algorithm.",B0020
+1.44549E+12,select,http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o,"odes t",B0020
+1.44549E+12,select,http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o,"odes t",B0020
+1.4455E+12,select,http://stackoverflow.com/questions/6799731/jtabbedpane-changelistener,"1",B0020
+1.44077E+12,select,http://stackoverflow.com/search?q=how+to+get+more+than+one+input&s=41d9ad62-8c41-4a5f-bbd0-e816e38c7dbf,"input",A0080
+1.44077E+12,select,http://stackoverflow.com/search?q=how+to+get+more+than+one+input&s=41d9ad62-8c41-4a5f-bbd0-e816e38c7dbf,"how to get more than one input",A0080
+1.44077E+12,select,http://stackoverflow.com/search?q=how+to+get+more+than+one+input&s=41d9ad62-8c41-4a5f-bbd0-e816e38c7dbf,"how to get more than one input",A0080
+1.44077E+12,select,http://stackoverflow.com/search?q=how+to+get+more+than+one+input&s=41d9ad62-8c41-4a5f-bbd0-e816e38c7dbf,"how to get more than one input",A0080
+1.44077E+12,select,http://stackoverflow.com/questions/19109390/how-do-i-pass-variables-between-methods-in-java,"How do I pass variables between methods in java?",A0080
+1.44078E+12,select,http://stackoverflow.com/search?q=passing%20variables%20to%20main%20method&s=e7d79f1f-93a5-448e-8027-a7a0814530a3,"method",A0080
+1.44078E+12,select,http://stackoverflow.com/search?q=passing%20variables%20to%20main%20method&s=e7d79f1f-93a5-448e-8027-a7a0814530a3,"passing variables to main method",A0080
+1.44078E+12,select,http://stackoverflow.com/search?q=passing%20variables%20to%20main%20method&s=e7d79f1f-93a5-448e-8027-a7a0814530a3,"passing variables to main method",A0080
+1.44078E+12,select,http://stackoverflow.com/search?q=passing%20variables%20to%20main%20method&s=e7d79f1f-93a5-448e-8027-a7a0814530a3,"passing variables to main method",A0080
+1.4441E+12,select,http://stackoverflow.com/questions/9212155/java-boxlayout-panels-alignment,"NMENT );//0.0    b.setAlignmentX( Component.LEFT_ALIGNMENT );//0.0",A0080
+1.44418E+12,select,http://stackoverflow.com/questions/10675064/find-duplicates-of-a-vector-and-delete-preserving-the-order-of-parallel-vectors,"Stack Exchange Inbox Reputation and Badges sign up log in tour help  stack overflow careers   ",A0080
+1.44437E+12,select,http://stackoverflow.com/questions/21174997/how-to-add-mouselistener-to-item-on-java-swing-canvas," ",A0080
+1.44437E+12,select,http://stackoverflow.com/questions/21174997/how-to-add-mouselistener-to-item-on-java-swing-canvas," ",A0080
+1.44495E+12,select,http://stackoverflow.com/search?q=merge+sort+examples++arraylisr+java,"examples  ",A0080
+1.44504E+12,select,http://stackoverflow.com/questions/26638620/java-add-rectangles-to-arraylist-and-then-draw-them,"  Don't make Shapes a JPanel. Also take out its paintComponent method.",A0080
+1.44504E+12,select,http://stackoverflow.com/questions/26638620/java-add-rectangles-to-arraylist-and-then-draw-them,"  Don't make Shapes a JPanel. Also take out its paintComponent method.",A0080
+1.44545E+12,select,http://stackoverflow.com/questions/9441422/how-to-make-a-jpanel-inside-a-jframe-fill-the-whole-window,"et BorderLayout in frame. Add panel in frame with BorderLayout.CENT",A0080
+1.44545E+12,select,http://stackoverflow.com/questions/9441422/how-to-make-a-jpanel-inside-a-jframe-fill-the-whole-window,"et BorderLayout in frame. Add panel in frame with BorderLayout.CENT",A0080
+1.44141E+12,select,http://stackoverflow.com/questions/22977705/java-accessor-method-mutator-method,"accessor",B0027
+1.44141E+12,select,http://stackoverflow.com/questions/22977705/java-accessor-method-mutator-method,"Any method that changes an object's state is properly a mutator. As you are changing the dimensions (through the swap) it is a mutation. These would be accessor methods given your class definition, ",B0027
+1.44141E+12,select,http://stackoverflow.com/questions/22977705/java-accessor-method-mutator-method,"Any method that changes an object's state is properly a mutator. As you are changing the dimensions (through the swap) it is a mutation. These would be accessor methods given your class definition, ",B0027
+1.44141E+12,select,http://stackoverflow.com/questions/22977705/java-accessor-method-mutator-method,"See this discussion of the meaning of accessor methods. The general opinion is that they do not modify state. If you are rotating the object, you are modifying its state and rotate is mutating the object. ",B0027
+1.44141E+12,select,http://stackoverflow.com/questions/22977705/java-accessor-method-mutator-method,"See this discussion of the meaning of accessor methods. The general opinion is that they do not modify state. If you are rotating the object, you are modifying its state and rotate is mutating the object. ",B0027
+1.44254E+12,select,http://stackoverflow.com/questions/2534733/java-protected-classes,"be",B0027
+1.44254E+12,select,http://stackoverflow.com/questions/2534733/java-protected-classes,"I'd like to be able to have two protected classes in my package. That is, I do not want files outside of my package to see them as visible - they will be for internal use within the package only. ",B0027
+1.44254E+12,select,http://stackoverflow.com/questions/2534733/java-protected-classes,"I'd like to be able to have two protected classes in my package. That is, I do not want files outside of my package to see them as visible - they will be for internal use within the package only. ",B0027
+1.44495E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort," ",B0027
+1.44495E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort,"What I've done is first of all split the array in 3 parts depending the circumstances, after that I sort the 3 parts of the array and later I try merging the first 2 parts and then the combined part with the last part. ",B0027
+1.44495E+12,select,http://stackoverflow.com/questions/10638549/3-way-mergesort,"What I've done is first of all split the array in 3 parts depending the circumstances, after that I sort the 3 parts of the array and later I try merging the first 2 parts and then the combined part with the last part. ",B0027
+1.44495E+12,select,http://stackoverflow.com/questions/10667884/3-partition-mergesort,"doing",B0027
+1.44495E+12,select,http://stackoverflow.com/questions/10667884/3-partition-mergesort,"That was the exact question from the professor. Problem is I have found no such thing as a 3-way mergesort I only know of a 3-way quicksort so I thought that he probably meant to take an array, split it into 3 parts and then mergesort those 3 parts together and I'm doing this by mergesorting the first 2 parts together and then mergesorting the combined part with the 3rd part. ",B0027
+1.44495E+12,select,http://stackoverflow.com/questions/10667884/3-partition-mergesort,"That was the exact question from the professor. Problem is I have found no such thing as a 3-way mergesort I only know of a 3-way quicksort so I thought that he probably meant to take an array, split it into 3 parts and then mergesort those 3 parts together and I'm doing this by mergesorting the first 2 parts together and then mergesorting the combined part with the 3rd part. ",B0027
+1.44496E+12,select,http://stackoverflow.com/questions/20389890/generating-a-random-number-between-1-and-10-java,"random.nextInt(",B0027
+1.44496E+12,select,http://stackoverflow.com/questions/20389890/generating-a-random-number-between-1-and-10-java,"random.nextInt(ma",B0027
+1.44496E+12,select,http://stackoverflow.com/questions/20389890/generating-a-random-number-between-1-and-10-java,"random.nextInt(max - min + 1) + min",B0027
+1.44496E+12,select,http://stackoverflow.com/questions/20389890/generating-a-random-number-between-1-and-10-java,"random.nextInt(max - min + 1) + min",B0027
+1.44651E+12,select,http://stackoverflow.com/questions/2885173/how-to-create-a-file-and-write-to-a-file-in-java,"tput",B0027
+1.44651E+12,select,http://stackoverflow.com/questions/2885173/how-to-create-a-file-and-write-to-a-file-in-java,"he-file-nam",B0027
+1.44651E+12,select,http://stackoverflow.com/questions/2885173/how-to-create-a-file-and-write-to-a-file-in-java,"he-file-nam",B0027
+1.44651E+12,select,http://stackoverflow.com/questions/2885173/how-to-create-a-file-and-write-to-a-file-in-java,"the-file-name",B0027
+1.44651E+12,select,http://stackoverflow.com/questions/2885173/how-to-create-a-file-and-write-to-a-file-in-java,"file",B0027
+1.44651E+12,select,http://stackoverflow.com/questions/2885173/how-to-create-a-file-and-write-to-a-file-in-java,"file",B0027
+1.44651E+12,select,http://stackoverflow.com/questions/2885173/how-to-create-a-file-and-write-to-a-file-in-java,"dataToWrite",B0027
+1.44651E+12,select,http://stackoverflow.com/questions/2885173/how-to-create-a-file-and-write-to-a-file-in-java,"dataToWrite",B0027
+1.44616E+12,select,http://stackoverflow.com/questions/4064633/string-comparison-in-java,".compareToIgnoreCase ()",A0018
+1.44264E+12,select,http://stackoverflow.com/questions/5895338/java-format-double-with-decimals/5895513#5895513,"N",B0018
+1.44073E+12,select,http://stackoverflow.com/questions/4011002/java-eclipse-on-macosx-where-is-the-src-zip,"activeoldestvotes",B0024
+1.44073E+12,select,http://stackoverflow.com/questions/4011002/java-eclipse-on-macosx-where-is-the-src-zip,"activeoldestvotes",B0024
+1.44073E+12,select,http://stackoverflow.com/questions/4011002/java-eclipse-on-macosx-where-is-the-src-zip,"  ",B0024
+1.44262E+12,select,http://stackoverflow.com/questions/1197634/java-error-implicit-super-constructor-is-undefined-for-default-constructor,"public ACSubClass() {     super();",B0024
+1.44194E+12,select,http://stackoverflow.com/search?q=how+to+converse+down+case+to+up+case,"converse down case to up case",A0008
+1.4426E+12,select,http://stackoverflow.com/questions/2390063/what-does-public-static-void-mean-in-java,"method is associated with the class",A0008
+1.44261E+12,select,http://stackoverflow.com/questions/23735970/superclass-package-vs-class,"ifferent classes in it and",A0008
+1.44261E+12,select,http://stackoverflow.com/questions/23735970/superclass-package-vs-class,"ne of those ",A0008
+1.44261E+12,select,http://stackoverflow.com/questions/23735970/superclass-package-vs-class,"sses. Is this correct? If java.utilpackage has different classes in it and one of those classes is Random cl",A0008
+1.44261E+12,select,http://stackoverflow.com/questions/23735970/superclass-package-vs-class,"es Random class have the acm.util packages in it? Are packages extensions of classes?",A0008
+1.44261E+12,select,http://stackoverflow.com/questions/23735970/superclass-package-vs-class,"es Random class have the acm.util packages in it? Are packages extensions of classes?",A0008
+1.44263E+12,select,http://stackoverflow.com/search?q=number%20format%20persentage&s=cd5d7e84-df17-4d7b-b91a-9af58d0dc67b,"persentage",A0008
+1.44495E+12,select,http://stackoverflow.com/questions/11461607/cant-start-eclipse-java-was-started-but-returned-exit-code-13,"C:Progra",A0008
+1.44495E+12,select,http://stackoverflow.com/questions/11461607/cant-start-eclipse-java-was-started-but-returned-exit-code-13,"C:Progra",A0008
+1.44502E+12,select,http://stackoverflow.com/search?q=how%20to%20transfer%20int%20to%20color,"how to transfer int to color",A0008
+1.4461E+12,select,http://stackoverflow.com/questions/8394252/what-is-the-point-of-using-abstract-methods,"instantiated,",A0008
+1.4461E+12,select,http://stackoverflow.com/questions/8394252/what-is-the-point-of-using-abstract-methods,"instantiated",A0008
+1.44679E+12,select,http://stackoverflow.com/questions/9441094/why-it-is-mandatory-to-use-throws-ioexception,"mandatory",A0008
+1.44679E+12,select,http://stackoverflow.com/questions/9441094/why-it-is-mandatory-to-use-throws-ioexception,"mandatory",A0008

@@ -1,0 +1,695 @@
+timestamp,intention,query,u_id
+1.44139E+12,KS,"abstract classes",A0082
+1.44139E+12,KS,"subclass",A0082
+1.44142E+12,PS,"/n two in a row",A0082
+1.44072E+12,ML,"how to get main method",A0008
+1.44074E+12,KS,"new scanner (system.in)",A0008
+1.44074E+12,NA,"nextInt()",A0008
+1.44074E+12,NA,"do loop",A0008
+1.44074E+12,NA,"while-do loop",A0008
+1.44127E+12,KS,"what meaning of /n",A0008
+1.44192E+12,KS,"nextString",A0008
+1.44194E+12,ML,"how to converse case",A0008
+1.44194E+12,NA,"how to converse downcase to upcase",A0008
+1.44194E+12,NA,"how to converse down case to up case",A0008
+1.44194E+12,NA,"how to use euqals to ignoring case",A0008
+1.44263E+12,KS,"number format persentage",A0008
+1.44263E+12,NA,"use number format to get persentage",A0008
+1.44495E+12,KS,"simple",A0008
+1.44495E+12,NA,"sample",A0008
+1.44502E+12,ML,"JRadioButton",A0008
+1.44502E+12,ML,"how to transfer int to color",A0008
+1.44502E+12,NA,"how to transfer int to Color",A0008
+1.44502E+12,ML,"Color[]",A0008
+1.44801E+12,ML,"what method can decide character to operand ",A0008
+1.44801E+12,NA,"askto method",A0008
+1.44801E+12,NA,"ask to method",A0008
+1.44133E+12,KS,"How to call from other class",B0026
+1.44133E+12,NA,"How to call methods from other class",B0026
+1.44138E+12,PS,"call method from other class",B0026
+1.44138E+12,NA,"print method from other class",B0026
+1.44138E+12,NA,"call private method from other class",B0026
+1.44138E+12,NA,"print private value from other method",B0026
+1.44138E+12,NA,"print private value from other class",B0026
+1.4426E+12,PS,"parser",B0026
+1.44261E+12,NA,"parser java",B0026
+1.44261E+12,PS,"array",B0026
+1.44262E+12,PS,"read from",B0026
+1.44262E+12,PS,"read from java",B0026
+1.44262E+12,NA,"read string from java",B0026
+1.44262E+12,KS,"parseInteger",B0026
+1.44176E+12,KS,"what is the length method",B0018
+1.44262E+12,KS,"how do you know whats private or public",B0018
+1.44262E+12,KS,"whats the symbol for private method",B0018
+1.44262E+12,KS,"how to create a subclass",B0018
+1.44262E+12,NA,"how to create a subclass in java",B0018
+1.44263E+12,ML,"how to write a toString",B0018
+1.44263E+12,KS,"how to format decimals",B0018
+1.44264E+12,KS,"how to use java.text.DecimalFormat",B0018
+1.44264E+12,NA,"how to use java.text.DecimalFormat in a string",B0018
+1.44075E+12,ML,"initialize array list",A0065
+1.44495E+12,KS,"sorting numbers in a array",A0043
+1.44237E+12,PS,"how to take of certain decimal places",A0020
+1.44237E+12,NA,"how to take off certain decimal places in java",A0020
+1.44237E+12,NA,"fixing decimal places in java",A0020
+1.44607E+12,KS,"Does .contains search through an entire array",A0020
+1.44607E+12,NA,"how to search through an entire array for an item",A0020
+1.44607E+12,NA,"how to search through an entire array for an item in java",A0020
+1.44607E+12,NA,"finding objects in an array",A0020
+1.44616E+12,KS,"how to check if an arraylist is empty",A0020
+1.44616E+12,NA,"how to return an array list from a different class",A0020
+1.44624E+12,PS,"selection sorting arraylists",A0020
+1.44624E+12,NA,"using comparator with arrays",A0020
+1.44651E+12,PS,"write a text (string) to the specified file",A0020
+1.44651E+12,NA,"java write a string to a specified file",A0020
+1.4467E+12,NA,"recursive counter",A0020
+1.4467E+12,NA,"how to count something in a recursive method java",A0020
+1.4467E+12,NA,"counting even values in an array recursively",A0020
+1.4467E+12,NA,"getting recursive methods to work in java",A0020
+1.4472E+12,NA,"counting the size of nodes in a linked list",A0020
+1.4472E+12,NA,"counting the size of nodes in a linked list java",A0020
+1.4472E+12,NA,"counting the number of nodes in a linked list java",A0020
+1.44263E+12,KS,"	",A0019
+1.44263E+12,NA,"	",A0019
+1.44263E+12,KS,"inheritance",A0019
+1.44263E+12,KS,"abstract classes",A0019
+1.44263E+12,NA,"implementing abstract classes",A0019
+1.44263E+12,KS,"parsing a string",A0019
+1.44263E+12,KS,"java split funtion",A0019
+1.44401E+12,KS,"panels",A0019
+1.44401E+12,KS,"vector",A0019
+1.44401E+12,NA,"vector java",A0019
+1.44401E+12,KS,"what is a vector",A0019
+1.44402E+12,KS,"buttonlistener class",A0019
+1.44412E+12,PS,"new line with setText java",A0019
+1.44495E+12,PS,"get and set methods",A0019
+1.44495E+12,PS,"merge arraylist",A0019
+1.44737E+12,KS,"how to get size of linkedlist",A0019
+1.44075E+12,PS,"scanner never closes",A0080
+1.44077E+12,KS,"how to use variable from another method",A0080
+1.44077E+12,KS,"Calling a function and getting value from variable in that method",A0080
+1.44077E+12,NA,"Calling a function ",A0080
+1.44077E+12,NA,"Calling a function java",A0080
+1.44077E+12,NA,"displaying variables from other function",A0080
+1.44077E+12,NA,"displaying variables from other method java",A0080
+1.44077E+12,NA,"how to get more than one input",A0080
+1.44078E+12,KS,"passing variables to main method",A0080
+1.44078E+12,NA,"passing variables to main method java",A0080
+1.44126E+12,KS,"how to use stringto()",A0080
+1.44126E+12,NA,"how to use toString()",A0080
+1.44126E+12,NA,"toString",A0080
+1.44126E+12,NA,"toString",A0080
+1.44126E+12,NA,"toString() java",A0080
+1.44243E+12,KS,"lineToParse",A0080
+1.44243E+12,NA,"lineToParse java",A0080
+1.44495E+12,KS,"merge sort examples java",A0080
+1.44495E+12,NA,"merge sort examples  arraylisr java",A0080
+1.44495E+12,NA,"merge sort arraylist java",A0080
+1.44495E+12,KS,"read number sequence from console",A0080
+1.44495E+12,NA,"read number sequence from console java",A0080
+1.44073E+12,KS,"why do we need static modifier?",A0041
+1.44107E+12,KS,"why do we need static functions",A0041
+1.44108E+12,NA,"java static method",A0041
+1.44139E+12,PS,"constructors java",A0041
+1.44139E+12,KS,"tostring",A0041
+1.44139E+12,NA,"tostring java",A0041
+1.4414E+12,KS,"super keyword java",A0041
+1.44237E+12,KS,"protected keyword",A0041
+1.44291E+12,KS,"type conversions",A0041
+1.44291E+12,NA,"type conversions java",A0041
+1.44291E+12,NA,"type conversions java int double string",A0041
+1.44291E+12,KS,"transform double into string",A0041
+1.44291E+12,KS,"generic data types java",A0041
+1.44495E+12,KS,"jradiobutton default selection",A0041
+1.44495E+12,NA,"return array function",A0041
+1.44495E+12,NA,"return array function java",A0041
+1.44495E+12,NA,"merge and sort arrays",A0041
+1.44495E+12,NA,"merge and sort array numbers",A0041
+1.44495E+12,NA,"merge and sort array numbers java",A0041
+1.44495E+12,PS,"3 parting merge sort",A0018
+1.44495E+12,PS,"merge sort",A0018
+1.44495E+12,PS,"3 partitin merge sort",A0018
+1.44495E+12,NA,"3 partition merge sort",A0018
+1.44495E+12,ML,"3-partition merge sort",A0018
+1.44055E+12,ML,"for loops",A0067
+1.44409E+12,ML,"gridbag layout",A0067
+1.44484E+12,KS,"adding object to array",A0067
+1.44484E+12,NA,"adding to array",A0067
+1.44484E+12,NA,"color",A0067
+1.44484E+12,NA,"color black",A0067
+1.44484E+12,NA,"java color code",A0067
+1.44487E+12,KS,"button group",A0067
+1.44495E+12,PS,"2 partition merge sort",A0067
+1.44495E+12,PS,"2 partition merge sort",A0067
+1.44495E+12,KS,"ordered number array",A0067
+1.44495E+12,NA,"ordered number array java",A0067
+1.44495E+12,ML,"order numbers in an array",A0067
+1.44496E+12,ML,"merge array list",A0067
+1.44496E+12,ML,"3-partition merge sort",A0067
+1.44072E+12,PS,"java string to array",A0064
+1.44073E+12,PS,"covert string to int array in java",A0064
+1.44073E+12,PS,"read string into array in java",A0064
+1.44073E+12,NA,"java convert string array to int array",A0064
+1.44073E+12,NA,"how to read string with both positive and negative integers into array",A0064
+1.44495E+12,KS,"merge sort",A0064
+1.44495E+12,PS,"merge arrays to sorted result",A0064
+1.44495E+12,NA,"merge arrays to sorted result java",A0064
+1.44496E+12,PS,"merge sort trivial case java",A0064
+1.44072E+12,KS,"java classes",A0052
+1.44495E+12,KS,"3 partition merge sort",A0052
+1.44495E+12,NA,"3 partition merge sort of array list",A0052
+1.44495E+12,NA,"implementation of 3 part merge sort",A0052
+1.44495E+12,NA,"implementation of 3 partition merge sort",A0052
+1.44514E+12,KS,"throwing an exception",A0052
+1.44514E+12,KS,"throwing an exception java",A0052
+1.44514E+12,KS,"what is throwing an exception java?",A0052
+1.44729E+12,KS,"compareTo linkedlists",A0052
+1.44057E+12,KS,"enhanced for loop",A0074
+1.44057E+12,KS,"java enhanced for loop",A0074
+1.44078E+12,KS,"java enhanced for loop",A0074
+1.44078E+12,KS,"java static modifier",A0074
+1.44078E+12,KS,"java arraylist",A0074
+1.44078E+12,KS,"java netbeans javadoc generation",A0074
+1.44097E+12,KS,"python best ide",A0074
+1.441E+12,KS,"java inheritance constuctor",A0074
+1.441E+12,KS,"java using constructor in another class",A0074
+1.441E+12,KS,"java access default constructor",A0074
+1.441E+12,KS,"java access default constructor from another class",A0074
+1.441E+12,KS,"java dot operations",A0074
+1.441E+12,KS,"java new objects",A0074
+1.441E+12,KS,"java create new objects",A0074
+1.44109E+12,KS,"r convert probability to z ",A0074
+1.44135E+12,KS,"command prompt",A0074
+1.44135E+12,KS,"java automate input read",A0074
+1.44135E+12,KS,"java bat files",A0074
+1.44135E+12,KS,"java javac.exe",A0074
+1.4414E+12,KS,"java change dir",A0074
+1.4414E+12,KS,"java netbean change dir",A0074
+1.44221E+12,KS,"java google api",A0074
+1.44221E+12,KS,"java store web to txt",A0074
+1.44221E+12,KS,"java save web to txt",A0074
+1.44221E+12,KS,"java extract information from web",A0074
+1.44221E+12,KS,"java combobox",A0074
+1.44255E+12,KS,"java super",A0074
+1.44255E+12,KS,"java abstract",A0074
+1.44256E+12,KS,"java this",A0074
+1.44256E+12,KS,"java malform exception",A0074
+1.44256E+12,NA,"java malformexception",A0074
+1.44256E+12,KS,"java polumorphism",A0074
+1.44256E+12,KS,"java polymorphism",A0074
+1.44256E+12,KS,"java number format",A0074
+1.44279E+12,KS,"java enhance for loop",A0074
+1.44279E+12,KS,"java array initialization",A0074
+1.44279E+12,NA,"java array",A0074
+1.44279E+12,KS,"java polymorphism",A0074
+1.4441E+12,KS,"button listener",A0074
+1.44413E+12,KS,"java vector",A0074
+1.44487E+12,KS,"insert element into array java",A0074
+1.44487E+12,KS,"java color class",A0074
+1.44487E+12,KS,"java Radio Buttons",A0074
+1.44488E+12,KS,"java swtich",A0074
+1.44495E+12,KS,"merge sort",A0074
+1.44495E+12,KS,"increasing sort",A0074
+1.44495E+12,KS,"merge sort",A0074
+1.44549E+12,KS,"merge sort divided in 3",A0074
+1.44562E+12,KS,"netbeans run applet",A0074
+1.44632E+12,KS,"compare stringd",A0074
+1.44632E+12,KS,"compare strings",A0074
+1.44632E+12,KS,"java compare string alphabetically",A0074
+1.44644E+12,KS,"java recursive find min",A0074
+1.44644E+12,KS,"insertion sort java",A0074
+1.44645E+12,KS,"sort comparator",A0074
+1.4468E+12,KS,"solve recursive",A0074
+1.44712E+12,KS,"java access node linkedlist",A0074
+1.4474E+12,KS,"java remove element at index",A0074
+1.448E+12,KS,"stack",A0074
+1.44312E+12,KS,"wrapper classes",A0001
+1.44313E+12,NA,"cast",A0001
+1.44313E+12,NA,"cast java",A0001
+1.44313E+12,NA,"implements keyword java",A0001
+1.44418E+12,NA,"how to handle button events",A0001
+1.44418E+12,NA,"button events using try catch block",A0001
+1.44418E+12,NA,"java button events using try catch block",A0001
+1.44502E+12,ML,"point listeners java",A0001
+1.44554E+12,KS,"common gui components from javax.swing & java.awt packages",A0001
+1.44554E+12,NA,"javax.swing basic components",A0001
+1.44554E+12,NA,"error handling java",A0001
+1.44804E+12,KS,"stacks java",A0001
+1.44807E+12,KS,"infix to postfix",A0001
+1.44807E+12,NA,"infix to postfix java",A0001
+1.44495E+12,KS,"3-partition merge sort",A0057
+1.44496E+12,KS,"partition input array",A0057
+1.44055E+12,KS,"java for loop syntax",A0073
+1.44236E+12,KS,"abstract class",A0073
+1.4426E+12,KS,"where do you import Number format class from",A0073
+1.44261E+12,KS,"parse",A0073
+1.44261E+12,ML,"parse in java",A0073
+1.44495E+12,PS,"3 partition merge sort",A0073
+1.44495E+12,PS,"get ith term in arraylist",A0073
+1.44495E+12,NA,"get i term in arraylist",A0073
+1.445E+12,KS,"different types of layouts in java",A0073
+1.445E+12,ML,"jsplitpane",A0073
+1.44595E+12,KS,"serializable interface",A0073
+1.44132E+12,KS,"multiple classes in java",A0040
+1.44504E+12,ML,"how to sort by divide and conquer",A0040
+1.44504E+12,KS,"what are alternatives to eclipse java",A0040
+1.44504E+12,KS,"recursive sorting algorithms",A0040
+1.44553E+12,KS,"subString",A0037
+1.44553E+12,KS,"subString",A0037
+1.44553E+12,ML,"substring",A0037
+1.44677E+12,KS,"How do I make an array?",A0034
+1.4478E+12,KS,"find minimum",A0034
+1.4478E+12,NA,"find minimum integer",A0034
+1.44072E+12,KS,"thenewboston",A0061
+1.44306E+12,PS,"result += 4 - j",A0061
+1.44306E+12,NA,"what does += do",A0061
+1.44306E+12,NA,"+=",A0061
+1.44307E+12,KS,"rectangle class",A0061
+1.44307E+12,KS,"rectangle arguments",A0061
+1.44312E+12,PS,"printing an array in MIPS",A0061
+1.44316E+12,ML,"how to check if there is overflow in MIPS",A0061
+1.44316E+12,ML,"overflow in MIPS",A0061
+1.44321E+12,KS,"how does MARS store data",A0061
+1.44348E+12,ML,"implementing borderlayout",A0061
+1.44359E+12,ML,"UpdateUI",A0061
+1.4446E+12,ML,"initializing a Color object",A0061
+1.4446E+12,NA,"initializing a Color object in java",A0061
+1.4446E+12,NA,"Color ",A0061
+1.4446E+12,NA,"Color object in java",A0061
+1.44495E+12,KS,"Mergesort",A0061
+1.44496E+12,PS,"splitting an array",A0061
+1.44496E+12,NA,"splitting an array java",A0061
+1.44495E+12,ML,"merge sort ",A0024
+1.44495E+12,KS,"3-partition merge sort",A0024
+1.44495E+12,NA," merge sort",A0024
+1.44495E+12,ML,"swap",A0024
+1.44495E+12,ML,"swap java",A0024
+1.44495E+12,ML,"swapping arrays in an arraylist",A0024
+1.44495E+12,ML,"how to empty an array",A0024
+1.44495E+12,ML,"clearing array",A0024
+1.44495E+12,NA,"clearing array method java",A0024
+1.44495E+12,NA,"emptying array method java",A0024
+1.44495E+12,NA,"how to empty array method java",A0024
+1.44495E+12,NA,"how to empty array  java",A0024
+1.44495E+12,KS,"constructor methods",A0024
+1.44495E+12,NA,"object constructor",A0024
+1.442E+12,ML,"convert string to int",A0044
+1.44243E+12,KS,"bufferedreader vs scanner",A0044
+1.44244E+12,PS,"nullpointerexception arraylist",A0044
+1.44297E+12,KS,"convert string to int",A0044
+1.44496E+12,KS,"merge sort",A0044
+1.44495E+12,PS,"sample",A0042
+1.44495E+12,KS,"partition",A0042
+1.44495E+12,NA,"partition merge sor",A0042
+1.44495E+12,NA,"partition merge sort",A0042
+1.44495E+12,KS,"merge sort",A0042
+1.44495E+12,KS,"merge sort",A0042
+1.44495E+12,KS,"sort 3 arrays",A0042
+1.44495E+12,NA,"sort then merge",A0042
+1.44081E+12,KS,"do-while",B0025
+1.44081E+12,ML,"finding the max integer ",B0025
+1.44081E+12,NA,"finding the max integer in java",B0025
+1.44142E+12,ML,"encapsulation",B0025
+1.44142E+12,ML,"mutating a class",B0025
+1.44495E+12,KS,"merge sort",A0081
+1.44495E+12,PS,"assign new value to arraylist ",A0081
+1.44495E+12,PS,"merge sort using arraylist",A0081
+1.44495E+12,PS,"switch values in arraylist size 2",A0081
+1.44495E+12,PS,"Switch values in arraylist",A0081
+1.44495E+12,KS,"Switch values in arraylist",A0081
+1.44495E+12,ML,"switch values in arraylist ",A0081
+1.44495E+12,KS,"switch values in arraylist",A0081
+1.44065E+12,KS,"find the minimum integer",A0009
+1.44192E+12,KS,"how to define '#'",A0009
+1.44192E+12,NA,"how to define '#'",A0009
+1.44235E+12,KS,"public static Product parseStringToProduct(String lineToParse)",A0009
+1.44235E+12,KS,"public static Product parseStringToProduct(String lineToParse)",A0009
+1.44235E+12,NA,"public static Product parseStringToProduct",A0009
+1.44235E+12,NA,"Product parseStringToProduct",A0009
+1.44235E+12,KS,"protect",A0009
+1.44382E+12,KS,"Container container = getContentPane()",A0009
+1.44382E+12,KS,"private Container getContentPane() {",A0009
+1.44496E+12,KS,"3 partition merge sort",A0009
+1.44496E+12,NA," merge sort",A0009
+1.44504E+12,KS,"clear();",A0009
+1.44504E+12,NA,"clear(); java",A0009
+1.44658E+12,PS,"how to find evenIndex number in an array",A0009
+1.44658E+12,KS,"how to find evenIndex number in an array",A0009
+1.44658E+12,NA,"how to find even Index ",A0009
+1.44736E+12,PS,"counthowmany object",A0009
+1.44736E+12,NA,"counthowmany",A0009
+1.44736E+12,NA,"countHowMany(Object searchedObject)countHowMany(Object searchedObject)",A0009
+1.44736E+12,NA,"countHowMany(Object searchedObject)",A0009
+1.44736E+12,NA,"countHowMany(Object)",A0009
+1.44736E+12,NA,"removeDuplicate() method",A0009
+1.44141E+12,PS,"What is null pointer exception in java?",A0047
+1.44141E+12,PS,"converting double to string",A0047
+1.44256E+12,PS,"rounding in java",A0047
+1.44366E+12,KS,"vector class in java",A0047
+1.44394E+12,KS,"making labels bold",A0047
+1.44394E+12,NA,"making jlabels bold",A0047
+1.4447E+12,NA,"canvaspanel",A0047
+1.44139E+12,KS,"writing a to string method",A0011
+1.44139E+12,NA,"how to write a toString method",A0011
+1.44139E+12,KS,"how do I import a class",A0011
+1.44139E+12,PS,"cannot make a static reference to non-static reference",A0011
+1.44139E+12,NA,"how to write a mutator method",A0011
+1.44185E+12,KS,"writing a mutator method",A0011
+1.44185E+12,NA,"how do i make an overloaded mutator method",A0011
+1.44185E+12,NA,"overloaded mutator method",A0011
+1.44185E+12,NA,"inherit from abstract parent class",A0011
+1.44185E+12,NA,"subclass",A0011
+1.44185E+12,NA,"abstract classs",A0011
+1.44185E+12,NA,"abstract class",A0011
+1.44185E+12,NA,"how to set a variable in an abstract class using an overloaded constructor",A0011
+1.44202E+12,NA,"argument",A0011
+1.44202E+12,NA,"parse",A0011
+1.44202E+12,NA,"java parse string",A0011
+1.44202E+12,NA,"parser method",A0011
+1.44202E+12,NA,"parser method java",A0011
+1.44202E+12,NA,"utility class",A0011
+1.44238E+12,KS,"How do i change a string variable into an int",A0011
+1.44238E+12,NA,"how to use child class toString method",A0011
+1.44238E+12,NA,"how to call a tostring method",A0011
+1.44238E+12,KS,"how to format a number as a percentage",A0011
+1.44238E+12,NA,"how to format a number as a percentage in java",A0011
+1.4426E+12,NA,"how to use decimal format",A0011
+1.44383E+12,KS,"gridlayout movement",A0011
+1.44383E+12,NA,"gridlayout move",A0011
+1.44383E+12,NA,"gridlayout move to another cell java",A0011
+1.44383E+12,NA,"can I use GridLayout with borderLayout",A0011
+1.44384E+12,KS,"how do i iterate through a vector",A0011
+1.44384E+12,NA,"how do i iterate through a vector of strings",A0011
+1.4445E+12,KS,"Array of colors",A0011
+1.4445E+12,NA,"java color array",A0011
+1.4445E+12,NA,"arrays",A0011
+1.4445E+12,KS,"JRadioButton Array",A0011
+1.4453E+12,KS,"how to sort alphabetically",A0011
+1.4453E+12,NA,"sort alphabetically java",A0011
+1.4458E+12,PS,"scanner breaking program",A0011
+1.4458E+12,PS,"obsolete methods",A0011
+1.44581E+12,PS,"scanner not scanning file",A0011
+1.44631E+12,KS,"java keyboard scanner",A0011
+1.44632E+12,KS,"can i use logbase in java",A0011
+1.44799E+12,KS,"can you add a char to a string",A0011
+1.44799E+12,NA,"can you add a char to a string java",A0011
+1.44799E+12,NA,"convert char to string java",A0011
+1.44237E+12,KS,"currency format",A0054
+1.44495E+12,KS,"scanner",A0054
+1.44495E+12,ML,"scanner",A0054
+1.44495E+12,PS,"parseint",A0054
+1.44495E+12,ML,"3 partition merge sort",A0077
+1.44495E+12,ML,"3 way merge sort",A0077
+1.44495E+12,NA,"merge sort 3 partition",A0077
+1.44495E+12,KS,"merge sort",A0077
+1.44496E+12,ML,"partition merge sort",A0077
+1.44495E+12,KS,"3 partition merge sort",A0075
+1.44495E+12,PS,"merge sort",A0075
+1.44495E+12,PS,"merge sort arraylist",A0075
+1.4406E+12,PS,"while and if loops",A0048
+1.4406E+12,KS,"users enter input into an array",A0048
+1.44061E+12,KS,"how to add all positive integers entered",A0048
+1.44061E+12,NA,"java how to add all positive integers entered",A0048
+1.44495E+12,PS,"merge sort",A0048
+1.44495E+12,PS,"merge sort",A0048
+1.44495E+12,PS,"3=partition merge sort",A0048
+1.44495E+12,NA,"3-partition merge sort",A0048
+1.44426E+12,PS,"parse int in an action listener class",A0030
+1.44329E+12,ML,"in.hasNextDouble",A0046
+1.44329E+12,ML,"in.hasNextDouble()",A0046
+1.44332E+12,KS,"makeCenterPanel()",A0046
+1.44332E+12,ML,"makeCenterPanel()",A0046
+1.44332E+12,NA,"makeCenterPanel",A0046
+1.44332E+12,NA,"makeWestPanel",A0046
+1.44393E+12,KS,".equals",A0046
+1.44393E+12,PS,"how to use a vector in Java",A0046
+1.44393E+12,KS,"using vector",A0046
+1.44393E+12,KS,"append textarea in java",A0046
+1.44393E+12,KS,"+=",A0046
+1.44393E+12,ML,"+=",A0046
+1.44394E+12,ML,"how to call toString method",A0046
+1.44458E+12,ML,"in.nextDouble()",A0046
+1.44458E+12,KS,"in.nextDouble()",A0046
+1.44458E+12,ML,"System.out.println() method",A0046
+1.4446E+12,ML,".this",A0046
+1.4446E+12,NA,".this()",A0046
+1.4446E+12,NA,"this.",A0046
+1.4446E+12,NA,"this. method",A0046
+1.4446E+12,ML,"example toString()",A0046
+1.4446E+12,NA,"toString()",A0046
+1.44467E+12,PS,"call toString from abstract method",A0046
+1.44467E+12,NA,"toString abstract class",A0046
+1.44495E+12,KS,"3 partition merge sort",A0046
+1.44495E+12,NA,"2 partition merge sort",A0046
+1.44519E+12,KS,"runtime exception",A0046
+1.44519E+12,ML,"runtime exception",A0046
+1.44745E+12,KS,"bad data exception",A0046
+1.44745E+12,ML,"bad data exception",A0046
+1.44192E+12,NA,"inheritance/super",A0071
+1.44495E+12,PS,"arraylist syntax",A0071
+1.44495E+12,NA,"arraylist getters",A0071
+1.44495E+12,NA,"arraylist getters and setters",A0071
+1.44495E+12,NA,"how to get elements from arraylist",A0071
+1.44495E+12,NA,"how to access elements in arraylist",A0071
+1.44496E+12,NA,"merge sort",A0071
+1.44495E+12,PS,"parse string to int",A0049
+1.44495E+12,PS,"parse string to int java",A0049
+1.44497E+12,PS,"java mouselistener",A0049
+1.44497E+12,KS,"java add mouselistener",A0049
+1.44497E+12,KS,"java clear canvas",A0049
+1.44497E+12,KS,"java how to clear canvas",A0049
+1.44497E+12,KS,"java difference between getx and getxonscreen",A0049
+1.44497E+12,KS,"java getxonscreen",A0049
+1.44497E+12,KS,"java arraylist remove",A0049
+1.44497E+12,KS,"java switch",A0049
+1.44497E+12,PS,"java nested class error",A0049
+1.4413E+12,ML,"how to use tostring in java",A0029
+1.44251E+12,PS,"how to parse",A0029
+1.44251E+12,PS,"parseStringToProduct",A0029
+1.44251E+12,PS,"parse string",A0029
+1.44251E+12,NA,"parse string java",A0029
+1.44252E+12,PS,"java typecast string to int",A0029
+1.44255E+12,ML,"variables abstract class java",A0029
+1.4426E+12,PS,"java decimal format",A0029
+1.44495E+12,KS,"3 partition merge sort",A0029
+1.44495E+12,ML,"merge sort",A0029
+1.44496E+12,ML,"recursion",A0029
+1.44496E+12,PS,"swap arraylist objects",A0029
+1.44496E+12,ML,"arraylist swap",A0029
+1.44496E+12,ML,"arraylist set",A0029
+1.44057E+12,KS,"scanner class",B0020
+1.44134E+12,ML,"set method",B0020
+1.44134E+12,NA,"set method with multiple strings",B0020
+1.44253E+12,NA,"line to parse array",B0020
+1.44253E+12,NA,"line to parse split",B0020
+1.44253E+12,NA,"lineToParse.split",B0020
+1.44399E+12,NA,"run an applet program",B0020
+1.44495E+12,NA,"3-partition merge sort",B0020
+1.44496E+12,NA,"colorlistener class",B0020
+1.44072E+12,PS,"loop",B0009
+1.44056E+12,KS,"dynamic array",A0005
+1.44056E+12,NA,"dynamic array java",A0005
+1.44056E+12,KS,"passing arrays as paramaters",A0005
+1.44056E+12,NA,"passing arrays as parameters java",A0005
+1.44115E+12,KS,"UML",A0005
+1.44132E+12,ML,"constructor java",A0005
+1.44132E+12,KS,"constructor java",A0005
+1.44132E+12,NA,"what is a constructor",A0005
+1.44132E+12,NA,"what is a constructor java",A0005
+1.44138E+12,ML," java
+",A00051.44138E+12,KS,"
+ java
+",A00051.44185E+12,KS,"abstract class java
+",A00051.4421E+12,KS,"implements vs extends java
+",A00051.44254E+12,KS,"how many components can you add to a frame using the add method
+",A00051.44255E+12,KS,"linetoparse java
+",A00051.44255E+12,NA,"lineToParse
+",A00051.44255E+12,NA,"type cast
+",A00051.44255E+12,NA,"type cast java
+",A00051.44255E+12,ML,"java cast string to int
+",A00051.4426E+12,KS,"format double java
+",A00051.4426E+12,KS,"String.format java
+",A00051.4426E+12,KS,".##
+",A00051.4426E+12,NA,".string.format java
+",A00051.44445E+12,KS,"java filled rectangle
+",A00051.44453E+12,KS,"java radio button
+",A00051.44495E+12,PS,"merge sort java
+",A00051.44495E+12,KS,"arraylist java
+",A00051.44497E+12,KS,"gui with radio buttons java
+",A00051.44497E+12,PS,"applet not initialized java
+",A00051.44497E+12,KS,"adding panels to japplet java
+",A00051.44497E+12,NA,"jpanel japplet java
+",A00051.44497E+12,KS,"container java
+",A00051.44597E+12,KS,"serialization
+",A00051.44598E+12,KS,"comparing objects
+",A00051.446E+12,KS,"lexicograph java
+",A00051.44072E+12,KS,"Artifical Intelligence
+",B00051.44426E+12,NA,"duplicates in a vector
+",B00051.44426E+12,NA,"duplicates in a vector of objects
+",B00051.44426E+12,NA,"duplicates in a vector of objects Java
+",B00051.44134E+12,ML,"proper way to reference one class from another
+",A00841.44134E+12,NA,"reference a child class
+",A00841.44134E+12,KS,"Do I need to have subclass variables in main class
+",A00841.44134E+12,KS,"java car makes inheritance
+",A00841.44134E+12,NA,"java inheritance toString
+",A00841.44134E+12,KS,"create a reference to another class
+",A00841.44134E+12,NA,"create a reference to another class java
+",A00841.4422E+12,KS,"What does the # mean when declaring a variable
+",A00841.4422E+12,KS,"What does the # mean when declaring a variable java
+",A00841.4422E+12,NA,"what does number sign mean in java
+",A00841.44255E+12,ML,"How to get numberformat percentage
+",A00841.44462E+12,ML,"how to create classes within other classes
+",A00841.44462E+12,NA,"how to create classes within other classes java
+",A00841.44055E+12,KS,"for loops
+",B00271.44141E+12,KS,"accessor method
+",B00271.44261E+12,ML,"parse string to product
+",B00271.44651E+12,KS,"reading file to string java
+",B00271.44063E+12,ML,"input as separate numbers
+",B00071.44063E+12,ML,"input numbers separated by spaces
+",B00071.44063E+12,ML,"input numbers separated by spaces in java
+",B00071.44064E+12,KS,"separate input into multiple variables
+",B00071.44064E+12,ML,"seperate input variables
+",B00071.4408E+12,ML,"while printing multiple times
+",B00071.4408E+12,PS,"while loop duplicate prints
+",B00071.4408E+12,PS,"print outside of while loop
+",B00071.4408E+12,PS,"print outside while loop
+",B00071.44124E+12,KS,"eclipse wont compile
+",B00071.44141E+12,KS,"printing toString
+",B00071.44141E+12,PS,"String toString()
+",B00071.44141E+12,NA,"java String toString()
+",B00071.44229E+12,ML,"currancy instance
+",B00071.44229E+12,NA,"currency instance
+",B00071.44229E+12,NA,"java currency instance
+",B00071.44251E+12,ML,"java utility class
+",B00071.44251E+12,NA,"java make utility class
+",B00071.44251E+12,ML,"java currency
+",B00071.44251E+12,KS,"currency instance
+",B00071.44251E+12,ML,"java NumberFormat currency
+",B00071.44348E+12,ML,"Java getText
+",B00071.44372E+12,KS,"Java Gui Display input
+",B00071.44372E+12,KS,"java put panel into pane
+",B00071.44372E+12,KS,"cannot convert jpanel to vector
+",B00071.44495E+12,KS,"java merge sort
+",B00071.44055E+12,KS,"java for loop syntax
+",B00121.4408E+12,PS,"compute minimum
+",B00121.4408E+12,PS,"minimum integers java
+",B00121.44408E+12,ML,"java gridbaglayout
+",A00881.44408E+12,ML,"java getSelectedValue()
+",A00881.44503E+12,ML,"radio buttle
+",A00881.44503E+12,NA,"Jradiobuttle
+",A00881.44503E+12,ML,"java radiobuttle
+",A00881.44503E+12,NA,"java jradiobuttle
+",A00881.44539E+12,ML,"java boxlayout
+",A00881.44589E+12,ML,"JAVA array.size
+",A00881.44677E+12,ML,"java linkedlist
+",A00881.44495E+12,PS,"merge sort
+",A00691.44495E+12,NA,"3-part merge sort
+",A00691.44495E+12,NA,"3-partition merge sort
+",A00691.44495E+12,NA,"3-partition merge sort arraylist
+",A00691.44088E+12,PS,"how to add whitespace in spim
+",A00661.44088E+12,KS,"spim when are registers cleared
+",A00661.44089E+12,KS,"mips not adding correctly
+",A00661.44091E+12,ML,"mips registers address and memory
+",A00661.44091E+12,ML,"mips registers address and memory
+",A00661.44091E+12,ML,"mips what does lw do?
+",A00661.4434E+12,NA,"JTextArea
+",A00661.4434E+12,NA,"jtextarea getText
+",A00661.44513E+12,PS,"java insertion sort
+",A00661.44074E+12,KS,"definition of a method in java
+",A00101.44126E+12,KS,"how to make a class
+",A00101.44126E+12,NA,"how to make a class java
+",A00101.44127E+12,KS,"mutator method java
+",A00101.44127E+12,KS,"invalid method declaration; return type required
+",A00101.44132E+12,PS," error: cannot find symbol this.
+",A00101.44247E+12,KS,"how to use an abstract method
+",A00101.44247E+12,NA,"how to use abstract methods
+",A00101.44495E+12,KS,"scanner class
+",A00101.44055E+12,KS,"java for loop syntax
+",A00561.44072E+12,KS,"what does static mean in Java
+",A00561.44072E+12,KS,"Vectors in Java
+",A00561.44072E+12,KS,"using arrays java
+",A00561.44083E+12,KS,"arrays java
+",A00561.44083E+12,NA,"using arrays
+",A00561.44083E+12,NA,"using arrays java
+",A00561.44092E+12,KS,"copy constructor java
+",A00561.44092E+12,ML,"deep copy constructor java
+",A00561.44115E+12,KS,"static classes
+",A00561.44495E+12,KS,"Merge Sort
+",A00561.44495E+12,NA,"Merge Sort arraylist
+",A00561.44495E+12,KS,"merge sort
+",A00591.44157E+12,PS,"how do you call a parents method
+",A00211.44157E+12,PS,"how do I call a parent's method from a subclass
+",A00211.44159E+12,KS,"can you replace a character in a String with another character
+",A00211.44159E+12,ML,"formatting numbers
+",A00211.44159E+12,NA,"formatting numbers in java
+",A00211.4416E+12,KS,"java casting
+",A00211.4416E+12,KS,"java what is casting
+",A00211.44307E+12,KS,"how do you add a scroll pane to a text area
+",A00211.44307E+12,NA,"how do you use JScrollPane
+",A00211.44307E+12,KS,"how do you tie the enter key to a keyListener event
+",A00211.44307E+12,NA,"listen for enter key
+",A00211.44323E+12,KS,"Checking whether a text field has input
+",A00211.44358E+12,KS,"2 JButtons
+",A00211.44359E+12,KS,"Implement 2 Buttons in one ActionListener
+",A00211.44359E+12,NA,"2 JButtons in one ActionListener
+",A00211.44132E+12,KS,"Java Abstract class
+",A00331.44495E+12,KS,"Merge Sort
+",A00331.44498E+12,ML,"MouseEvent
+",A00331.44498E+12,ML,"ButtonGroup
+",A00331.44495E+12,PS,"merge sort
+",A00261.44495E+12,ML,"merge
+",A00261.44495E+12,NA,"merge method
+",A00261.44495E+12,NA,"read input
+",A00261.44495E+12,NA,"scanner
+",A00261.44495E+12,NA,"declare scanner
+",A00261.44496E+12,NA,"sort method
+",A00261.44078E+12,KS,"instantiate an array in Java
+",A00221.44104E+12,KS,"What are the 10 Laws of coding?
+",A00221.4413E+12,PS,"toString methods in Java
+",A00221.44495E+12,KS,"MergeSort
+",A00221.44495E+12,PS,"MergeSort
+",A00221.44495E+12,KS,"arrays
+",A00221.44495E+12,NA,"[arrays in Java]
+",A00221.44495E+12,KS,"arrays in Java
+",A00221.44502E+12,KS,"adding variables to an array in Java
+",A00221.44502E+12,KS,"ActionEvent, Java
+",A00221.44262E+12,ML,"parse
+",B00131.44262E+12,NA,"parse java
+",B00131.44495E+12,KS,"merge sort
+",A00871.44072E+12,ML,"how to add arraylist
+",A00251.44132E+12,ML,"how to call a getter method from a different class
+",A00251.44132E+12,KS,"how to make a myout.txt
+",A00251.44243E+12,KS,"#
+",A00251.44243E+12,NA,"# in constructor clas
+",A00251.44243E+12,NA,"# in constructor class
+",A00251.44243E+12,NA,"protected class
+",A00251.44243E+12,NA,"protected class java
+",A00251.44243E+12,KS,"java protected method
+",A00251.44243E+12,KS,"split method java
+",A00251.44364E+12,PS,"button listener
+",A00251.44364E+12,NA,"button listener java
+",A00251.44364E+12,NA,"java listener
+",A00251.44364E+12,NA,"jpanel java
+",A00251.44364E+12,NA,"JFrame
+",A00251.44364E+12,NA,"JFrame java
+",A00251.44365E+12,NA,"decimal format
+",A00251.44365E+12,NA,"adding to JList
+",A00251.44073E+12,KS,"do while loop syntax java
+",A00391.44073E+12,KS,"how do I store user inputs into an array
+",A00391.44073E+12,PS,"how do I store user inputs into an array java
+",A00391.44073E+12,NA,"convert user input into an array
+",A00391.44073E+12,NA,"java convert user input into an array
+",A00391.44073E+12,NA,"java how to store user input into an array
+",A00391.4408E+12,PS,"storing user inputs into an array
+",A00391.4414E+12,PS,"call method of another class within a class method
+",A00391.4414E+12,NA,"call method of another class
+",A00391.4414E+12,NA,"call method of another class java
+",A00391.44141E+12,PS,"what is java.lang.NullPointerException
+",A00391.44408E+12,PS,"boxlayout
+",A00391.44408E+12,NA,"add JLable to JPanel
+",A00391.44408E+12,NA,"box layout can't be shared
+",A00391.44408E+12,NA,"BoxLayout cannot be shared
+",A00391.44408E+12,NA,"BoxLayout  be shared
+",A00391.44408E+12,NA,"Jpanel with box layaout
+",A00391.44408E+12,NA,"Jpanel with box layout
+",A00391.4441E+12,PS,"set spacing in BoxLa
