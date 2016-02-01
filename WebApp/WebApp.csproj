@@ -61,12 +61,29 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\c3.min.css" />
+    <Content Include="data\queryOutput\query.txt" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="js\c3.min.js" />
     <Content Include="packages.config" />
     <Content Include="data\class_click.csv" />
     <Content Include="data\class_operation.csv" />
     <Content Include="data\class_query.csv" />
     <Content Include="data\class_select.csv" />
-    <Content Include="scripts\d3\LICENSE" />
+    <Content Include="js\d3\LICENSE" />
+    <Content Include="css\bootstrap-theme.css.map" />
+    <Content Include="css\bootstrap-theme.min.css.map" />
+    <Content Include="css\bootstrap.css.map" />
+    <Content Include="css\bootstrap.min.css.map" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="data\queryOutput\userListForDropDown.csv" />
+    <Content Include="data\queryOutput\intentionOverall.csv" />
+    <Content Include="data\queryOutput\intentionUserSpecific.csv" />
+    <Content Include="data\queryOutput\urlClickCountSummary.csv" />
+    <Content Include="data\queryOutput\userOperationWRTTime.csv" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -76,20 +93,25 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
-    <Content Include="scripts\bootstrap.js" />
-    <Content Include="scripts\bootstrap.min.js" />
-    <Content Include="scripts\custom.js" />
-    <Content Include="scripts\d3\d3.js" />
-    <Content Include="scripts\d3\d3.min.js" />
-    <None Include="scripts\jquery-1.8.0.intellisense.js" />
-    <Content Include="scripts\jquery-1.8.0.js" />
-    <Content Include="scripts\jquery-1.8.0.min.js" />
-    <Content Include="scripts\jquery.csv.min.js" />
-    <None Include="scripts\jquery.validate-vsdoc.js" />
-    <Content Include="scripts\jquery.validate.js" />
-    <Content Include="scripts\jquery.validate.min.js" />
-    <Content Include="scripts\jquery.validate.unobtrusive.js" />
-    <Content Include="scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\custom.js" />
+    <Content Include="js\d3\d3.js" />
+    <Content Include="js\d3\d3.min.js" />
+    <None Include="js\jquery-1.8.0.intellisense.js" />
+    <Content Include="js\jquery-1.8.0.js" />
+    <Content Include="js\jquery-1.8.0.min.js" />
+    <Content Include="js\jquery.csv.min.js" />
+    <None Include="js\jquery.validate-vsdoc.js" />
+    <Content Include="js\jquery.validate.js" />
+    <Content Include="js\jquery.validate.min.js" />
+    <Content Include="js\jquery.validate.unobtrusive.js" />
+    <Content Include="js\jquery.validate.unobtrusive.min.js" />
+    <Content Include="css\bootstrap-theme.css" />
+    <Content Include="css\bootstrap-theme.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\customstyle.css" />
     <Content Include="TestPage.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
