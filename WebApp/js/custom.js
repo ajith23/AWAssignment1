@@ -22,9 +22,10 @@
 
     fetchAllUserIntentionChartData();
     fetchSelectedUserIntentionChartData('A0001');
-    fetchUserOperationTimeSeriesData();
+    //fetchUserOperationTimeSeriesData();
     //fetchUrlClickCountScatterChartData();
-    generateBubbleChart();
+    //generateBubbleChart();
+    //fetchAndLoadOperationSummaryChartData();
 });
 
 function generateAllUserIntentionChart(chartData)
@@ -114,7 +115,95 @@ function fetchAndLoadSelectedUserQueries(userId, intention)
     });
 }
 
+function fetchAndLoadOperationSummaryChartData() {
+    d3.csv("data/queryOutput/urlOperationSummary.csv", function (error, data) {
+        var columnArray = [];
+        var index = 0;
+        var cellArrayScrollDown = [];
+        var cellArrayScrollUp = [];
+        var cellArrayTargetClicked = [];
+        var cellArraySelect = [];
 
+        var xScrollDown = [];
+        var xScrollUp = [];
+        var xTargetClicked = [];
+        var xSelect = [];
+
+        cellArrayScrollDown[0] = 'ScrollDown';
+        cellArrayScrollUp[0] = 'ScrollUp';
+        cellArrayTargetClicked[0] = 'TargetClicked';
+        cellArraySelect[0]='Select';
+
+        xScrollDown[0] = 'x1';
+        xScrollUp[0] = 'x2';
+        xTargetClicked[0] = 'x3';
+        xSelect[0] = 'x4';
+
+        for (var i = 0; i < data.length; i++) {
+
+            if (data[i].operation.localeCompare('scroll_up') == 0) {
+                cellArrayScrollUp[cellArrayScrollUp.length] = data[i].clickCount;
+                xScrollUp[xScrollUp.length] = data[i].url;
+            }
+            else if (data[i].operation.localeCompare('scroll_down') == 0) {
+                cellArrayScrollDown[cellArrayScrollDown.length] = data[i].clickCount;
+                xScrollDown[xScrollDown.length] = data[i].url;
+            }
+            else if (data[i].operation.localeCompare('select') == 0) {
+                cellArraySelect[cellArraySelect.length] = data[i].clickCount;
+                xSelect[xSelect.length] = data[i].url;
+            }
+            else if (data[i].operation.localeCompare('target_clicked') == 0) {
+                cellArrayTargetClicked[cellArrayTargetClicked.length] = data[i].clickCount;
+                xTargetClicked[xTargetClicked.length] = data[i].url;
+            }
+
+            //columnArray[index] = cellArray;
+            index++;
+        }
+        columnArray[0] = xScrollDown;
+        columnArray[1] = xScrollUp;
+        columnArray[2] = xTargetClicked;
+        columnArray[3] = xSelect;
+        columnArray[4] = cellArrayScrollDown;
+        columnArray[5] = cellArrayScrollUp;
+        columnArray[6] = cellArrayTargetClicked;
+        columnArray[7] = cellArraySelect;
+
+        generateUrlOperationSummaryChart(columnArray);
+    });
+}
+
+function generateUrlOperationSummaryChart(chartData)
+{
+    var chart = c3.generate({
+        bindto: '#urlOperationSummaryChart',
+        data: {
+            xs: {
+                'ScrollDown': 'x1',
+                'ScrollUp': 'x2',
+                'TargetClicked': 'x3',
+                'Select': 'x4'
+            },
+            columns: chartData,
+            //type: 'bar',
+            //groups: [
+            //    ['ScrollDown', 'ScrollUp', 'TargetClicked', 'Select']
+            //]
+        },
+        zoom: {
+            enabled: true
+        },
+        subchart: {
+            show: true
+        },
+        axis: {
+            x: {
+                type: 'category'
+            }
+        }
+    });
+}
 //------------------------------------------------------------------------
 
 function generateUserOperationTimeSeriesChart(chartData) {
