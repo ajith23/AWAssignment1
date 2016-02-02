@@ -1,0 +1,5 @@
+intention OVerall
+select intention , COUNT(*) intentionCount from class_query group by intention
+
+intentionUserSpecific
+select u_id, intention , COUNT(*) intentionCount from class_query group by u_id, intention

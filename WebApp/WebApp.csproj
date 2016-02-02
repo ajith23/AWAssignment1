@@ -84,6 +84,7 @@
     <Content Include="data\queryOutput\intentionUserSpecific.csv" />
     <Content Include="data\queryOutput\urlClickCountSummary.csv" />
     <Content Include="data\queryOutput\userOperationWRTTime.csv" />
+    <Content Include="data\class_query_transformed.csv" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

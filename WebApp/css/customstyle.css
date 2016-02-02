@@ -1,1 +1,13 @@
 ﻿
+circle {
+  fill: none;
+  stroke: none;
+}
+
+circle.leaf {
+  fill: rgba(31, 119, 180, 0.7);
+  stroke: rgb(31, 119, 180);
+  stroke-width: 2px;
+  fill-opacity: 1;
+}
+

@@ -6,6 +6,7 @@
           .append("select")
 
         selectUser.on("change", function (d) {
+            $('#userQuery').html("");
             var value = d3.select(this).property("value");
             fetchSelectedUserIntentionChartData(value);
             //alert(value);
@@ -19,44 +20,11 @@
             .text(function (d) { return d.label; });
     });
 
-    //var chart = c3.generate({
-    //    bindto: '#chart',
-    //    data: {
-    //        columns: [
-    //          ['label', 'a','b','c','d','e','f'],
-    //          ['data1', 30, 200, 100, 400, 150, 250],
-    //          ['data2', 50, 20, 10, 40, 15, 25]
-    //        ],
-    //        onclick: function(e) {
-    //            //make all teh bar opacity 0.1
-    //           var k = "#chart .c3-shape-" + e.index;
-    //            alert(k);
-    //            event.stopPropagation();
-    //        },
-
-    //        axes: {
-    //            data2: 'y2', // ADD
-    //            label: 'x'
-    //        },
-    //        types: {
-    //            data1:'area',
-    //            data2: 'area' // ADD
-    //        }
-    //    },
-    //    axis: {
-    //        y2: {
-    //            show: true // ADD
-    //        },
-    //        x: {
-    //            show: true
-    //        }
-    //    }
-
-    //});
     fetchAllUserIntentionChartData();
     fetchSelectedUserIntentionChartData('A0001');
     fetchUserOperationTimeSeriesData();
-    fetchUrlClickCountScatterChartData();
+    //fetchUrlClickCountScatterChartData();
+    generateBubbleChart();
 });
 
 function generateAllUserIntentionChart(chartData)
@@ -83,6 +51,7 @@ function generateSelectedUserIntentionChart(chartData) {
             type: 'pie',
             onclick: function (d, i) {
                 console.log("onclick", d, i);
+                fetchAndLoadSelectedUserQueries($("#userListDiv option:selected").text(), d.id);
             },
             onmouseover: function (d, i) { console.log("onmouseover", d, i); },
             onmouseout: function (d, i) { console.log("onmouseout", d, i); }
@@ -127,10 +96,26 @@ function fetchSelectedUserIntentionChartData(userId)
     });
 }
 
+function fetchAndLoadSelectedUserQueries(userId, intention)
+{
+    d3.csv("data/class_query_transformed.csv", function (error, data) {
+        var htmlString = "<table>";
+        htmlString += '<tr><td><h4> User Queries for ' + intention + '</h4></td></tr>';
+        var index = 0;
+        for (var i = 0; i < data.length; i++)
+        {
+            if (((data[i].u_id).localeCompare(userId) == 0) && ((data[i].intention).localeCompare(intention) == 0))
+            {
+                htmlString += '<tr><td>' +  data[i].query + '</td></tr>';
+            }
+        }
+        htmlString += "</table>";
+        $('#userQuery').html(htmlString);
+    });
+}
 
 
-
-
+//------------------------------------------------------------------------
 
 function generateUserOperationTimeSeriesChart(chartData) {
     var chart = c3.generate({
@@ -195,5 +180,41 @@ function fetchUrlClickCountScatterChartData() {
             columnArray[i] = cellArray;
         }
         generateUrlClickCountScatterChart(columnArray);
+    });
+}
+
+//------------------------------------------------------------------------
+
+function generateBubbleChart()
+{
+    var diameter = 600,
+    format = d3.format(",d"),
+    color = d3.scale.category20c();
+
+    var pack = d3.layout.pack()
+        .size([diameter, diameter])
+        .padding(1.5)
+        .value(function (d) { return d.clickCount; });
+
+    var vis = d3.select("#svgid").append("svg")
+        .attr("width", diameter)
+        .attr("height", diameter)
+        .attr("class", "pack")
+      .append("g");
+
+
+    d3.csv("data/queryOutput/urlClickCountSummary.csv", function (csvData) {
+        // put csv into a data structure pack layout will accept
+        var data = { name: "operation", children: csvData };
+
+        var node = vis.data([data]).selectAll("circle")
+            .data(pack.nodes)
+          .enter().append("circle")
+            .attr("class", "node")
+            .attr("transform", function (d) { return "translate(" + d.x + "," + d.y + ")"; })
+            .attr("r", function (d) { return d.r; })
+            .style("fill", function (d) { return color(d.operation); });
+
+        node.append("title").text(function (d) { return d.url + ": " + format(d.clickCount); });
     });
 }
