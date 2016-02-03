@@ -21,14 +21,37 @@
             .text(function (d) { return d.label; });
     });
 
+
+    loadUserContributionListDiv();
     fetchAllUserIntentionChartData();
     fetchSelectedUserIntentionChartData('A0001');
     fetchUserOperationTimeSeriesData('A0001');
     //fetchUrlClickCountScatterChartData();
     //generateBubbleChart();
-    generateUserClickCountReport();
+    //generateUserClickCountReport();
     fetchOperationSummaryChartData();
 });
+
+function loadUserContributionListDiv()
+{
+    d3.csv("data/queryOutput/userListForDropDown.csv", function (error, data) {
+        var selectUser = d3.select("#userContributionListDiv")
+          .append("div")
+          .append("select")
+
+        selectUser.on("change", function (d) {
+            var value = d3.select(this).property("value");
+            loadContribution(value);
+        });
+
+        selectUser.selectAll("option")
+          .data(data)
+          .enter()
+            .append("option")
+            .attr("value", function (d) { return d.value; })
+            .text(function (d) { return d.label; });
+    });
+}
 
 function generateAllUserIntentionChart(chartData) {
     var chart1 = c3.generate({
@@ -367,7 +390,7 @@ function fetchUrlClickCountScatterChartData() {
 
 
 function generateUserClickCountReport() {
-    var diameter = 600,
+    var diameter = 500,
     format = d3.format(",d"),
     color = d3.scale.category20c();
 
@@ -394,7 +417,8 @@ function generateUserClickCountReport() {
         .attr("r", function (d) { return d.r; })
         .style("fill", function (d) { return color(d.operation); })
         .on("mouseover", function (d) {
-            generateSelectedUserClickCountReportGuage(d.operation, d.userClickCount, d.u_id);
+            $('#gaugeChartArea').show();
+            //generateSelectedUserClickCountReportGuage(d.operation, d.userClickCount, d.u_id);
 
             d3.csv("data/queryOutput/userClickCountReport.csv", function (data12) {
                 for (var i = 0; i < data12.length; i++) {
@@ -413,9 +437,33 @@ function generateUserClickCountReport() {
                 }
             });
 
+        })
+        .on("onmouseout", function (d) {
+            $('#gaugeChartArea').hide();
         });
 
         node.append("title").text(function (d) { return d.u_id + ": " + format(d.userClickCount); });
+    });
+}
+
+function loadContribution(userId)
+{
+    $('#gaugeChartArea').show();
+    d3.csv("data/queryOutput/userClickCountReport.csv", function (data12) {
+        for (var i = 0; i < data12.length; i++) {
+            if (((data12[i].u_id).localeCompare(userId) == 0) && ((data12[i].operation).localeCompare('target_clicked') == 0)) {
+                generateSelectedUserClickCountReportGuage('target_clicked', data12[i].userClickCount, userId);
+            }
+            if (((data12[i].u_id).localeCompare(userId) == 0) && ((data12[i].operation).localeCompare('select') == 0)) {
+                generateSelectedUserClickCountReportGuage('select', data12[i].userClickCount, userId);
+            }
+            if (((data12[i].u_id).localeCompare(userId) == 0) && ((data12[i].operation).localeCompare('scroll_up') == 0)) {
+                generateSelectedUserClickCountReportGuage('scroll_up', data12[i].userClickCount, userId);
+            }
+            if (((data12[i].u_id).localeCompare(userId) == 0) && ((data12[i].operation).localeCompare('scroll_down') == 0)) {
+                generateSelectedUserClickCountReportGuage('scroll_down', data12[i].userClickCount, userId);
+            }
+        }
     });
 }
 
@@ -452,5 +500,5 @@ function generateSelectedUserClickCountReportGuage(operation, userClickCount, us
             height: 100
         }
     });
-    $('#userContributionDetailsHeader').html('User ' + userId + ' details- ')
+    $('#userContributionDetailsHeader').html('User ' + userId + ' Contribution against average contribution details- ')
 }

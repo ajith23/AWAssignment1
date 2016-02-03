@@ -120,6 +120,8 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\customstyle.css" />
     <Content Include="TestPage.aspx" />
+    <Content Include="usercontribution.html" />
+    <Content Include="useroperations.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
