@@ -1,0 +1,1455 @@
+﻿intention,query,u_id
+Knowledge Seeking,"wrapper classes
+",A0001
+Others,"cast
+",A0001
+Others,"cast java
+",A0001
+Others,"implements keyword java
+",A0001
+Others,"how to handle button events
+",A0001
+Others,"button events using try catch block
+",A0001
+Others,"java button events using try catch block
+",A0001
+Method Learning,"point listeners java
+",A0001
+Knowledge Seeking,"common gui components from javax.swing & java.awt packages
+",A0001
+Others,"javax.swing basic components
+",A0001
+Others,"error handling java
+",A0001
+Knowledge Seeking,"stacks java
+",A0001
+Knowledge Seeking,"infix to postfix
+",A0001
+Others,"infix to postfix java
+",A0001
+Knowledge Seeking,"dynamic array
+",A0005
+Others,"dynamic array java
+",A0005
+Knowledge Seeking,"passing arrays as paramaters
+",A0005
+Others,"passing arrays as parameters java
+",A0005
+Knowledge Seeking,"UML
+",A0005
+Method Learning,"constructor java
+",A0005
+Knowledge Seeking,"constructor java
+",A0005
+Others,"what is a constructor
+",A0005
+Others,"what is a constructor java
+",A0005
+Method Learning,"
+ java
+",A0005
+Knowledge Seeking,"
+
+ java
+",A0005
+Knowledge Seeking,"abstract class java
+",A0005
+Knowledge Seeking,"implements vs extends java
+",A0005
+Knowledge Seeking,"how many components can you add to a frame using the add method
+",A0005
+Knowledge Seeking,"linetoparse java
+",A0005
+Others,"lineToParse
+",A0005
+Others,"type cast
+",A0005
+Others,"type cast java
+",A0005
+Method Learning,"java cast string to int
+",A0005
+Knowledge Seeking,"format double java
+",A0005
+Knowledge Seeking,"String.format java
+",A0005
+Knowledge Seeking,".##
+",A0005
+Others,".string.format java
+",A0005
+Knowledge Seeking,"java filled rectangle
+",A0005
+Knowledge Seeking,"java radio button
+",A0005
+Problem Solving,"merge sort java
+",A0005
+Knowledge Seeking,"arraylist java
+",A0005
+Knowledge Seeking,"gui with radio buttons java
+",A0005
+Problem Solving,"applet not initialized java
+",A0005
+Knowledge Seeking,"adding panels to japplet java
+",A0005
+Others,"jpanel japplet java
+",A0005
+Knowledge Seeking,"container java
+",A0005
+Knowledge Seeking,"serialization
+",A0005
+Knowledge Seeking,"comparing objects
+",A0005
+Knowledge Seeking,"lexicograph java
+",A0005
+Method Learning,"how to get main method
+",A0008
+Knowledge Seeking,"new scanner (system.in)
+",A0008
+Others,"nextInt()
+",A0008
+Others,"do loop
+",A0008
+Others,"while-do loop
+",A0008
+Knowledge Seeking,"what meaning of /n
+",A0008
+Knowledge Seeking,"nextString
+",A0008
+Method Learning,"how to converse case
+",A0008
+Others,"how to converse downcase to upcase
+",A0008
+Others,"how to converse down case to up case
+",A0008
+Others,"how to use euqals to ignoring case
+",A0008
+Knowledge Seeking,"number format persentage
+",A0008
+Others,"use number format to get persentage
+",A0008
+Knowledge Seeking,"simple
+",A0008
+Others,"sample
+",A0008
+Method Learning,"JRadioButton
+",A0008
+Method Learning,"how to transfer int to color
+",A0008
+Others,"how to transfer int to Color
+",A0008
+Method Learning,"Color[]
+",A0008
+Method Learning,"what method can decide character to operand 
+",A0008
+Others,"askto method
+",A0008
+Others,"ask to method
+",A0008
+Knowledge Seeking,"find the minimum integer
+",A0009
+Knowledge Seeking,"how to define '#'
+",A0009
+Others,"how to define '#'
+",A0009
+Knowledge Seeking,"public static Product parseStringToProduct(String lineToParse)
+",A0009
+Knowledge Seeking,"public static Product parseStringToProduct(String lineToParse)
+",A0009
+Others,"public static Product parseStringToProduct
+",A0009
+Others,"Product parseStringToProduct
+",A0009
+Knowledge Seeking,"protect
+",A0009
+Knowledge Seeking,"Container container = getContentPane()
+",A0009
+Knowledge Seeking,"private Container getContentPane() {
+",A0009
+Knowledge Seeking,"3 partition merge sort
+",A0009
+Others," merge sort
+",A0009
+Knowledge Seeking,"clear();
+",A0009
+Others,"clear(); java
+",A0009
+Problem Solving,"how to find evenIndex number in an array
+",A0009
+Knowledge Seeking,"how to find evenIndex number in an array
+",A0009
+Others,"how to find even Index 
+",A0009
+Problem Solving,"counthowmany object
+",A0009
+Others,"counthowmany
+",A0009
+Others,"countHowMany(Object searchedObject)countHowMany(Object searchedObject)
+",A0009
+Others,"countHowMany(Object searchedObject)
+",A0009
+Others,"countHowMany(Object)
+",A0009
+Others,"removeDuplicate() method
+",A0009
+Knowledge Seeking,"definition of a method in java
+",A0010
+Knowledge Seeking,"how to make a class
+",A0010
+Others,"how to make a class java
+",A0010
+Knowledge Seeking,"mutator method java
+",A0010
+Knowledge Seeking,"invalid method declaration; return type required
+",A0010
+Problem Solving," error: cannot find symbol this.
+",A0010
+Knowledge Seeking,"how to use an abstract method
+",A0010
+Others,"how to use abstract methods
+",A0010
+Knowledge Seeking,"scanner class
+",A0010
+Knowledge Seeking,"writing a to string method
+",A0011
+Others,"how to write a toString method
+",A0011
+Knowledge Seeking,"how do I import a class
+",A0011
+Problem Solving,"cannot make a static reference to non-static reference
+",A0011
+Others,"how to write a mutator method
+",A0011
+Knowledge Seeking,"writing a mutator method
+",A0011
+Others,"how do i make an overloaded mutator method
+",A0011
+Others,"overloaded mutator method
+",A0011
+Others,"inherit from abstract parent class
+",A0011
+Others,"subclass
+",A0011
+Others,"abstract classs
+",A0011
+Others,"abstract class
+",A0011
+Others,"how to set a variable in an abstract class using an overloaded constructor
+",A0011
+Others,"argument
+",A0011
+Others,"parse
+",A0011
+Others,"java parse string
+",A0011
+Others,"parser method
+",A0011
+Others,"parser method java
+",A0011
+Others,"utility class
+",A0011
+Knowledge Seeking,"How do i change a string variable into an int
+",A0011
+Others,"how to use child class toString method
+",A0011
+Others,"how to call a tostring method
+",A0011
+Knowledge Seeking,"how to format a number as a percentage
+",A0011
+Others,"how to format a number as a percentage in java
+",A0011
+Others,"how to use decimal format
+",A0011
+Knowledge Seeking,"gridlayout movement
+",A0011
+Others,"gridlayout move
+",A0011
+Others,"gridlayout move to another cell java
+",A0011
+Others,"can I use GridLayout with borderLayout
+",A0011
+Knowledge Seeking,"how do i iterate through a vector
+",A0011
+Others,"how do i iterate through a vector of strings
+",A0011
+Knowledge Seeking,"Array of colors
+",A0011
+Others,"java color array
+",A0011
+Others,"arrays
+",A0011
+Knowledge Seeking,"JRadioButton Array
+",A0011
+Knowledge Seeking,"how to sort alphabetically
+",A0011
+Others,"sort alphabetically java
+",A0011
+Problem Solving,"scanner breaking program
+",A0011
+Problem Solving,"obsolete methods
+",A0011
+Problem Solving,"scanner not scanning file
+",A0011
+Knowledge Seeking,"java keyboard scanner
+",A0011
+Knowledge Seeking,"can i use logbase in java
+",A0011
+Knowledge Seeking,"can you add a char to a string
+",A0011
+Others,"can you add a char to a string java
+",A0011
+Others,"convert char to string java
+",A0011
+Knowledge Seeking,"io
+",A0015
+Problem Solving,"3 parting merge sort
+",A0018
+Problem Solving,"merge sort
+",A0018
+Problem Solving,"3 partitin merge sort
+",A0018
+Others,"3 partition merge sort
+",A0018
+Method Learning,"3-partition merge sort
+",A0018
+Knowledge Seeking,"	
+",A0019
+Others,"	
+",A0019
+Knowledge Seeking,"inheritance
+",A0019
+Knowledge Seeking,"abstract classes
+",A0019
+Others,"implementing abstract classes
+",A0019
+Knowledge Seeking,"parsing a string
+",A0019
+Knowledge Seeking,"java split funtion
+",A0019
+Knowledge Seeking,"panels
+",A0019
+Knowledge Seeking,"vector
+",A0019
+Others,"vector java
+",A0019
+Knowledge Seeking,"what is a vector
+",A0019
+Knowledge Seeking,"buttonlistener class
+",A0019
+Problem Solving,"new line with setText java
+",A0019
+Problem Solving,"get and set methods
+",A0019
+Problem Solving,"merge arraylist
+",A0019
+Knowledge Seeking,"how to get size of linkedlist
+",A0019
+Problem Solving,"how to take of certain decimal places
+",A0020
+Others,"how to take off certain decimal places in java
+",A0020
+Others,"fixing decimal places in java
+",A0020
+Knowledge Seeking,"Does .contains search through an entire array
+",A0020
+Others,"how to search through an entire array for an item
+",A0020
+Others,"how to search through an entire array for an item in java
+",A0020
+Others,"finding objects in an array
+",A0020
+Knowledge Seeking,"how to check if an arraylist is empty
+",A0020
+Others,"how to return an array list from a different class
+",A0020
+Problem Solving,"selection sorting arraylists
+",A0020
+Others,"using comparator with arrays
+",A0020
+Problem Solving,"write a text (string) to the specified file
+",A0020
+Others,"java write a string to a specified file
+",A0020
+Others,"recursive counter
+",A0020
+Others,"how to count something in a recursive method java
+",A0020
+Others,"counting even values in an array recursively
+",A0020
+Others,"getting recursive methods to work in java
+",A0020
+Others,"counting the size of nodes in a linked list
+",A0020
+Others,"counting the size of nodes in a linked list java
+",A0020
+Others,"counting the number of nodes in a linked list java
+",A0020
+Problem Solving,"how do you call a parents method
+",A0021
+Problem Solving,"how do I call a parent's method from a subclass
+",A0021
+Knowledge Seeking,"can you replace a character in a String with another character
+",A0021
+Method Learning,"formatting numbers
+",A0021
+Others,"formatting numbers in java
+",A0021
+Knowledge Seeking,"java casting
+",A0021
+Knowledge Seeking,"java what is casting
+",A0021
+Knowledge Seeking,"how do you add a scroll pane to a text area
+",A0021
+Others,"how do you use JScrollPane
+",A0021
+Knowledge Seeking,"how do you tie the enter key to a keyListener event
+",A0021
+Others,"listen for enter key
+",A0021
+Knowledge Seeking,"Checking whether a text field has input
+",A0021
+Knowledge Seeking,"2 JButtons
+",A0021
+Knowledge Seeking,"Implement 2 Buttons in one ActionListener
+",A0021
+Others,"2 JButtons in one ActionListener
+",A0021
+Knowledge Seeking,"instantiate an array in Java
+",A0022
+Knowledge Seeking,"What are the 10 Laws of coding?
+",A0022
+Problem Solving,"toString methods in Java
+",A0022
+Knowledge Seeking,"MergeSort
+",A0022
+Problem Solving,"MergeSort
+",A0022
+Knowledge Seeking,"arrays
+",A0022
+Others,"[arrays in Java]
+",A0022
+Knowledge Seeking,"arrays in Java
+",A0022
+Knowledge Seeking,"adding variables to an array in Java
+",A0022
+Knowledge Seeking,"ActionEvent Java ",A0022
+Method Learning,"merge sort 
+",A0024
+Knowledge Seeking,"3-partition merge sort
+",A0024
+Others," merge sort
+",A0024
+Method Learning,"swap
+",A0024
+Method Learning,"swap java
+",A0024
+Method Learning,"swapping arrays in an arraylist
+",A0024
+Method Learning,"how to empty an array
+",A0024
+Method Learning,"clearing array
+",A0024
+Others,"clearing array method java
+",A0024
+Others,"emptying array method java
+",A0024
+Others,"how to empty array method java
+",A0024
+Others,"how to empty array  java
+",A0024
+Knowledge Seeking,"constructor methods
+",A0024
+Others,"object constructor
+",A0024
+Method Learning,"how to add arraylist
+",A0025
+Method Learning,"how to call a getter method from a different class
+",A0025
+Knowledge Seeking,"how to make a myout.txt
+",A0025
+Knowledge Seeking,"#
+",A0025
+Others,"# in constructor clas
+",A0025
+Others,"# in constructor class
+",A0025
+Others,"protected class
+",A0025
+Others,"protected class java
+",A0025
+Knowledge Seeking,"java protected method
+",A0025
+Knowledge Seeking,"split method java
+",A0025
+Problem Solving,"button listener
+",A0025
+Others,"button listener java
+",A0025
+Others,"java listener
+",A0025
+Others,"jpanel java
+",A0025
+Others,"JFrame
+",A0025
+Others,"JFrame java
+",A0025
+Others,"decimal format
+",A0025
+Others,"adding to JList
+",A0025
+Problem Solving,"merge sort
+",A0026
+Method Learning,"merge
+",A0026
+Others,"merge method
+",A0026
+Others,"read input
+",A0026
+Others,"scanner
+",A0026
+Others,"declare scanner
+",A0026
+Others,"sort method
+",A0026
+Method Learning,"how to use tostring in java
+",A0029
+Problem Solving,"how to parse
+",A0029
+Problem Solving,"parseStringToProduct
+",A0029
+Problem Solving,"parse string
+",A0029
+Others,"parse string java
+",A0029
+Problem Solving,"java typecast string to int
+",A0029
+Method Learning,"variables abstract class java
+",A0029
+Problem Solving,"java decimal format
+",A0029
+Knowledge Seeking,"3 partition merge sort
+",A0029
+Method Learning,"merge sort
+",A0029
+Method Learning,"recursion
+",A0029
+Problem Solving,"swap arraylist objects
+",A0029
+Method Learning,"arraylist swap
+",A0029
+Method Learning,"arraylist set
+",A0029
+Problem Solving,"parse int in an action listener class
+",A0030
+Knowledge Seeking,"Java Abstract class
+",A0033
+Knowledge Seeking,"Merge Sort
+",A0033
+Method Learning,"MouseEvent
+",A0033
+Method Learning,"ButtonGroup
+",A0033
+Knowledge Seeking,"How do I make an array?
+",A0034
+Knowledge Seeking,"find minimum
+",A0034
+Others,"find minimum integer
+",A0034
+Knowledge Seeking,"subString
+",A0037
+Knowledge Seeking,"subString
+",A0037
+Method Learning,"substring
+",A0037
+Knowledge Seeking,"do while loop syntax java
+",A0039
+Knowledge Seeking,"how do I store user inputs into an array
+",A0039
+Problem Solving,"how do I store user inputs into an array java
+",A0039
+Others,"convert user input into an array
+",A0039
+Others,"java convert user input into an array
+",A0039
+Others,"java how to store user input into an array
+",A0039
+Problem Solving,"storing user inputs into an array
+",A0039
+Problem Solving,"call method of another class within a class method
+",A0039
+Others,"call method of another class
+",A0039
+Others,"call method of another class java
+",A0039
+Problem Solving,"what is java.lang.NullPointerException
+",A0039
+Problem Solving,"boxlayout
+",A0039
+Others,"add JLable to JPanel
+",A0039
+Others,"box layout can't be shared
+",A0039
+Others,"BoxLayout cannot be shared
+",A0039
+Others,"BoxLayout  be shared
+",A0039
+Others,"Jpanel with box layaout
+",A0039
+Others,"Jpanel with box layout
+",A0039
+Problem Solving,"set spacing in BoxLayout
+",A0039
+Problem Solving,"concatenate text in JTextArea
+",A0039
+Problem Solving,"clear text field after button pushed
+",A0039
+Others,"clear textfield after button pushed
+",A0039
+Others,"clear textfield after event
+",A0039
+Others,"clear textfield after event JAva
+",A0039
+Others,"clear textfield after event Java
+",A0039
+Others,"remove user input from Text area
+",A0039
+Problem Solving,"get Text from textarea and translate String to integer
+",A0039
+Others,"method to convert String to integer
+",A0039
+Problem Solving,"convert String to int
+",A0039
+Problem Solving,"clear text area
+",A0039
+Others,"clear text area java
+",A0039
+Problem Solving,"how to create radio buttons
+",A0039
+Others,"how to create radio buttons java
+",A0039
+Others,"default color to draw rectangles is black
+",A0039
+Others,"how to create a radio button java
+",A0039
+Knowledge Seeking,"multiple classes in java
+",A0040
+Method Learning,"how to sort by divide and conquer
+",A0040
+Knowledge Seeking,"what are alternatives to eclipse java
+",A0040
+Knowledge Seeking,"recursive sorting algorithms
+",A0040
+Knowledge Seeking,"why do we need static modifier?
+",A0041
+Knowledge Seeking,"why do we need static functions
+",A0041
+Others,"java static method
+",A0041
+Problem Solving,"constructors java
+",A0041
+Knowledge Seeking,"tostring
+",A0041
+Others,"tostring java
+",A0041
+Knowledge Seeking,"super keyword java
+",A0041
+Knowledge Seeking,"protected keyword
+",A0041
+Knowledge Seeking,"type conversions
+",A0041
+Others,"type conversions java
+",A0041
+Others,"type conversions java int double string
+",A0041
+Knowledge Seeking,"transform double into string
+",A0041
+Knowledge Seeking,"generic data types java
+",A0041
+Knowledge Seeking,"jradiobutton default selection
+",A0041
+Others,"return array function
+",A0041
+Others,"return array function java
+",A0041
+Others,"merge and sort arrays
+",A0041
+Others,"merge and sort array numbers
+",A0041
+Others,"merge and sort array numbers java
+",A0041
+Problem Solving,"sample
+",A0042
+Knowledge Seeking,"partition
+",A0042
+Others,"partition merge sor
+",A0042
+Others,"partition merge sort
+",A0042
+Knowledge Seeking,"merge sort
+",A0042
+Knowledge Seeking,"merge sort
+",A0042
+Knowledge Seeking,"sort 3 arrays
+",A0042
+Others,"sort then merge
+",A0042
+Knowledge Seeking,"sorting numbers in a array
+",A0043
+Method Learning,"convert string to int
+",A0044
+Knowledge Seeking,"bufferedreader vs scanner
+",A0044
+Problem Solving,"nullpointerexception arraylist
+",A0044
+Knowledge Seeking,"convert string to int
+",A0044
+Knowledge Seeking,"merge sort
+",A0044
+Method Learning,"in.hasNextDouble
+",A0046
+Method Learning,"in.hasNextDouble()
+",A0046
+Knowledge Seeking,"makeCenterPanel()
+",A0046
+Method Learning,"makeCenterPanel()
+",A0046
+Others,"makeCenterPanel
+",A0046
+Others,"makeWestPanel
+",A0046
+Knowledge Seeking,".equals
+",A0046
+Problem Solving,"how to use a vector in Java
+",A0046
+Knowledge Seeking,"using vector
+",A0046
+Knowledge Seeking,"append textarea in java
+",A0046
+Knowledge Seeking,"+=
+",A0046
+Method Learning,"+=
+",A0046
+Method Learning,"how to call toString method
+",A0046
+Method Learning,"in.nextDouble()
+",A0046
+Knowledge Seeking,"in.nextDouble()
+",A0046
+Method Learning,"System.out.println() method
+",A0046
+Method Learning,".this
+",A0046
+Others,".this()
+",A0046
+Others,"this.
+",A0046
+Others,"this. method
+",A0046
+Method Learning,"example toString()
+",A0046
+Others,"toString()
+",A0046
+Problem Solving,"call toString from abstract method
+",A0046
+Others,"toString abstract class
+",A0046
+Knowledge Seeking,"3 partition merge sort
+",A0046
+Others,"2 partition merge sort
+",A0046
+Knowledge Seeking,"runtime exception
+",A0046
+Method Learning,"runtime exception
+",A0046
+Knowledge Seeking,"bad data exception
+",A0046
+Method Learning,"bad data exception
+",A0046
+Problem Solving,"What is null pointer exception in java?
+",A0047
+Problem Solving,"converting double to string
+",A0047
+Problem Solving,"rounding in java
+",A0047
+Knowledge Seeking,"vector class in java
+",A0047
+Knowledge Seeking,"making labels bold
+",A0047
+Others,"making jlabels bold
+",A0047
+Others,"canvaspanel
+",A0047
+Problem Solving,"while and if loops
+",A0048
+Knowledge Seeking,"users enter input into an array
+",A0048
+Knowledge Seeking,"how to add all positive integers entered
+",A0048
+Others,"java how to add all positive integers entered
+",A0048
+Problem Solving,"merge sort
+",A0048
+Problem Solving,"merge sort
+",A0048
+Problem Solving,"3=partition merge sort
+",A0048
+Others,"3-partition merge sort
+",A0048
+Problem Solving,"parse string to int
+",A0049
+Problem Solving,"parse string to int java
+",A0049
+Problem Solving,"java mouselistener
+",A0049
+Knowledge Seeking,"java add mouselistener
+",A0049
+Knowledge Seeking,"java clear canvas
+",A0049
+Knowledge Seeking,"java how to clear canvas
+",A0049
+Knowledge Seeking,"java difference between getx and getxonscreen
+",A0049
+Knowledge Seeking,"java getxonscreen
+",A0049
+Knowledge Seeking,"java arraylist remove
+",A0049
+Knowledge Seeking,"java switch
+",A0049
+Problem Solving,"java nested class error
+",A0049
+Knowledge Seeking,"how to java
+",A0050
+Knowledge Seeking,"how to get input from the user
+",A0050
+Others,"how to cin in java
+",A0050
+Others,"how to read from standard input
+",A0050
+Others,"how to initialize an array
+",A0050
+Knowledge Seeking,"what is this.
+",A0050
+Others,"what is the function of this.
+",A0050
+Others,"do while loop.
+",A0050
+Others,"do while loop.in java
+",A0050
+Others,"java do while loop
+",A0050
+Knowledge Seeking,"do while loop
+",A0050
+Knowledge Seeking,"do while loop
+",A0050
+Others,"java do while loop
+",A0050
+Knowledge Seeking,"arrays
+",A0050
+Others,"how to initialize an array
+",A0050
+Knowledge Seeking,"how to declare a new int
+",A0050
+Knowledge Seeking,"java classes
+",A0052
+Knowledge Seeking,"3 partition merge sort
+",A0052
+Others,"3 partition merge sort of array list
+",A0052
+Others,"implementation of 3 part merge sort
+",A0052
+Others,"implementation of 3 partition merge sort
+",A0052
+Knowledge Seeking,"throwing an exception
+",A0052
+Knowledge Seeking,"throwing an exception java
+",A0052
+Knowledge Seeking,"what is throwing an exception java?
+",A0052
+Knowledge Seeking,"compareTo linkedlists
+",A0052
+Knowledge Seeking,"currency format
+",A0054
+Knowledge Seeking,"scanner
+",A0054
+Method Learning,"scanner
+",A0054
+Problem Solving,"parseint
+",A0054
+Knowledge Seeking,"java for loop syntax
+",A0056
+Knowledge Seeking,"what does static mean in Java
+",A0056
+Knowledge Seeking,"Vectors in Java
+",A0056
+Knowledge Seeking,"using arrays java
+",A0056
+Knowledge Seeking,"arrays java
+",A0056
+Others,"using arrays
+",A0056
+Others,"using arrays java
+",A0056
+Knowledge Seeking,"copy constructor java
+",A0056
+Method Learning,"deep copy constructor java
+",A0056
+Knowledge Seeking,"static classes
+",A0056
+Knowledge Seeking,"Merge Sort
+",A0056
+Others,"Merge Sort arraylist
+",A0056
+Knowledge Seeking,"3-partition merge sort
+",A0057
+Knowledge Seeking,"partition input array
+",A0057
+Knowledge Seeking,"merge sort
+",A0059
+Knowledge Seeking,"thenewboston
+",A0061
+Problem Solving,"result += 4 - j
+",A0061
+Others,"what does += do
+",A0061
+Others,"+=
+",A0061
+Knowledge Seeking,"rectangle class
+",A0061
+Knowledge Seeking,"rectangle arguments
+",A0061
+Problem Solving,"printing an array in MIPS
+",A0061
+Method Learning,"how to check if there is overflow in MIPS
+",A0061
+Method Learning,"overflow in MIPS
+",A0061
+Knowledge Seeking,"how does MARS store data
+",A0061
+Method Learning,"implementing borderlayout
+",A0061
+Method Learning,"UpdateUI
+",A0061
+Method Learning,"initializing a Color object
+",A0061
+Others,"initializing a Color object in java
+",A0061
+Others,"Color 
+",A0061
+Others,"Color object in java
+",A0061
+Knowledge Seeking,"Mergesort
+",A0061
+Problem Solving,"splitting an array
+",A0061
+Others,"splitting an array java
+",A0061
+Problem Solving,"java string to array
+",A0064
+Problem Solving,"covert string to int array in java
+",A0064
+Problem Solving,"read string into array in java
+",A0064
+Others,"java convert string array to int array
+",A0064
+Others,"how to read string with both positive and negative integers into array
+",A0064
+Knowledge Seeking,"merge sort
+",A0064
+Problem Solving,"merge arrays to sorted result
+",A0064
+Others,"merge arrays to sorted result java
+",A0064
+Problem Solving,"merge sort trivial case java
+",A0064
+Method Learning,"initialize array list
+",A0065
+Problem Solving,"how to add whitespace in spim
+",A0066
+Knowledge Seeking,"spim when are registers cleared
+",A0066
+Knowledge Seeking,"mips not adding correctly
+",A0066
+Method Learning,"mips registers address and memory
+",A0066
+Method Learning,"mips registers address and memory
+",A0066
+Method Learning,"mips what does lw do?
+",A0066
+Others,"JTextArea
+",A0066
+Others,"jtextarea getText
+",A0066
+Problem Solving,"java insertion sort
+",A0066
+Method Learning,"for loops
+",A0067
+Method Learning,"gridbag layout
+",A0067
+Knowledge Seeking,"adding object to array
+",A0067
+Others,"adding to array
+",A0067
+Others,"color
+",A0067
+Others,"color black
+",A0067
+Others,"java color code
+",A0067
+Knowledge Seeking,"button group
+",A0067
+Problem Solving,"2 partition merge sort
+",A0067
+Problem Solving,"2 partition merge sort
+",A0067
+Knowledge Seeking,"ordered number array
+",A0067
+Others,"ordered number array java
+",A0067
+Method Learning,"order numbers in an array
+",A0067
+Method Learning,"merge array list
+",A0067
+Method Learning,"3-partition merge sort
+",A0067
+Problem Solving,"merge sort
+",A0069
+Others,"3-part merge sort
+",A0069
+Others,"3-partition merge sort
+",A0069
+Others,"3-partition merge sort arraylist
+",A0069
+Others,"inheritance/super
+",A0071
+Problem Solving,"arraylist syntax
+",A0071
+Others,"arraylist getters
+",A0071
+Others,"arraylist getters and setters
+",A0071
+Others,"how to get elements from arraylist
+",A0071
+Others,"how to access elements in arraylist
+",A0071
+Others,"merge sort
+",A0071
+Knowledge Seeking,"java for loop syntax
+",A0073
+Knowledge Seeking,"abstract class
+",A0073
+Knowledge Seeking,"where do you import Number format class from
+",A0073
+Knowledge Seeking,"parse
+",A0073
+Method Learning,"parse in java
+",A0073
+Problem Solving,"3 partition merge sort
+",A0073
+Problem Solving,"get ith term in arraylist
+",A0073
+Others,"get i term in arraylist
+",A0073
+Knowledge Seeking,"different types of layouts in java
+",A0073
+Method Learning,"jsplitpane
+",A0073
+Knowledge Seeking,"serializable interface
+",A0073
+Knowledge Seeking,"enhanced for loop
+",A0074
+Knowledge Seeking,"java enhanced for loop
+",A0074
+Knowledge Seeking,"java enhanced for loop
+",A0074
+Knowledge Seeking,"java static modifier
+",A0074
+Knowledge Seeking,"java arraylist
+",A0074
+Knowledge Seeking,"java netbeans javadoc generation
+",A0074
+Knowledge Seeking,"python best ide
+",A0074
+Knowledge Seeking,"java inheritance constuctor
+",A0074
+Knowledge Seeking,"java using constructor in another class
+",A0074
+Knowledge Seeking,"java access default constructor
+",A0074
+Knowledge Seeking,"java access default constructor from another class
+",A0074
+Knowledge Seeking,"java dot operations
+",A0074
+Knowledge Seeking,"java new objects
+",A0074
+Knowledge Seeking,"java create new objects
+",A0074
+Knowledge Seeking,"r convert probability to z 
+",A0074
+Knowledge Seeking,"command prompt
+",A0074
+Knowledge Seeking,"java automate input read
+",A0074
+Knowledge Seeking,"java bat files
+",A0074
+Knowledge Seeking,"java javac.exe
+",A0074
+Knowledge Seeking,"java change dir
+",A0074
+Knowledge Seeking,"java netbean change dir
+",A0074
+Knowledge Seeking,"java google api
+",A0074
+Knowledge Seeking,"java store web to txt
+",A0074
+Knowledge Seeking,"java save web to txt
+",A0074
+Knowledge Seeking,"java extract information from web
+",A0074
+Knowledge Seeking,"java combobox
+",A0074
+Knowledge Seeking,"java super
+",A0074
+Knowledge Seeking,"java abstract
+",A0074
+Knowledge Seeking,"java this
+",A0074
+Knowledge Seeking,"java malform exception
+",A0074
+Others,"java malformexception
+",A0074
+Knowledge Seeking,"java polumorphism
+",A0074
+Knowledge Seeking,"java polymorphism
+",A0074
+Knowledge Seeking,"java number format
+",A0074
+Knowledge Seeking,"java enhance for loop
+",A0074
+Knowledge Seeking,"java array initialization
+",A0074
+Others,"java array
+",A0074
+Knowledge Seeking,"java polymorphism
+",A0074
+Knowledge Seeking,"button listener
+",A0074
+Knowledge Seeking,"java vector
+",A0074
+Knowledge Seeking,"insert element into array java
+",A0074
+Knowledge Seeking,"java color class
+",A0074
+Knowledge Seeking,"java Radio Buttons
+",A0074
+Knowledge Seeking,"java swtich
+",A0074
+Knowledge Seeking,"merge sort
+",A0074
+Knowledge Seeking,"increasing sort
+",A0074
+Knowledge Seeking,"merge sort
+",A0074
+Knowledge Seeking,"merge sort divided in 3
+",A0074
+Knowledge Seeking,"netbeans run applet
+",A0074
+Knowledge Seeking,"compare stringd
+",A0074
+Knowledge Seeking,"compare strings
+",A0074
+Knowledge Seeking,"java compare string alphabetically
+",A0074
+Knowledge Seeking,"java recursive find min
+",A0074
+Knowledge Seeking,"insertion sort java
+",A0074
+Knowledge Seeking,"sort comparator
+",A0074
+Knowledge Seeking,"solve recursive
+",A0074
+Knowledge Seeking,"java access node linkedlist
+",A0074
+Knowledge Seeking,"java remove element at index
+",A0074
+Knowledge Seeking,"stack
+",A0074
+Knowledge Seeking,"3 partition merge sort
+",A0075
+Problem Solving,"merge sort
+",A0075
+Problem Solving,"merge sort arraylist
+",A0075
+Method Learning,"3 partition merge sort
+",A0077
+Method Learning,"3 way merge sort
+",A0077
+Others,"merge sort 3 partition
+",A0077
+Knowledge Seeking,"merge sort
+",A0077
+Method Learning,"partition merge sort
+",A0077
+Problem Solving,"scanner never closes
+",A0080
+Knowledge Seeking,"how to use variable from another method
+",A0080
+Knowledge Seeking,"Calling a function and getting value from variable in that method
+",A0080
+Others,"Calling a function 
+",A0080
+Others,"Calling a function java
+",A0080
+Others,"displaying variables from other function
+",A0080
+Others,"displaying variables from other method java
+",A0080
+Others,"how to get more than one input
+",A0080
+Knowledge Seeking,"passing variables to main method
+",A0080
+Others,"passing variables to main method java
+",A0080
+Knowledge Seeking,"how to use stringto()
+",A0080
+Others,"how to use toString()
+",A0080
+Others,"toString
+",A0080
+Others,"toString
+",A0080
+Others,"toString() java
+",A0080
+Knowledge Seeking,"lineToParse
+",A0080
+Others,"lineToParse java
+",A0080
+Knowledge Seeking,"merge sort examples java
+",A0080
+Others,"merge sort examples  arraylisr java
+",A0080
+Others,"merge sort arraylist java
+",A0080
+Knowledge Seeking,"read number sequence from console
+",A0080
+Others,"read number sequence from console java
+",A0080
+Knowledge Seeking,"merge sort
+",A0081
+Problem Solving,"assign new value to arraylist 
+",A0081
+Problem Solving,"merge sort using arraylist
+",A0081
+Problem Solving,"switch values in arraylist size 2
+",A0081
+Problem Solving,"Switch values in arraylist
+",A0081
+Knowledge Seeking,"Switch values in arraylist
+",A0081
+Method Learning,"switch values in arraylist 
+",A0081
+Knowledge Seeking,"switch values in arraylist
+",A0081
+Knowledge Seeking,"abstract classes
+",A0082
+Knowledge Seeking,"subclass
+",A0082
+Problem Solving,"/n two in a row
+",A0082
+Method Learning,"proper way to reference one class from another
+",A0084
+Others,"reference a child class
+",A0084
+Knowledge Seeking,"Do I need to have subclass variables in main class
+",A0084
+Knowledge Seeking,"java car makes inheritance
+",A0084
+Others,"java inheritance toString
+",A0084
+Knowledge Seeking,"create a reference to another class
+",A0084
+Others,"create a reference to another class java
+",A0084
+Knowledge Seeking,"What does the # mean when declaring a variable
+",A0084
+Knowledge Seeking,"What does the # mean when declaring a variable java
+",A0084
+Others,"what does number sign mean in java
+",A0084
+Method Learning,"How to get numberformat percentage
+",A0084
+Method Learning,"how to create classes within other classes
+",A0084
+Others,"how to create classes within other classes java
+",A0084
+Knowledge Seeking,"merge sort
+",A0087
+Method Learning,"java gridbaglayout
+",A0088
+Method Learning,"java getSelectedValue()
+",A0088
+Method Learning,"radio buttle
+",A0088
+Others,"Jradiobuttle
+",A0088
+Method Learning,"java radiobuttle
+",A0088
+Others,"java jradiobuttle
+",A0088
+Method Learning,"java boxlayout
+",A0088
+Method Learning,"JAVA array.size
+",A0088
+Method Learning,"java linkedlist
+",A0088
+Knowledge Seeking,"Artifical Intelligence
+",B0005
+Others,"duplicates in a vector
+",B0005
+Others,"duplicates in a vector of objects
+",B0005
+Others,"duplicates in a vector of objects Java
+",B0005
+Method Learning,"input as separate numbers
+",B0007
+Method Learning,"input numbers separated by spaces
+",B0007
+Method Learning,"input numbers separated by spaces in java
+",B0007
+Knowledge Seeking,"separate input into multiple variables
+",B0007
+Method Learning,"seperate input variables
+",B0007
+Method Learning,"while printing multiple times
+",B0007
+Problem Solving,"while loop duplicate prints
+",B0007
+Problem Solving,"print outside of while loop
+",B0007
+Problem Solving,"print outside while loop
+",B0007
+Knowledge Seeking,"eclipse wont compile
+",B0007
+Knowledge Seeking,"printing toString
+",B0007
+Problem Solving,"String toString()
+",B0007
+Others,"java String toString()
+",B0007
+Method Learning,"currancy instance
+",B0007
+Others,"currency instance
+",B0007
+Others,"java currency instance
+",B0007
+Method Learning,"java utility class
+",B0007
+Others,"java make utility class
+",B0007
+Method Learning,"java currency
+",B0007
+Knowledge Seeking,"currency instance
+",B0007
+Method Learning,"java NumberFormat currency
+",B0007
+Method Learning,"Java getText
+",B0007
+Knowledge Seeking,"Java Gui Display input
+",B0007
+Knowledge Seeking,"java put panel into pane
+",B0007
+Knowledge Seeking,"cannot convert jpanel to vector
+",B0007
+Knowledge Seeking,"java merge sort
+",B0007
+Problem Solving,"loop
+",B0009
+Knowledge Seeking,"java for loop syntax
+",B0012
+Problem Solving,"compute minimum
+",B0012
+Problem Solving,"minimum integers java
+",B0012
+Method Learning,"parse
+",B0013
+Others,"parse java
+",B0013
+Knowledge Seeking,"what is the length method
+",B0018
+Knowledge Seeking,"how do you know whats private or public
+",B0018
+Knowledge Seeking,"whats the symbol for private method
+",B0018
+Knowledge Seeking,"how to create a subclass
+",B0018
+Others,"how to create a subclass in java
+",B0018
+Method Learning,"how to write a toString
+",B0018
+Knowledge Seeking,"how to format decimals
+",B0018
+Knowledge Seeking,"how to use java.text.DecimalFormat
+",B0018
+Others,"how to use java.text.DecimalFormat in a string
+",B0018
+Knowledge Seeking,"scanner class
+",B0020
+Method Learning,"set method
+",B0020
+Others,"set method with multiple strings
+",B0020
+Others,"line to parse array
+",B0020
+Others,"line to parse split
+",B0020
+Others,"lineToParse.split
+",B0020
+Others,"run an applet program
+",B0020
+Others,"3-partition merge sort
+",B0020
+Others,"colorlistener class
+",B0020
+Knowledge Seeking,"do-while
+",B0025
+Method Learning,"finding the max integer 
+",B0025
+Others,"finding the max integer in java
+",B0025
+Method Learning,"encapsulation
+",B0025
+Method Learning,"mutating a class
+",B0025
+Knowledge Seeking,"How to call from other class
+",B0026
+Others,"How to call methods from other class
+",B0026
+Problem Solving,"call method from other class
+",B0026
+Others,"print method from other class
+",B0026
+Others,"call private method from other class
+",B0026
+Others,"print private value from other method
+",B0026
+Others,"print private value from other class
+",B0026
+Problem Solving,"parser
+",B0026
+Others,"parser java
+",B0026
+Problem Solving,"array
+",B0026
+Problem Solving,"read from
+",B0026
+Problem Solving,"read from java
+",B0026
+Others,"read string from java
+",B0026
+Knowledge Seeking,"parseInteger
+",B0026
+Knowledge Seeking,"for loops
+",B0027
+Knowledge Seeking,"accessor method
+",B0027
+Method Learning,"parse string to product
+",B0027
+Knowledge Seeking,"reading file to string java
+",B0027

@@ -1,5 +1,45 @@
 intention OVerall
-select intention , COUNT(*) intentionCount from class_query group by intention
+select 
+case intention 
+	when 'KS' then 'Knowledge Seeking'
+	when 'ML' then 'Method Learning'
+	when 'PS' then 'Problem Solving'
+	else 'Others' end, 
+COUNT(*) intentionCount from class_query group by intention order by intention
 
 intentionUserSpecific
-select u_id, intention , COUNT(*) intentionCount from class_query group by u_id, intention
+select u_id, 
+case intention 
+	when 'KS' then 'Knowledge Seeking'
+	when 'ML' then 'Method Learning'
+	when 'PS' then 'Problem Solving'
+	else 'Others' end,  
+	COUNT(*) intentionCount 
+from class_query group by u_id, intention order by u_id, intention
+
+intention query
+select case intention 
+	when 'KS' then 'Knowledge Seeking'
+	when 'ML' then 'Method Learning'
+	when 'PS' then 'Problem Solving'
+	else 'Others' end intention,
+query,u_id from class_query order by u_id
+
+
+user operation timeline
+select u_id, timestamp_actual, operation, COUNT(*) userOperationCount from class_operation 
+group by  u_id, timestamp_actual, operation
+order by u_id, timestamp_actual, operation
+
+
+operation count summary
+select operation, cast(convert (float,(COUNT(*)))/(select count (distinct u_id) from class_operation) as decimal(10,2)) 
+from class_operation group by operation
+
+user operation summary
+select  u_id, count(*) userSelectCount from class_select group by u_id
+select  u_id, count(*) userClickCount from class_click group by u_id
+
+select  'scroll_up',  u_id, count(*) userClickCount from class_operation where operation='scroll_up' group by u_id
+union
+select  'scroll_down', u_id, count(*) userClickCount from class_operation where operation='scroll_down' group by u_id

@@ -1,167 +1,167 @@
 ﻿u_id,intention,intentionCount
-A0001,KS,4
-A0005,KS,21
-A0008,KS,5
-A0009,KS,10
-A0010,KS,6
-A0011,KS,13
-A0015,KS,1
-A0019,KS,10
-A0020,KS,2
-A0021,KS,8
-A0022,KS,7
-A0024,KS,2
-A0025,KS,4
-A0029,KS,1
-A0033,KS,2
-A0034,KS,2
-A0037,KS,2
-A0039,KS,2
-A0040,KS,3
-A0041,KS,9
-A0042,KS,4
-A0043,KS,1
-A0044,KS,3
-A0046,KS,9
-A0047,KS,2
-A0048,KS,2
-A0049,KS,7
-A0050,KS,7
-A0052,KS,6
-A0054,KS,2
-A0056,KS,8
-A0057,KS,2
-A0059,KS,1
-A0061,KS,5
-A0064,KS,1
-A0066,KS,2
-A0067,KS,3
-A0073,KS,6
-A0074,KS,57
-A0075,KS,1
-A0077,KS,1
-A0080,KS,7
-A0081,KS,3
-A0082,KS,2
-A0084,KS,5
-A0087,KS,1
-B0005,KS,1
-B0007,KS,8
-B0012,KS,1
-B0018,KS,6
-B0020,KS,1
-B0025,KS,1
-B0026,KS,2
-B0027,KS,3
-A0001,ML,1
-A0005,ML,3
-A0008,ML,6
-A0018,ML,1
-A0021,ML,1
-A0024,ML,6
-A0025,ML,2
-A0026,ML,1
-A0029,ML,6
-A0033,ML,2
-A0037,ML,1
-A0040,ML,1
-A0044,ML,1
-A0046,ML,11
-A0054,ML,1
-A0056,ML,1
-A0061,ML,5
-A0065,ML,1
-A0066,ML,3
-A0067,ML,5
-A0073,ML,2
-A0077,ML,3
-A0081,ML,1
-A0084,ML,3
-A0088,ML,7
-B0007,ML,10
-B0013,ML,1
-B0018,ML,1
-B0020,ML,1
-B0025,ML,3
-B0027,ML,1
-A0001,NA,9
-A0005,NA,9
-A0008,NA,11
-A0009,NA,11
-A0010,NA,2
-A0011,NA,28
-A0018,NA,1
-A0019,NA,3
-A0020,NA,15
-A0021,NA,4
-A0022,NA,1
-A0024,NA,6
-A0025,NA,11
-A0026,NA,5
-A0029,NA,1
-A0034,NA,1
-A0039,NA,21
-A0041,NA,9
-A0042,NA,3
-A0046,NA,8
-A0047,NA,2
-A0048,NA,2
-A0050,NA,9
-A0052,NA,3
-A0056,NA,3
-A0061,NA,6
-A0064,NA,3
-A0066,NA,2
-A0067,NA,5
-A0069,NA,3
-A0071,NA,6
-A0073,NA,1
-A0074,NA,2
-A0077,NA,1
-A0080,NA,14
-A0084,NA,5
-A0088,NA,2
-B0005,NA,3
-B0007,NA,4
-B0013,NA,1
-B0018,NA,2
-B0020,NA,7
-B0025,NA,1
-B0026,NA,7
-A0005,PS,2
-A0009,PS,2
-A0010,PS,1
-A0011,PS,4
-A0018,PS,3
-A0019,PS,3
-A0020,PS,3
-A0021,PS,2
-A0022,PS,2
-A0025,PS,1
-A0026,PS,1
-A0029,PS,6
-A0030,PS,1
-A0039,PS,12
-A0041,PS,1
-A0042,PS,1
-A0044,PS,1
-A0046,PS,2
-A0047,PS,3
-A0048,PS,4
-A0049,PS,4
-A0054,PS,1
-A0061,PS,3
-A0064,PS,5
-A0066,PS,2
-A0067,PS,2
-A0069,PS,1
-A0071,PS,1
-A0073,PS,2
-A0075,PS,2
-A0080,PS,1
-A0081,PS,4
-A0082,PS,1
-B0007,PS,4
-B0009,PS,1
-B0012,PS,2
-B0026,PS,5
+A0001,Knowledge Seeking,4
+A0001,Method Learning,1
+A0001,Others,9
+A0005,Knowledge Seeking,21
+A0005,Method Learning,3
+A0005,Others,9
+A0005,Problem Solving,2
+A0008,Knowledge Seeking,5
+A0008,Method Learning,6
+A0008,Others,11
+A0009,Knowledge Seeking,10
+A0009,Others,11
+A0009,Problem Solving,2
+A0010,Knowledge Seeking,6
+A0010,Others,2
+A0010,Problem Solving,1
+A0011,Knowledge Seeking,13
+A0011,Others,28
+A0011,Problem Solving,4
+A0015,Knowledge Seeking,1
+A0018,Method Learning,1
+A0018,Others,1
+A0018,Problem Solving,3
+A0019,Knowledge Seeking,10
+A0019,Others,3
+A0019,Problem Solving,3
+A0020,Knowledge Seeking,2
+A0020,Others,15
+A0020,Problem Solving,3
+A0021,Knowledge Seeking,8
+A0021,Method Learning,1
+A0021,Others,4
+A0021,Problem Solving,2
+A0022,Knowledge Seeking,7
+A0022,Others,1
+A0022,Problem Solving,2
+A0024,Knowledge Seeking,2
+A0024,Method Learning,6
+A0024,Others,6
+A0025,Knowledge Seeking,4
+A0025,Method Learning,2
+A0025,Others,11
+A0025,Problem Solving,1
+A0026,Method Learning,1
+A0026,Others,5
+A0026,Problem Solving,1
+A0029,Knowledge Seeking,1
+A0029,Method Learning,6
+A0029,Others,1
+A0029,Problem Solving,6
+A0030,Problem Solving,1
+A0033,Knowledge Seeking,2
+A0033,Method Learning,2
+A0034,Knowledge Seeking,2
+A0034,Others,1
+A0037,Knowledge Seeking,2
+A0037,Method Learning,1
+A0039,Knowledge Seeking,2
+A0039,Others,21
+A0039,Problem Solving,12
+A0040,Knowledge Seeking,3
+A0040,Method Learning,1
+A0041,Knowledge Seeking,9
+A0041,Others,9
+A0041,Problem Solving,1
+A0042,Knowledge Seeking,4
+A0042,Others,3
+A0042,Problem Solving,1
+A0043,Knowledge Seeking,1
+A0044,Knowledge Seeking,3
+A0044,Method Learning,1
+A0044,Problem Solving,1
+A0046,Knowledge Seeking,9
+A0046,Method Learning,11
+A0046,Others,8
+A0046,Problem Solving,2
+A0047,Knowledge Seeking,2
+A0047,Others,2
+A0047,Problem Solving,3
+A0048,Knowledge Seeking,2
+A0048,Others,2
+A0048,Problem Solving,4
+A0049,Knowledge Seeking,7
+A0049,Problem Solving,4
+A0050,Knowledge Seeking,7
+A0050,Others,9
+A0052,Knowledge Seeking,6
+A0052,Others,3
+A0054,Knowledge Seeking,2
+A0054,Method Learning,1
+A0054,Problem Solving,1
+A0056,Knowledge Seeking,8
+A0056,Method Learning,1
+A0056,Others,3
+A0057,Knowledge Seeking,2
+A0059,Knowledge Seeking,1
+A0061,Knowledge Seeking,5
+A0061,Method Learning,5
+A0061,Others,6
+A0061,Problem Solving,3
+A0064,Knowledge Seeking,1
+A0064,Others,3
+A0064,Problem Solving,5
+A0065,Method Learning,1
+A0066,Knowledge Seeking,2
+A0066,Method Learning,3
+A0066,Others,2
+A0066,Problem Solving,2
+A0067,Knowledge Seeking,3
+A0067,Method Learning,5
+A0067,Others,5
+A0067,Problem Solving,2
+A0069,Others,3
+A0069,Problem Solving,1
+A0071,Others,6
+A0071,Problem Solving,1
+A0073,Knowledge Seeking,6
+A0073,Method Learning,2
+A0073,Others,1
+A0073,Problem Solving,2
+A0074,Knowledge Seeking,57
+A0074,Others,2
+A0075,Knowledge Seeking,1
+A0075,Problem Solving,2
+A0077,Knowledge Seeking,1
+A0077,Method Learning,3
+A0077,Others,1
+A0080,Knowledge Seeking,7
+A0080,Others,14
+A0080,Problem Solving,1
+A0081,Knowledge Seeking,3
+A0081,Method Learning,1
+A0081,Problem Solving,4
+A0082,Knowledge Seeking,2
+A0082,Problem Solving,1
+A0084,Knowledge Seeking,5
+A0084,Method Learning,3
+A0084,Others,5
+A0087,Knowledge Seeking,1
+A0088,Method Learning,7
+A0088,Others,2
+B0005,Knowledge Seeking,1
+B0005,Others,3
+B0007,Knowledge Seeking,8
+B0007,Method Learning,10
+B0007,Others,4
+B0007,Problem Solving,4
+B0009,Problem Solving,1
+B0012,Knowledge Seeking,1
+B0012,Problem Solving,2
+B0013,Method Learning,1
+B0013,Others,1
+B0018,Knowledge Seeking,6
+B0018,Method Learning,1
+B0018,Others,2
+B0020,Knowledge Seeking,1
+B0020,Method Learning,1
+B0020,Others,7
+B0025,Knowledge Seeking,1
+B0025,Method Learning,3
+B0025,Others,1
+B0026,Knowledge Seeking,2
+B0026,Others,7
+B0026,Problem Solving,5
+B0027,Knowledge Seeking,3
+B0027,Method Learning,1
