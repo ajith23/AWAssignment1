@@ -6,7 +6,7 @@ using System.IO;
 
 namespace WebApp
 {
-    public static class Utility
+    public static class UtilityLocal
     {
         public static void TransformFile(string filePath, string newFilePath)
         {

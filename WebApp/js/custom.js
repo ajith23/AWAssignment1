@@ -9,8 +9,6 @@
             $('#userQuery').html("");
             var value = d3.select(this).property("value");
             fetchSelectedUserIntentionChartData(value);
-            fetchUserOperationTimeSeriesData(value);
-            //alert(value);
         });
 
         selectUser.selectAll("option")
@@ -23,13 +21,14 @@
 
 
     loadUserContributionListDiv();
+    loadUserOperationListDiv();
     fetchAllUserIntentionChartData();
     fetchSelectedUserIntentionChartData('A0001');
     fetchUserOperationTimeSeriesData('A0001');
     loadContribution('A0001');
-    //fetchUrlClickCountScatterChartData();
+    fetchUrlClickCountScatterChartData();
     //generateBubbleChart();
-    //generateUserClickCountReport();
+    generateUserClickCountReport();
     fetchOperationSummaryChartData();
 });
 
@@ -54,6 +53,28 @@ function loadUserContributionListDiv()
     });
 }
 
+function loadUserOperationListDiv() {
+    d3.csv("data/queryOutput/userListForDropDown.csv", function (error, data) {
+        var selectUser = d3.select("#userOperationListDiv")
+          .append("div")
+          .append("select")
+
+        selectUser.on("change", function (d) {
+            var value = d3.select(this).property("value");
+            fetchUserOperationTimeSeriesData(value);
+        });
+
+        selectUser.selectAll("option")
+          .data(data)
+          .enter()
+            .append("option")
+            .attr("value", function (d) { return d.value; })
+            .text(function (d) { return d.label; });
+    });
+}
+
+
+//1
 function generateAllUserIntentionChart(chartData) {
     var chart1 = c3.generate({
         bindto: '#chartIntentionAll',
@@ -145,18 +166,19 @@ function fetchSelectedUserIntentionChartData(userId) {
 
 function fetchAndLoadSelectedUserQueries(userId, intention) {
     d3.csv("data/queryOutput/intentionQuery.csv", function (error, data) {
-        var htmlString = "<table>";
-        htmlString += '<tr><td><h4> User Queries for ' + intention + '</h4></td></tr>';
+        var htmlString = '<h4> User Queries for ' + intention + '</h4>';
+        htmlString += "<ul class='list-group'>";
         var index = 0;
         for (var i = 0; i < data.length; i++) {
             if (((data[i].u_id).localeCompare(userId) == 0) && ((data[i].intention).localeCompare(intention) == 0)) {
-                htmlString += '<tr><td>' + data[i].query + '</td></tr>';
+                htmlString += '<li class="list-group-item">' + data[i].query + '</li>';
             }
         }
-        htmlString += "</table>";
+        htmlString += "</ul>";
         $('#userQuery').html(htmlString);
     });
 }
+//end 1
 
 function fetchOperationSummaryChartData() {
     d3.csv("data/queryOutput/urlOperationSummary.csv", function (error, data) {
@@ -254,7 +276,6 @@ function generateUrlOperationSummaryChart(chartData) {
         }
     });
 }
-//------------------------------------------------------------------------
 
 function generateUserOperationTimeSeriesChart(chartData) {
     var chart = c3.generate({
@@ -364,35 +385,12 @@ function fetchUserOperationTimeSeriesData(userId) {
         columnArray[7] = sCountArray;
         
         generateUserOperationTimeSeriesChart(columnArray);
-        $('#chartUserOperationTimeSeriesHeader').html('Opeartion History for ' + userId);
-    });
-}
-
-function generateUrlClickCountScatterChart(chartData) {
-    var chart = c3.generate({
-        bindto: '#urlClickScatterChart',
-        data: {
-            columns: chartData,
-            type: 'scatter'
-        }
-
-    });
-}
-
-function fetchUrlClickCountScatterChartData() {
-    d3.csv("data/queryOutput/urlClickCountSummary.csv", function (error, data) {
-        var columnArray = [];
-        for (var i = 0; i < data.length; i++) {
-            var cellArray = [];
-            cellArray[0] = data[i].url;
-            cellArray[1] = data[i].clickCount;
-            columnArray[i] = cellArray;
-        }
-        generateUrlClickCountScatterChart(columnArray);
+        $('#chartUserOperationTimeSeriesHeader').html('Operation History for ' + userId);
     });
 }
 
 
+//3
 function generateUserClickCountReport() {
     var diameter = 500,
     format = d3.format(",d"),
