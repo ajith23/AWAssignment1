@@ -61,6 +61,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="about.html" />
     <Content Include="css\c3.min.css" />
     <Content Include="data\queryOutput\query.txt" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -91,6 +92,7 @@
     <Content Include="data\queryOutput\userSelectCountReport.csv" />
     <Content Include="data\queryOutput\userOperationTimeline.csv" />
     <Content Include="data\queryOutput\operationCountSummary.csv" />
+    <None Include="Properties\PublishProfiles\local publish.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

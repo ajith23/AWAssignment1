@@ -26,6 +26,7 @@
     fetchAllUserIntentionChartData();
     fetchSelectedUserIntentionChartData('A0001');
     fetchUserOperationTimeSeriesData('A0001');
+    loadContribution('A0001');
     //fetchUrlClickCountScatterChartData();
     //generateBubbleChart();
     //generateUserClickCountReport();
@@ -275,6 +276,9 @@ function generateUserOperationTimeSeriesChart(chartData) {
         },
         zoom: {
             enabled: true
+        },
+        subchart: {
+            show: true
         },
         //subchart: {
         //    show: true
